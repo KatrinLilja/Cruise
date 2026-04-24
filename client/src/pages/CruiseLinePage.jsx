@@ -75,11 +75,6 @@ export default function CruiseLinePage() {
 
       {/* Hero card */}
       <div className="bg-white rounded-2xl shadow-sm border border-gray-100 p-8 mb-10 flex flex-col sm:flex-row gap-6 items-start">
-        {cruiseLine.logo && (
-          <div className="shrink-0 w-40 h-24 bg-ocean-50 rounded-xl flex items-center justify-center p-3">
-            <img src={cruiseLine.logo} alt={`${cruiseLine.name} logo`} className="max-h-full max-w-full object-contain" onError={e => { e.target.style.display='none'; }} />
-          </div>
-        )}
         <div className="flex-1">
           <h1 className="text-3xl font-bold text-gray-900">{cruiseLine.name}</h1>
           <p className="text-gray-500 mt-3 leading-relaxed">{cruiseLine.description}</p>
