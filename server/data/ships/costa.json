@@ -1,0 +1,468 @@
+[
+  {
+    "id": "costa-fortuna",
+    "regions": ["Mediterranean", "Caribbean"],
+    "homeport": "Savona, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Fortuna",
+    "year_built": 2003,
+    "gross_tonnage": 102669,
+    "passenger_capacity": 2720,
+    "crew": 1068,
+    "length_m": 272,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Costa_Fortuna_Marseille_18_May_2019.jpg/1280px-Costa_Fortuna_Marseille_18_May_2019.jpg",
+    "ship_class": "Destiny class",
+    "description": "Costa Fortuna entered service in 2003 and is a Destiny-class ship, sharing her design with Carnival Triumph and Carnival Victory. Her interiors pay homage to classic ocean liners with scale models of historic Italian ships displayed throughout. She primarily sails Mediterranean and Caribbean itineraries.",
+    "amenities": {
+      "dining": [
+        "Michelangelo & Raffaello Restaurants (main dining)",
+        "Lido Buffet",
+        "Club Restaurant (specialty, fee applies)",
+        "Pizza Bar",
+        "Grill",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "Carnival Theatre (main show lounge)",
+        "Casino Royale",
+        "L'Autre Bar nightclub",
+        "Disco",
+        "Live music in multiple lounges",
+        "Cinema"
+      ],
+      "recreation": [
+        "2 swimming pools",
+        "4 whirlpools",
+        "Samsara Spa",
+        "Fitness center",
+        "Sports deck",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-serena",
+    "regions": ["Asia", "Indian Ocean"],
+    "homeport": "Shanghai, China",
+    "cruiseLineId": "costa",
+    "name": "Costa Serena",
+    "year_built": 2007,
+    "gross_tonnage": 114500,
+    "passenger_capacity": 3000,
+    "crew": 1090,
+    "length_m": 290,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Costa_Serena_arriva_a_Rio_-_panoramio.jpg/1280px-Costa_Serena_arriva_a_Rio_-_panoramio.jpg",
+    "ship_class": "Concordia class",
+    "description": "Costa Serena is a Concordia-class ship that entered service in 2007. Themed around astrology and the zodiac, her public spaces are named after celestial signs. She primarily operates itineraries in Asia and the Indian Ocean, catering to a multi-cultural international audience.",
+    "amenities": {
+      "dining": [
+        "Ceres & Vesta Restaurants (main dining)",
+        "Lido Buffet",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (spa dining, fee applies)",
+        "Pizza & Pasta Bar",
+        "Grill"
+      ],
+      "entertainment": [
+        "Colosseo Theatre",
+        "Casino",
+        "Coral Lounge",
+        "Disco",
+        "Live music venues",
+        "Cinema"
+      ],
+      "recreation": [
+        "Samsara Spa (wellness centre)",
+        "2 swimming pools",
+        "4 whirlpools",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-pacifica",
+    "regions": ["Mediterranean"],
+    "homeport": "Savona, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Pacifica",
+    "year_built": 2009,
+    "gross_tonnage": 114500,
+    "passenger_capacity": 3000,
+    "crew": 1090,
+    "length_m": 290,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Costa_Pacifica_-_IMO_9378498_-_in_Le_Havre_port-9865.jpg/1280px-Costa_Pacifica_-_IMO_9378498_-_in_Le_Havre_port-9865.jpg",
+    "ship_class": "Concordia class",
+    "description": "Costa Pacifica entered service in 2009 and is the sister ship of Costa Serena. Themed around music, her décor celebrates iconic instruments and composers. She sails Mediterranean itineraries from her homeport of Savona, Italy, offering a distinctly Italian cruise experience for European guests.",
+    "amenities": {
+      "dining": [
+        "Samsara Restaurant (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Lido Buffet",
+        "Pizza & Pasta Bar",
+        "Grill",
+        "Cafeteria"
+      ],
+      "entertainment": [
+        "The Voice of the Ocean Theatre",
+        "Casino",
+        "London Bar",
+        "Disco",
+        "Live music venues",
+        "Cinema"
+      ],
+      "recreation": [
+        "Samsara Spa",
+        "2 swimming pools",
+        "4 whirlpools",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-deliziosa",
+    "regions": ["Mediterranean", "South America", "Asia"],
+    "homeport": "Venice, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Deliziosa",
+    "year_built": 2010,
+    "gross_tonnage": 92720,
+    "passenger_capacity": 2826,
+    "crew": 924,
+    "length_m": 294,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Costa_Deliziosa_IMO_9398917_P_Split_08-10-2023_%281%29.jpg/1280px-Costa_Deliziosa_IMO_9398917_P_Split_08-10-2023_%281%29.jpg",
+    "ship_class": "Luminosa class",
+    "description": "Costa Deliziosa is a Luminosa-class ship that entered service in 2010. Her design represents a hybrid between the earlier Atlantica-class and Vista-class platforms, offering an elegant mid-size ship experience. She is known for world cruise itineraries and extensive global deployments including South America and Asia.",
+    "amenities": {
+      "dining": [
+        "Ristorante Deliziosa (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Lido Buffet",
+        "Caffè Deliziosa",
+        "Pizza & Pasta Bar",
+        "Grill"
+      ],
+      "entertainment": [
+        "Osiris Theatre",
+        "Casino",
+        "Maya Bar",
+        "Disco",
+        "Live music venues",
+        "Grand Prix Simulator"
+      ],
+      "recreation": [
+        "Samsara Spa & Wellness Centre",
+        "Thalassotherapy pool",
+        "Outdoor pool",
+        "Whirlpools",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-favolosa",
+    "regions": ["Northern Europe", "Mediterranean"],
+    "homeport": "Trieste, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Favolosa",
+    "year_built": 2011,
+    "gross_tonnage": 114500,
+    "passenger_capacity": 3780,
+    "crew": 1090,
+    "length_m": 290,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Costa-favolosa_hg.jpg/1280px-Costa-favolosa_hg.jpg",
+    "ship_class": "Favolosa class",
+    "description": "Costa Favolosa entered service in 2011 as a modified Concordia-class ship with enhanced dining and spa facilities. Themed around fairy tales and wonder, she offers a larger capacity than her Concordia predecessors. She primarily sails Northern European and Mediterranean routes.",
+    "amenities": {
+      "dining": [
+        "Ristorante Favolosa (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (spa dining, fee applies)",
+        "Lido Buffet",
+        "Pizza Bar",
+        "Grill"
+      ],
+      "entertainment": [
+        "Liverpool Theatre",
+        "Casino",
+        "Bar Favolosa",
+        "Disco",
+        "Live music venues",
+        "Cinema"
+      ],
+      "recreation": [
+        "Samsara Spa",
+        "2 swimming pools",
+        "5 whirlpools",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-fascinosa",
+    "regions": ["Mediterranean", "Transatlantic", "Northern Europe"],
+    "homeport": "Trieste, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Fascinosa",
+    "year_built": 2012,
+    "gross_tonnage": 114500,
+    "passenger_capacity": 3780,
+    "crew": 1090,
+    "length_m": 290,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Costa_Fascinosa_in_2018.18.jpg/1280px-Costa_Fascinosa_in_2018.18.jpg",
+    "ship_class": "Favolosa class",
+    "description": "Costa Fascinosa is the sister ship of Costa Favolosa, entering service in 2012. Themed around mythology and legend, she completed Costa's twin-ship Favolosa class. She has been deployed on Mediterranean, Northern European, and transatlantic itineraries, and is popular with European cruisers seeking an authentic Italian at-sea experience.",
+    "amenities": {
+      "dining": [
+        "Ristorante Fascinosa (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (spa dining, fee applies)",
+        "Lido Buffet",
+        "Pizza Bar",
+        "Grill"
+      ],
+      "entertainment": [
+        "Liverpool Theatre",
+        "Casino",
+        "Bar Fascinosa",
+        "Disco",
+        "Live music venues",
+        "Cinema"
+      ],
+      "recreation": [
+        "Samsara Spa",
+        "2 swimming pools",
+        "5 whirlpools",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club)",
+        "Pool access"
+      ]
+    }
+  },
+  {
+    "id": "costa-diadema",
+    "regions": ["Mediterranean"],
+    "homeport": "Savona, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Diadema",
+    "year_built": 2014,
+    "gross_tonnage": 133019,
+    "passenger_capacity": 3724,
+    "crew": 1253,
+    "length_m": 306,
+    "decks": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Costa_Diadema_Palma_2019-10-29_11.jpg/1280px-Costa_Diadema_Palma_2019-10-29_11.jpg",
+    "ship_class": "Diadema class",
+    "description": "Costa Diadema is the largest ship to have been built specifically for the European cruise market at the time of her debut in 2014. A modified Dream-class vessel, she was designed to appeal to the Italian and European market with rich décor inspired by Italian art and fashion. She homeports in Savona and sails Mediterranean itineraries year-round.",
+    "amenities": {
+      "dining": [
+        "Ristorante Diadema (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (spa dining, fee applies)",
+        "Lido Buffet",
+        "Pizzeria",
+        "Grill",
+        "Gelato Bar"
+      ],
+      "entertainment": [
+        "Grand Theatre (4-deck show lounge)",
+        "Casino Royale",
+        "Capital Club",
+        "Disco",
+        "Karaoke bar",
+        "Live music venues",
+        "Cinema"
+      ],
+      "recreation": [
+        "Samsara Spa (largest at sea for Costa)",
+        "3 outdoor pools",
+        "6 whirlpools",
+        "Fitness center",
+        "Climbing wall",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf",
+        "Water slides"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club for ages 3–17)",
+        "Pool and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "costa-smeralda",
+    "regions": ["Mediterranean", "Northern Europe"],
+    "homeport": "Savona, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Smeralda",
+    "year_built": 2019,
+    "gross_tonnage": 185010,
+    "passenger_capacity": 5224,
+    "crew": 1648,
+    "length_m": 337,
+    "decks": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Costa_Smeralda_in_Savona_%28September_2020%29.jpg/1280px-Costa_Smeralda_in_Savona_%28September_2020%29.jpg",
+    "ship_class": "Excellence class",
+    "description": "Costa Smeralda is Costa's largest and most advanced ship, debuting in December 2019 as the second cruise ship in the world to be powered by liquefied natural gas (LNG). An Excellence-class vessel, she was designed to embody 'La Dolce Vita' with 19 restaurants and bars and spectacular Italian-inspired spaces. She homeports in Savona for year-round Western Mediterranean sailings.",
+    "amenities": {
+      "dining": [
+        "Ristorante Archipelago (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (wellness dining, fee applies)",
+        "Lido Marketplace buffet",
+        "Pizzeria",
+        "Asian Street Food",
+        "Grill",
+        "Gelato & Coffee Bar",
+        "Cocktail Bar"
+      ],
+      "entertainment": [
+        "Grand Theatre (4 decks)",
+        "Casino",
+        "Colosseum Club",
+        "Top 16 outdoor lounge (adults-only)",
+        "Live music venues",
+        "Cinema",
+        "Virtual reality experiences"
+      ],
+      "recreation": [
+        "Samsara Spa & Wellness Centre",
+        "Top 16 pool (adults-only, fee applies)",
+        "3 outdoor pools",
+        "8 whirlpools",
+        "Fitness center",
+        "Water slides",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club for ages 3–17)",
+        "Pool and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "costa-toscana",
+    "regions": ["Mediterranean", "Northern Europe"],
+    "homeport": "Savona, Italy",
+    "cruiseLineId": "costa",
+    "name": "Costa Toscana",
+    "year_built": 2021,
+    "gross_tonnage": 185010,
+    "passenger_capacity": 5224,
+    "crew": 1648,
+    "length_m": 337,
+    "decks": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Costa_Toscana_%28ship%29_in_September_2021_%28cropped%29.jpg/1280px-Costa_Toscana_%28ship%29_in_September_2021_%28cropped%29.jpg",
+    "ship_class": "Excellence class",
+    "description": "Costa Toscana is the sister ship of Costa Smeralda and the newest ship in the Costa fleet, entering service in late 2021. Like her sister, she is LNG-powered and belongs to the Excellence class. Themed around the landscapes and culture of Tuscany, she sails Western Mediterranean and North European itineraries, bringing Costa's most modern and sustainable ship to guests across Europe.",
+    "amenities": {
+      "dining": [
+        "Ristorante Toscana (main dining)",
+        "Club Restaurant (specialty, fee applies)",
+        "Samsara Restaurant (wellness dining, fee applies)",
+        "Lido Marketplace buffet",
+        "Pizzeria",
+        "Asian Street Food",
+        "Grill",
+        "Gelato & Coffee Bar",
+        "Cocktail Bar"
+      ],
+      "entertainment": [
+        "Grand Theatre (4 decks)",
+        "Casino",
+        "Colosseum Club",
+        "Top 16 outdoor lounge (adults-only)",
+        "Live music venues",
+        "Cinema",
+        "Virtual reality experiences"
+      ],
+      "recreation": [
+        "Samsara Spa & Wellness Centre",
+        "Top 16 pool (adults-only, fee applies)",
+        "3 outdoor pools",
+        "8 whirlpools",
+        "Fitness center",
+        "Water slides",
+        "Sports court",
+        "Jogging track",
+        "Mini-golf"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Buffet",
+        "Entertainment shows",
+        "Kids club (Costa Club for ages 3–17)",
+        "Pool and fitness center access"
+      ]
+    }
+  }
+]

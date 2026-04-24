@@ -1,0 +1,218 @@
+[
+  {
+    "id": "azamara-journey",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean", "Asia"],
+    "homeport": "Lisbon, Portugal",
+    "cruiseLineId": "azamara",
+    "name": "Azamara Journey",
+    "year_built": 2000,
+    "gross_tonnage": 30277,
+    "passenger_capacity": 694,
+    "crew": 407,
+    "length_m": 181,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Azamara_Journey%2C_Fremantle%2C_2018_%2804%29.jpg/1280px-Azamara_Journey%2C_Fremantle%2C_2018_%2804%29.jpg",
+    "ship_class": "R class",
+    "description": "Azamara Journey is the flagship of Azamara Cruises, originally built in 2000 as R Six for Renaissance Cruises. After sailing under Pullmantur Cruises as Blue Dream, she joined the Azamara fleet in 2007. Extensively renovated in 2016 and 2022, she offers intimate destination-immersive voyages carrying fewer than 700 guests to ports that larger ships can't reach.",
+    "amenities": {
+      "dining": [
+        "Windows Café (panoramic buffet)",
+        "Discoveries Restaurant (main dining, open seating)",
+        "Aqualina (Italian specialty, fee applies)",
+        "Prime C (steakhouse specialty, fee applies)",
+        "The Patio at Windows Café (al fresco)",
+        "Pool Grill (casual)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Living Room (main lounge and bar)",
+        "The Den (intimate lounge)",
+        "Looking Glass Lounge (observation deck bar)",
+        "Cabaret lounge shows",
+        "Casino",
+        "AzAmazing Evenings (exclusive shore event, included)",
+        "Live music nightly",
+        "Movies Under the Stars"
+      ],
+      "recreation": [
+        "The Sanctum Spa & Salon",
+        "Fitness center",
+        "Pool deck with whirlpools",
+        "Jogging track",
+        "Golf simulator",
+        "Library"
+      ],
+      "included": [
+        "Open-seating dining in Discoveries Restaurant",
+        "All gratuities",
+        "Complimentary spirits, international beers and wines",
+        "Self-service laundry",
+        "AzAmazing Evening shore event",
+        "Fitness center and pool access",
+        "English butler service for suite guests"
+      ]
+    }
+  },
+  {
+    "id": "azamara-quest",
+    "regions": ["Mediterranean", "Asia", "Northern Europe", "Indian Ocean"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "azamara",
+    "name": "Azamara Quest",
+    "year_built": 2000,
+    "gross_tonnage": 30277,
+    "passenger_capacity": 686,
+    "crew": 408,
+    "length_m": 181,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Azamara_Quest_%28ship%2C_2000%29_IMO_9210218%3B_Split%2C_2013-09-29_%281%29.jpg/1280px-Azamara_Quest_%28ship%2C_2000%29_IMO_9210218%3B_Split%2C_2013-09-29_%281%29.jpg",
+    "ship_class": "R class",
+    "description": "Azamara Quest entered service in 2000 as R Seven for Renaissance Cruises and joined the Azamara fleet in 2007. Sister ship to Azamara Journey, she underwent significant refurbishments in 2012 and 2018. She frequently sails Mediterranean, Black Sea, and Asia itineraries, spending more time in port than most cruise ships so guests can truly explore each destination.",
+    "amenities": {
+      "dining": [
+        "Windows Café (panoramic buffet)",
+        "Discoveries Restaurant (main dining, open seating)",
+        "Aqualina (Italian specialty, fee applies)",
+        "Prime C (steakhouse specialty, fee applies)",
+        "The Patio at Windows Café (al fresco)",
+        "Pool Grill (casual)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Living Room (main lounge and bar)",
+        "The Den (intimate lounge)",
+        "Looking Glass Lounge (observation deck bar)",
+        "Cabaret lounge shows",
+        "Casino",
+        "AzAmazing Evenings (exclusive shore event, included)",
+        "Live music nightly",
+        "Movies Under the Stars"
+      ],
+      "recreation": [
+        "The Sanctum Spa & Salon",
+        "Fitness center",
+        "Pool deck with whirlpools",
+        "Jogging track",
+        "Golf simulator",
+        "Library"
+      ],
+      "included": [
+        "Open-seating dining in Discoveries Restaurant",
+        "All gratuities",
+        "Complimentary spirits, international beers and wines",
+        "Self-service laundry",
+        "AzAmazing Evening shore event",
+        "Fitness center and pool access",
+        "English butler service for suite guests"
+      ]
+    }
+  },
+  {
+    "id": "azamara-pursuit",
+    "regions": ["Australia & New Zealand", "Asia", "Indian Ocean", "Mediterranean"],
+    "homeport": "Singapore",
+    "cruiseLineId": "azamara",
+    "name": "Azamara Pursuit",
+    "year_built": 2001,
+    "gross_tonnage": 30277,
+    "passenger_capacity": 686,
+    "crew": 408,
+    "length_m": 180,
+    "decks": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Azamara_pursuit.jpg/1280px-Azamara_pursuit.jpg",
+    "ship_class": "R class",
+    "description": "Azamara Pursuit was built in 2001 and has had a distinguished career, sailing as Royal Princess for Princess Cruises and Adonia for P&O Cruises before joining Azamara in 2018. Renovated upon joining the fleet, she sails a wide range of itineraries including Australia, Asia, and the Indian Ocean, often calling at exclusive smaller ports inaccessible to larger vessels.",
+    "amenities": {
+      "dining": [
+        "Windows Café (panoramic buffet)",
+        "Discoveries Restaurant (main dining, open seating)",
+        "Aqualina (Italian specialty, fee applies)",
+        "Prime C (steakhouse specialty, fee applies)",
+        "The Patio at Windows Café (al fresco)",
+        "Pool Grill (casual)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Living Room (main lounge and bar)",
+        "The Den (intimate lounge)",
+        "Looking Glass Lounge (observation deck bar)",
+        "Cabaret lounge shows",
+        "Casino",
+        "AzAmazing Evenings (exclusive shore event, included)",
+        "Live music nightly",
+        "Movies Under the Stars"
+      ],
+      "recreation": [
+        "The Sanctum Spa & Salon",
+        "Fitness center",
+        "Pool deck with whirlpools",
+        "Jogging track",
+        "Golf simulator",
+        "Library"
+      ],
+      "included": [
+        "Open-seating dining in Discoveries Restaurant",
+        "All gratuities",
+        "Complimentary spirits, international beers and wines",
+        "Self-service laundry",
+        "AzAmazing Evening shore event",
+        "Fitness center and pool access",
+        "English butler service for suite guests"
+      ]
+    }
+  },
+  {
+    "id": "azamara-onward",
+    "regions": ["Northern Europe", "South America", "Mediterranean", "Transatlantic"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "azamara",
+    "name": "Azamara Onward",
+    "year_built": 1999,
+    "gross_tonnage": 30277,
+    "passenger_capacity": 688,
+    "crew": 373,
+    "length_m": 181,
+    "decks": 9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Azamara_Onward_IMO_9187887_P_Hamburg_29-08-2024_%281%29.jpg/1280px-Azamara_Onward_IMO_9187887_P_Hamburg_29-08-2024_%281%29.jpg",
+    "ship_class": "R class",
+    "description": "Azamara Onward joined the fleet in 2022 after serving as Pacific Princess for Princess Cruises for nearly two decades. Built in 1999 as R Three, she was the star of the TV show The Love Boat: The Next Wave. Fully refurbished upon joining Azamara, she completes the four-ship fleet and sails diverse worldwide itineraries including Northern Europe and South America.",
+    "amenities": {
+      "dining": [
+        "Windows Café (panoramic buffet)",
+        "Discoveries Restaurant (main dining, open seating)",
+        "Aqualina (Italian specialty, fee applies)",
+        "Prime C (steakhouse specialty, fee applies)",
+        "The Patio at Windows Café (al fresco)",
+        "Pool Grill (casual)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Living Room (main lounge and bar)",
+        "The Den (intimate lounge)",
+        "Looking Glass Lounge (observation deck bar)",
+        "Cabaret lounge shows",
+        "Casino",
+        "AzAmazing Evenings (exclusive shore event, included)",
+        "Live music nightly",
+        "Movies Under the Stars"
+      ],
+      "recreation": [
+        "The Sanctum Spa & Salon",
+        "Fitness center",
+        "Pool deck with whirlpools",
+        "Jogging track",
+        "Golf simulator",
+        "Library"
+      ],
+      "included": [
+        "Open-seating dining in Discoveries Restaurant",
+        "All gratuities",
+        "Complimentary spirits, international beers and wines",
+        "Self-service laundry",
+        "AzAmazing Evening shore event",
+        "Fitness center and pool access",
+        "English butler service for suite guests"
+      ]
+    }
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "id": "le-ponant",
+    "regions": ["Mediterranean", "Caribbean", "Indian Ocean"],
+    "homeport": "Toulon, France",
+    "cruiseLineId": "ponant",
+    "name": "Le Ponant",
+    "year_built": 1991,
+    "gross_tonnage": 1489,
+    "passenger_capacity": 64,
+    "crew": 32,
+    "length_m": 88,
+    "decks": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ponant01.jpg/1280px-Ponant01.jpg",
+    "ship_class": "Sailing yacht",
+    "description": "Le Ponant is the original ship of the Ponant fleet — a magnificent three-masted barque that launched the company in 1991 and established its identity as a purveyor of intimate, expedition-focused French luxury at sea. Carrying just 64 guests, Le Ponant offers one of the most exclusive and personal sailing experiences in the world, gliding silently under sail to destinations inaccessible to larger ships. In 2008 she was famously seized by Somali pirates while sailing without passengers; the crew was released safely within a week.",
+    "amenities": {
+      "dining": [
+        "Gastronomic restaurant (French cuisine, all-inclusive)",
+        "Al fresco deck dining"
+      ],
+      "entertainment": [
+        "Intimate lounge bar",
+        "Sun deck for stargazing",
+        "Expedition briefings"
+      ],
+      "recreation": [
+        "Swimming platform",
+        "Snorkelling and swimming",
+        "Zodiacs for shore excursions",
+        "Naturalist expedition team"
+      ],
+      "included": [
+        "All meals",
+        "Open bar (house wines, spirits, soft drinks)",
+        "Zodiac excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-boreal",
+    "regions": ["Arctic & Antarctica", "South America", "Africa"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "ponant",
+    "name": "Le Boréal",
+    "year_built": 2010,
+    "gross_tonnage": 10700,
+    "passenger_capacity": 264,
+    "crew": 140,
+    "length_m": 142,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Le_Boreal_Port_Side_Tallinn_18_June_2013.JPG/1280px-Le_Boreal_Port_Side_Tallinn_18_June_2013.JPG",
+    "ship_class": "Boréal class",
+    "description": "Le Boréal (\"The North Wind\") is the first of Ponant's Boréal-class expedition ships, heralding the line's transformation from a single sailing yacht to a fleet of luxury expedition vessels. She carries 264 guests in 132 cabins and suites, almost all with private balconies, and is designed for immersive expedition cruising to remote destinations from the Arctic to Antarctica. Her elegant, contemporary French design by Jean-Philippe Nuel set the template for the entire class.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Theatre and cinema",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Swimming pool",
+        "Zodiacs for shore landings",
+        "Kayaks (select itineraries)",
+        "Expedition team of naturalists",
+        "Snorkelling equipment"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "l-austral",
+    "regions": ["Arctic & Antarctica", "South America", "Africa"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "ponant",
+    "name": "L'Austral",
+    "year_built": 2011,
+    "gross_tonnage": 10944,
+    "passenger_capacity": 264,
+    "crew": 140,
+    "length_m": 142,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/L%27Austral_Pula_%2801%29.JPG/1280px-L%27Austral_Pula_%2801%29.JPG",
+    "ship_class": "Boréal class",
+    "description": "L'Austral (\"The South Wind\") is the sister ship to Le Boréal, entering service in 2011. Like her sister, she carries 264 guests across 132 cabins and suites with a focus on expedition travel. L'Austral is particularly associated with Antarctic voyages and Patagonian itineraries, but also sails the Mediterranean, Northern Europe, and the Indian Ocean.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Theatre and cinema",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Swimming pool",
+        "Zodiacs for shore landings",
+        "Kayaks (select itineraries)",
+        "Expedition team of naturalists",
+        "Snorkelling equipment"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-soleal",
+    "regions": ["Arctic & Antarctica", "Pacific Islands", "Asia"],
+    "homeport": "Papeete, French Polynesia",
+    "cruiseLineId": "ponant",
+    "name": "Le Soléal",
+    "year_built": 2012,
+    "gross_tonnage": 10944,
+    "passenger_capacity": 264,
+    "crew": 140,
+    "length_m": 142,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/MS_Le_Sol%C3%A9al_R03.jpg/1280px-MS_Le_Sol%C3%A9al_R03.jpg",
+    "ship_class": "Boréal class",
+    "description": "Le Soléal (\"The Sun\") is the third Boréal-class ship, entering service in 2012. In August 2013, her sister Le Soléal completed the Northwest Passage — becoming the first French commercial ship to traverse this legendary Arctic route. She sails varied itineraries including the Mediterranean, the Pacific islands, Asia, and polar regions.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Theatre and cinema",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Swimming pool",
+        "Zodiacs for shore landings",
+        "Kayaks (select itineraries)",
+        "Expedition team of naturalists",
+        "Snorkelling equipment"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-lyrial",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Athens (Piraeus), Greece",
+    "cruiseLineId": "ponant",
+    "name": "Le Lyrial",
+    "year_built": 2015,
+    "gross_tonnage": 10944,
+    "passenger_capacity": 264,
+    "crew": 140,
+    "length_m": 142,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Croisi%C3%A8re_LE_LYRIAL_%C3%A0_quai.jpg/1280px-Croisi%C3%A8re_LE_LYRIAL_%C3%A0_quai.jpg",
+    "ship_class": "Boréal class",
+    "description": "Le Lyrial is the fourth and final Boréal-class ship, delivered in 2015. Named after the lyre and the musical constellation, she is often chartered by private groups and has exclusive partnerships with institutions such as the Musée du Louvre. Le Lyrial offers the same immersive expedition experience as her three sisters, sailing itineraries across Europe, the Pacific, and polar regions.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Theatre and cinema",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Swimming pool",
+        "Zodiacs for shore landings",
+        "Kayaks (select itineraries)",
+        "Expedition team of naturalists",
+        "Snorkelling equipment"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-laperouse",
+    "regions": ["Arctic & Antarctica", "Africa", "Indian Ocean"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "ponant",
+    "name": "Le Lapérouse",
+    "year_built": 2018,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Le_Lap%C3%A9rouse_in_the_Kiel_Canal_-_K%C3%B6nigsf%C3%B6rde_I.jpg/1280px-Le_Lap%C3%A9rouse_in_the_Kiel_Canal_-_K%C3%B6nigsf%C3%B6rde_I.jpg",
+    "ship_class": "Explorer class",
+    "description": "Le Lapérouse is the first of Ponant's Explorer-class ships, named after the legendary French explorer Jean-François de Galaup, comte de Lapérouse. Entering service in 2018, she introduced a remarkable innovation: the Blue Eye — an extraordinary underwater lounge below the waterline featuring two large portholes and hydrophones, allowing guests to observe and listen to the ocean from within the ship. Her intimate size (184 guests) allows access to destinations larger ships cannot reach.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-champlain",
+    "regions": ["Caribbean", "South America", "Arctic & Antarctica"],
+    "homeport": "Fort-de-France, Martinique",
+    "cruiseLineId": "ponant",
+    "name": "Le Champlain",
+    "year_built": 2018,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Le_Champlain_approaching_Pier_27_in_Port_of_Tallinn_30_May_2022.jpg/1280px-Le_Champlain_approaching_Pier_27_in_Port_of_Tallinn_30_May_2022.jpg",
+    "ship_class": "Explorer class",
+    "description": "Le Champlain is the second Explorer-class ship, named after the French explorer Samuel de Champlain, founder of Quebec City. Delivered in 2018, she shares the ground-breaking Blue Eye underwater lounge with her sister ships. Le Champlain regularly sails the Canadian Maritimes, the St. Lawrence Seaway, and the Northwest Passage — routes particularly suited to her name and heritage.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-bougainville",
+    "regions": ["Pacific Islands", "Asia", "Indian Ocean"],
+    "homeport": "Papeete, French Polynesia",
+    "cruiseLineId": "ponant",
+    "name": "Le Bougainville",
+    "year_built": 2019,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bougainville_in_Itea.jpg/1280px-Bougainville_in_Itea.jpg",
+    "ship_class": "Explorer class",
+    "description": "Le Bougainville is named after Louis-Antoine de Bougainville, the first Frenchman to circumnavigate the globe. Delivered in 2019, she is the third Explorer-class ship and like her sisters features the iconic Blue Eye underwater lounge. Bougainville was herself a botanist and explorer of the Pacific, and the ship bearing his name frequently sails Oceania, Antarctica, and the Mediterranean.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-dumont-d-urville",
+    "regions": ["Arctic & Antarctica", "Australia & New Zealand", "Pacific Islands"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "ponant",
+    "name": "Le Dumont-d'Urville",
+    "year_built": 2019,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Le_Dumont-d%E2%80%99Urville_-_IMO_9814052.jpg/1280px-Le_Dumont-d%E2%80%99Urville_-_IMO_9814052.jpg",
+    "ship_class": "Explorer class",
+    "description": "Le Dumont-d'Urville is named after Jules Dumont d'Urville, the French naval officer who explored Antarctica and named Adélie Land after his wife. The fourth Explorer-class ship, delivered in 2019, she features the Blue Eye lounge and is often deployed on Antarctic voyages — fittingly, given her namesake's discoveries on that frozen continent.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-bellot",
+    "regions": ["Arctic & Antarctica", "Northern Europe", "Africa"],
+    "homeport": "Longyearbyen, Norway",
+    "cruiseLineId": "ponant",
+    "name": "Le Bellot",
+    "year_built": 2020,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Reykjav%C3%ADk%2C_June_2023_-_C18.jpg/1280px-Reykjav%C3%ADk%2C_June_2023_-_C18.jpg",
+    "ship_class": "Explorer class",
+    "description": "Le Bellot is named after Joseph René Bellot, the French naval officer who participated in Arctic expeditions searching for Sir John Franklin. The fifth Explorer-class ship, she entered service in 2020 and features the Blue Eye lounge. Bellot Strait — a narrow channel between Somerset Island and the Boothia Peninsula in Arctic Canada — bears his name, and the ship regularly sails those high Arctic waters.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-jacques-cartier",
+    "regions": ["Africa", "Mediterranean", "Northern Europe"],
+    "homeport": "Marseille, France",
+    "cruiseLineId": "ponant",
+    "name": "Le Jacques Cartier",
+    "year_built": 2020,
+    "gross_tonnage": 9900,
+    "passenger_capacity": 184,
+    "crew": 110,
+    "length_m": 131,
+    "decks": 6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Le_Jacques_Cartier_%C3%A0_marseille_4.png/1280px-Le_Jacques_Cartier_%C3%A0_marseille_4.png",
+    "ship_class": "Explorer class",
+    "description": "Le Jacques Cartier is the sixth and final Explorer-class ship, named after the Breton explorer who claimed Canada for France in the 16th century. Delivered in 2020, she completes Ponant's remarkable fleet expansion and features the iconic Blue Eye underwater lounge. Like her sisters, she carries just 184 guests in intimate luxury and deploys Zodiacs for shore landings in wilderness and remote coastal destinations.",
+    "amenities": {
+      "dining": [
+        "Gastronomic Restaurant (French fine dining, included)",
+        "Grill (poolside casual, included)",
+        "Lounge Bar"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge with ocean view portholes)",
+        "Observation Lounge",
+        "Library",
+        "Expedition lectures and briefings",
+        "Cinema"
+      ],
+      "recreation": [
+        "Spa and wellness centre",
+        "Fitness room",
+        "Zodiacs for shore landings",
+        "Kayaks",
+        "Stand-up paddleboards",
+        "Snorkelling and diving equipment",
+        "Expedition team of naturalists and scientists"
+      ],
+      "included": [
+        "All meals (gastronomic restaurant and grill)",
+        "Open bar (wines, spirits, soft drinks, water, coffee)",
+        "Zodiac shore excursions",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "le-commandant-charcot",
+    "regions": ["Arctic & Antarctica", "South America", "Africa"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "ponant",
+    "name": "Le Commandant Charcot",
+    "year_built": 2021,
+    "gross_tonnage": 31283,
+    "passenger_capacity": 270,
+    "crew": 187,
+    "length_m": 150,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Le_Commandant_Charcot_Stockholm.jpg/1280px-Le_Commandant_Charcot_Stockholm.jpg",
+    "ship_class": "Polar Exploration class",
+    "description": "Le Commandant Charcot is Ponant's crown jewel and one of the most extraordinary ships ever built — the world's first hybrid-electric polar icebreaker designed for luxury cruising. Named after French polar scientist Jean-Baptiste Charcot, she is rated Polar Class 2, capable of breaking through Arctic and Antarctic ice to reach the Geographic North Pole and other destinations no other cruise ship can access. Powered by LNG and 5 MWh of battery storage, she can briefly sail in complete silence. Her onboard experience includes a Blue Eye underwater lounge, restaurants helmed by Michelin-starred chefs, and an immersive polar science programme.",
+    "amenities": {
+      "dining": [
+        "Nuna (signature fine dining, included)",
+        "Hangar (casual à la carte restaurant, included)",
+        "The Cognac Bar",
+        "Lounge Bar",
+        "In-suite dining"
+      ],
+      "entertainment": [
+        "Blue Eye (underwater lounge — unique to Charcot)",
+        "Panoramic Observation Lounge",
+        "Science Centre and polar laboratory",
+        "Expedition lectures with scientists and guides",
+        "Cinema",
+        "Library"
+      ],
+      "recreation": [
+        "Nordic Spa (sauna and hot tub on open deck)",
+        "Fitness centre",
+        "Zodiacs for polar shore landings",
+        "Helicopters (2 onboard, for remote access)",
+        "Expedition team of polar scientists and guides",
+        "Snowshoes, crampons and polar gear provided"
+      ],
+      "included": [
+        "All meals",
+        "Open bar (Champagne, wines, spirits, soft drinks, coffee)",
+        "Zodiac and helicopter shore excursions",
+        "Polar expedition equipment",
+        "Port taxes and fees"
+      ]
+    }
+  }
+]

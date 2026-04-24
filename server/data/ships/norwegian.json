@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "norwegian-prima",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Prima",
+    "year_built": 2022,
+    "gross_tonnage": 143535,
+    "passenger_capacity": 3195,
+    "crew": 1506,
+    "length_m": 294,
+    "decks": 17,
+    "image": "https://www.ncl.com/sites/default/files/3200x640_Prima_Hero_01.png",
+    "ship_class": "Prima class",
+    "description": "Norwegian Prima is the first of NCL's next-generation Prima class ships. It stands out for offering more outdoor deck space per guest than any other large cruise ship, along with a unique three-level racetrack, the fastest drop slide at sea, and premium dining experiences.",
+    "amenities": {
+      "dining": [
+        "Indulge Food Hall (16 eateries)",
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Steak 'H' (specialty)",
+        "Onda by Scarpetta (specialty)",
+        "Los Lobos (specialty)",
+        "Palomar Seafood (specialty)",
+        "Cagney's Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "The Speedway (3-level go-kart racetrack)",
+        "The Drop (fastest dry slide at sea)",
+        "Aftscape outdoor recreation area",
+        "Oceanwalk glass bridge",
+        "Cavern Club",
+        "Syd Norman's Pour House",
+        "Casino at Sea",
+        "The Metropolitan (main theater)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Pickleball court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "The Speedway racetrack (limited laps included)",
+        "Indulge Food Hall basic eateries"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-encore",
+    "regions": ["Caribbean", "Alaska"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Encore",
+    "year_built": 2019,
+    "gross_tonnage": 169116,
+    "passenger_capacity": 3958,
+    "crew": 1735,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/encore_hero_alaska_mountains_061025.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Encore is the fourth and final ship in the Breakaway Plus class. It features the longest race track at sea, an expanded Galaxy Pavilion virtual reality complex, award-winning Broadway shows like Kinky Boots, and the adults-only Vibe Beach Club.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Food Republic (specialty)",
+        "Teppanyaki (specialty)",
+        "Los Lobos Cantina (specialty)",
+        "La Cucina (specialty)"
+      ],
+      "entertainment": [
+        "The Speedway go-kart racetrack (longest at sea)",
+        "Galaxy Pavilion virtual reality complex",
+        "Outdoor laser tag arena",
+        "Aqua Park (Ocean Loops waterslides)",
+        "The Brat Pack Broadway show",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Syd Norman's Pour House",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-bliss",
+    "regions": ["Caribbean", "Alaska", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Bliss",
+    "year_built": 2018,
+    "gross_tonnage": 168028,
+    "passenger_capacity": 4010,
+    "crew": 1716,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/BLISS_Overview_Wilds_Alaska_2023_0720.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Bliss was purpose-built for Alaska and Caribbean itineraries. It features the largest race track at sea at the time of its launch, an outdoor laser tag arena, the Galaxy Pavilion virtual reality complex, and two brand-new high-speed waterslides called the Ocean Loops.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Food Republic (specialty)",
+        "Teppanyaki (specialty)",
+        "Los Lobos Cantina (specialty)",
+        "La Cucina (specialty)"
+      ],
+      "entertainment": [
+        "The Speedway go-kart racetrack",
+        "Galaxy Pavilion virtual reality complex",
+        "Outdoor laser tag arena",
+        "Aqua Park (Ocean Loops waterslides)",
+        "Broadway shows",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Syd Norman's Pour House",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-joy",
+    "regions": ["Caribbean", "Alaska", "Asia"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Joy",
+    "year_built": 2017,
+    "gross_tonnage": 167725,
+    "passenger_capacity": 3776,
+    "crew": 1821,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/JOY.Joy_Overview_Hero_1600x320.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Joy was originally built for the Chinese market before being refurbished for the American market in 2019. Now sailing Caribbean and Alaska routes, it features a two-level racetrack, the Aqua Racer waterslide, and venues designed specifically for the North American guest experience.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Food Republic (specialty)",
+        "Teppanyaki (specialty)",
+        "Los Lobos Cantina (specialty)",
+        "La Cucina (specialty)"
+      ],
+      "entertainment": [
+        "The Speedway go-kart racetrack (two-level)",
+        "Galaxy Pavilion virtual reality complex",
+        "Aqua Park waterslides",
+        "Broadway shows",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-escape",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Escape",
+    "year_built": 2015,
+    "gross_tonnage": 164998,
+    "passenger_capacity": 4218,
+    "crew": 1733,
+    "length_m": 326,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/NCL_Escape_desktop.jpg",
+    "ship_class": "Breakaway class",
+    "description": "Norwegian Escape is the largest Breakaway-class ship and the largest ship ever built for the North American market at its launch. It features a five-story go-kart race track (later added), the Aqua Park with three multi-story waterslides, and the award-winning Broadway show For the Record: Baz Luhrmann.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Food Republic (specialty)",
+        "Teppanyaki (specialty)",
+        "Margaritaville at Sea (specialty)",
+        "La Cucina (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Park (3 waterslides including The Whip)",
+        "The Waterfront outdoor promenade",
+        "5678 Comedy Club",
+        "Broadway shows (For the Record: Baz Luhrmann)",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Syd Norman's Pour House",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Ropes course",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-breakaway",
+    "regions": ["Caribbean", "North America", "Mediterranean"],
+    "homeport": "New York, NY",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Breakaway",
+    "year_built": 2013,
+    "gross_tonnage": 145655,
+    "passenger_capacity": 3903,
+    "crew": 1657,
+    "length_m": 326,
+    "decks": 18,
+    "image": "https://www.ncl.com/sites/default/files/Hero-Breakway-2018.jpg",
+    "ship_class": "Breakaway class",
+    "description": "Norwegian Breakaway was the first of NCL's Breakaway class when it launched from New York in 2013. The ship introduced the iconic Waterfront — a quarter-mile outdoor promenade with restaurants and bars overlooking the ocean — and the thrilling five-story Aqua Park waterslides.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Pincho Tapas Bar (specialty)",
+        "La Cucina (specialty)",
+        "Margaritaville at Sea (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Park (5-story waterslides)",
+        "The Waterfront outdoor promenade",
+        "5678 Comedy Club",
+        "Broadway shows (Rock of Ages)",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Ropes course",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-viva",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Viva",
+    "year_built": 2023,
+    "gross_tonnage": 142500,
+    "passenger_capacity": 3195,
+    "crew": 1506,
+    "length_m": 294,
+    "decks": 17,
+    "image": "https://www.ncl.com/sites/default/files/1600x320_Viva_Hero_02.png",
+    "ship_class": "Prima class",
+    "description": "Norwegian Viva is the second Prima-class ship, launched in 2023. Like its sister ship Norwegian Prima, it features more outdoor deck space per guest than any other large ship. The Prima class is defined by its distinctive hull design, three-deck race track, and elevated dining and entertainment options.",
+    "amenities": {
+      "dining": [
+        "Indulge Food Hall (16 eateries)",
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Steak 'H' (specialty)",
+        "Onda by Scarpetta (specialty)",
+        "Los Lobos (specialty)",
+        "Palomar Seafood (specialty)",
+        "Cagney's Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "The Speedway (3-level go-kart racetrack)",
+        "The Drop (fastest dry slide at sea)",
+        "Aftscape outdoor recreation area",
+        "Oceanwalk glass bridge",
+        "Cavern Club",
+        "Syd Norman's Pour House",
+        "Casino at Sea",
+        "The Metropolitan (main theater)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Pickleball court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "The Speedway racetrack (limited laps included)",
+        "Indulge Food Hall basic eateries"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-aqua",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Aqua",
+    "year_built": 2025,
+    "gross_tonnage": 156300,
+    "passenger_capacity": 3571,
+    "crew": 1629,
+    "length_m": 322,
+    "decks": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Norwegian_Aqua_southampton.JPG/1280px-Norwegian_Aqua_southampton.JPG",
+    "ship_class": "Prima Plus class",
+    "description": "Norwegian Aqua is the first of NCL's next-generation Prima Plus class, debuting in spring 2025. It introduces the world's first Aqua Slidecoaster — a hybrid roller coaster and water slide — along with an expanded Indulge Food Hall, the signature three-level Speedway racetrack, and the spacious Aftscape outdoor recreation deck.",
+    "amenities": {
+      "dining": [
+        "Indulge Food Hall (16+ eateries)",
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Steak 'H' (specialty)",
+        "Onda by Scarpetta (specialty)",
+        "Los Lobos (specialty)",
+        "Palomar Seafood (specialty)",
+        "Cagney's Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Slidecoaster (world's first hybrid roller coaster/water slide)",
+        "The Speedway (3-level go-kart racetrack)",
+        "Aftscape outdoor recreation area",
+        "Oceanwalk glass bridge",
+        "Cavern Club",
+        "Syd Norman's Pour House",
+        "Casino at Sea",
+        "The Metropolitan (main theater)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Pickleball court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Indulge Food Hall basic eateries"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-getaway",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Getaway",
+    "year_built": 2014,
+    "gross_tonnage": 145655,
+    "passenger_capacity": 3963,
+    "crew": 1657,
+    "length_m": 326,
+    "decks": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Norwegian_Getaway_Jan_29_2025.jpg",
+    "ship_class": "Breakaway class",
+    "description": "Norwegian Getaway is the second Breakaway-class ship, homeported in Miami since its 2014 debut. Designed with a Miami-inspired theme and a vibrant hull mural by fashion designer Lilly Pulitzer, it features the popular Waterfront outdoor promenade, five-story Aqua Park waterslides, and a variety of specialty dining and entertainment options.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Food Republic (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Margaritaville at Sea (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Park (5-story waterslides)",
+        "The Waterfront outdoor promenade",
+        "5678 Comedy Club",
+        "Broadway shows (Million Dollar Quartet)",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Syd Norman's Pour House",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Ropes course",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and Broadway production",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-epic",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Epic",
+    "year_built": 2010,
+    "gross_tonnage": 155873,
+    "passenger_capacity": 4100,
+    "crew": 1724,
+    "length_m": 329,
+    "decks": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NORWEGIAN_EPIC.jpg/1280px-NORWEGIAN_EPIC.jpg",
+    "ship_class": "Epic class",
+    "description": "Norwegian Epic was a revolutionary ship when it launched in 2010, introducing innovative cabin designs including curved-wall studios for solo travelers and an adults-only complex called The Courtyard. It features the Epic Plunge waterslides, an ice bar, and award-winning entertainment including Legends in Concert and Priscilla Queen of the Desert.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Ocean Blue (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Wasabi Sushi Bar (specialty)",
+        "Le Bistro French Restaurant (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Park (Epic Plunge waterslides)",
+        "Icebar (below-freezing ice bar)",
+        "Howl at the Moon dueling pianos",
+        "Legends in Concert",
+        "Priscilla Queen of the Desert show",
+        "Casino at Sea",
+        "Bliss Ultra Lounge",
+        "Live music venues"
+      ],
+      "recreation": [
+        "The Courtyard (adults-only villa area with private pool)",
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Rock climbing wall",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows and productions",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-gem",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "New York, NY",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Gem",
+    "year_built": 2007,
+    "gross_tonnage": 93530,
+    "passenger_capacity": 2394,
+    "crew": 1070,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NorwegianGem1.jpg/1280px-NorwegianGem1.jpg",
+    "ship_class": "Jewel class",
+    "description": "Norwegian Gem is the fourth Jewel-class ship, known for its warm, jewel-toned décor and extensive specialty dining options. It features the thrilling The Drop waterslide (among the tallest at sea when built), a large casino, and award-winning cuisine across a dozen restaurants and cafés.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Wasabi Sushi Bar (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Aqua Park waterslides",
+        "Second City comedy club",
+        "The Brat Pack show",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Live music venues",
+        "The Spinnaker Lounge"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-pearl",
+    "regions": ["Caribbean", "Alaska"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Pearl",
+    "year_built": 2006,
+    "gross_tonnage": 93530,
+    "passenger_capacity": 2394,
+    "crew": 1070,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Norwegian_Pearl.jpg/1280px-Norwegian_Pearl.jpg",
+    "ship_class": "Jewel class",
+    "description": "Norwegian Pearl is the third Jewel-class ship, featuring a distinctive purple-hued interior design and one of the largest casinos in the NCL fleet. It was among the first NCL ships to offer a ropes course and the popular Bliss Ultra Lounge, setting the standard for entertainment on midsize ships.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Wasabi Sushi Bar (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Aqua Park waterslides",
+        "Ropes course (first on NCL)",
+        "Second City comedy performances",
+        "Casino at Sea",
+        "Bliss Ultra Lounge",
+        "Live music venues",
+        "The Spinnaker Lounge"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-jade",
+    "regions": ["Mediterranean", "Caribbean"],
+    "homeport": "Athens (Piraeus), Greece",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Jade",
+    "year_built": 2006,
+    "gross_tonnage": 93558,
+    "passenger_capacity": 2402,
+    "crew": 1070,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Norwegian_Jade_Cruise_ship%2C_Valletta%2C_Malta_Feb_2011_%285518381212%29.jpg/1280px-Norwegian_Jade_Cruise_ship%2C_Valletta%2C_Malta_Feb_2011_%285518381212%29.jpg",
+    "ship_class": "Jewel class",
+    "description": "Norwegian Jade is the second Jewel-class ship, originally built as Pride of Hawaii before being reflagged and renamed in 2008. Now sailing Mediterranean and Caribbean itineraries, it offers a warm, relaxed atmosphere with extensive specialty dining, a full-service spa, and a rich mix of onboard entertainment.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Wasabi Sushi Bar (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Aqua Park waterslides",
+        "Second City comedy performances",
+        "Broadway-style shows",
+        "Casino at Sea",
+        "Bliss Ultra Lounge",
+        "Live music venues",
+        "The Spinnaker Lounge"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-jewel",
+    "regions": ["Caribbean", "Alaska", "South America"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Jewel",
+    "year_built": 2005,
+    "gross_tonnage": 93502,
+    "passenger_capacity": 2376,
+    "crew": 1070,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/NCLJewelISP.jpg/1280px-NCLJewelISP.jpg",
+    "ship_class": "Jewel class",
+    "description": "Norwegian Jewel is the first and namesake ship of the Jewel class, introduced in 2005. It pioneered many of NCL's signature freestyle cruising features, offering guests an impressive array of specialty restaurants, entertainment venues, and a full-service spa — all with no set dining times or dress codes.",
+    "amenities": {
+      "dining": [
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Wasabi Sushi Bar (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Aqua Park waterslides",
+        "Second City comedy performances",
+        "Broadway-style shows",
+        "Casino at Sea",
+        "Bliss Ultra Lounge",
+        "Live music venues",
+        "The Spinnaker Lounge"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Aqua Park waterslides"
+      ]
+    }
+  },
+  {
+    "id": "pride-of-america",
+    "regions": ["North America", "Pacific Islands"],
+    "homeport": "Honolulu, HI",
+    "cruiseLineId": "norwegian",
+    "name": "Pride of America",
+    "year_built": 2005,
+    "gross_tonnage": 80439,
+    "passenger_capacity": 2186,
+    "crew": 916,
+    "length_m": 280,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pride_of_America_seen_from_Aloha_Tower_%284677840953%29.jpg/1280px-Pride_of_America_seen_from_Aloha_Tower_%284677840953%29.jpg",
+    "ship_class": "Pride of America class",
+    "description": "Pride of America is the only large US-flagged cruise ship operating today, sailing year-round inter-island Hawaii itineraries. Built to meet the demands of the American market, it features an Americana theme throughout, with patriotic décor, locally inspired cuisine, and the ability to stop at four Hawaiian islands in just seven days.",
+    "amenities": {
+      "dining": [
+        "Skyline Restaurant (main dining room)",
+        "Liberty Restaurant (main dining room)",
+        "Garden Café buffet",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "East Meets West (specialty)",
+        "Teppanyaki (specialty)",
+        "Cadillac Diner"
+      ],
+      "entertainment": [
+        "Mardi Gras Theater (main showroom)",
+        "Big Easy Bar & Lounge",
+        "Napa Wine Bar",
+        "John Adams Coffee Bar",
+        "Casino at Sea",
+        "Live Hawaiian music and cultural shows",
+        "Waikiki Bar pool deck"
+      ],
+      "recreation": [
+        "2 pools",
+        "Mandara Spa",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids pool area"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Live entertainment and cultural shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-dawn",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Dawn",
+    "year_built": 2002,
+    "gross_tonnage": 92250,
+    "passenger_capacity": 2340,
+    "crew": 1126,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Norwegian_Dawn_Leaving_Boston_Harbor_%28cropped%29.jpg/1280px-Norwegian_Dawn_Leaving_Boston_Harbor_%28cropped%29.jpg",
+    "ship_class": "Dawn class",
+    "description": "Norwegian Dawn is the second Dawn-class ship, launched in 2002. Following a major dry-dock renovation, it features refreshed public spaces, updated specialty restaurants, and NCL's signature freestyle cruising experience. The ship is popular for its New England, Caribbean, and transatlantic itineraries.",
+    "amenities": {
+      "dining": [
+        "Garden Café buffet",
+        "Aqua (main dining room)",
+        "Venetian (main dining room)",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Stardust Theater (main showroom)",
+        "Second City comedy performances",
+        "Casino at Sea",
+        "Gatsby's Champagne Bar",
+        "Live music venues",
+        "The Spinnaker Lounge"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-star",
+    "regions": ["Alaska", "Caribbean", "South America"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Star",
+    "year_built": 2001,
+    "gross_tonnage": 91740,
+    "passenger_capacity": 2348,
+    "crew": 1126,
+    "length_m": 294,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/NORWEGIAN_STAR_%2849908557122%29.jpg/1280px-NORWEGIAN_STAR_%2849908557122%29.jpg",
+    "ship_class": "Dawn class",
+    "description": "Norwegian Star is the lead ship of the Dawn class, launching in 2001. It was one of the first ships to offer NCL's now-famous freestyle cruising concept with multiple specialty restaurants and no fixed dining times. It sails a variety of itineraries including Alaska, Hawaii, and the Pacific.",
+    "amenities": {
+      "dining": [
+        "Garden Café buffet",
+        "Versailles (main dining room)",
+        "Aqua (main dining room)",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "La Cucina (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Stardust Theater (main showroom)",
+        "Second City comedy performances",
+        "Casino at Sea",
+        "Live music venues",
+        "The Spinnaker Lounge",
+        "Star Bar"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Basketball/volleyball court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-sun",
+    "regions": ["Caribbean", "South America"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Sun",
+    "year_built": 2001,
+    "gross_tonnage": 78309,
+    "passenger_capacity": 1936,
+    "crew": 968,
+    "length_m": 258,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/NCLSunSeattle.jpg/1280px-NCLSunSeattle.jpg",
+    "ship_class": "Sun class",
+    "description": "Norwegian Sun is the second Sun-class ship and one of the workhorses of the NCL fleet. Following extensive renovations, it now features updated dining venues, refreshed staterooms, and NCL's modern freestyle cruising experience. It primarily sails Caribbean and Central America itineraries from Tampa.",
+    "amenities": {
+      "dining": [
+        "Garden Café buffet",
+        "Seven Seas (main dining room)",
+        "Four Seasons (main dining room)",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "La Cucina (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Stardust Theater (main showroom)",
+        "Casino at Sea",
+        "Live music venues",
+        "The Spinnaker Lounge",
+        "Dazzles Nightclub"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-sky",
+    "regions": ["Caribbean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Sky",
+    "year_built": 1999,
+    "gross_tonnage": 77104,
+    "passenger_capacity": 2004,
+    "crew": 929,
+    "length_m": 258,
+    "decks": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/2023-09-04_01_NORWEGIAN_SKY_-_IMO_9128532_-_Charlottetown_PEI_CAN.jpg/1280px-2023-09-04_01_NORWEGIAN_SKY_-_IMO_9128532_-_Charlottetown_PEI_CAN.jpg",
+    "ship_class": "Sun class",
+    "description": "Norwegian Sky is the first Sun-class ship, sailing exclusively on short Bahamas cruises from Miami. With a relaxed, casual atmosphere, it is popular for its value-oriented pricing and convenient 2–4 night itineraries. It offers all the signature freestyle cruising elements in a more intimate, easy-going setting.",
+    "amenities": {
+      "dining": [
+        "Garden Café buffet",
+        "Palace (main dining room)",
+        "Crossings (main dining room)",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Stardust Theater (main showroom)",
+        "Casino at Sea",
+        "Live music venues",
+        "The Spinnaker Lounge",
+        "Dazzles Nightclub"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-spirit",
+    "regions": ["Asia", "Caribbean", "Indian Ocean"],
+    "homeport": "Bangkok, Thailand",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Spirit",
+    "year_built": 1998,
+    "gross_tonnage": 75338,
+    "passenger_capacity": 2032,
+    "crew": 1070,
+    "length_m": 269,
+    "decks": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Norwegian_Spirit_docked_in_Seattle_01.jpg/1280px-Norwegian_Spirit_docked_in_Seattle_01.jpg",
+    "ship_class": "Spirit class",
+    "description": "Norwegian Spirit is the sole Spirit-class ship, originally built for Star Cruises as SuperStar Leo before joining the NCL fleet. After a major $100 million renovation in 2020, it emerged with a completely transformed interior, modern dining venues, and refreshed staterooms. It sails varied itineraries including Europe, Asia, and South America.",
+    "amenities": {
+      "dining": [
+        "Garden Café buffet",
+        "Taste (main dining room)",
+        "Cagney's Steakhouse (specialty)",
+        "Le Bistro French Restaurant (specialty)",
+        "Teppanyaki (specialty)",
+        "Food Republic (specialty)",
+        "Blue Lagoon 24-hour diner"
+      ],
+      "entertainment": [
+        "Stardust Theater (main showroom)",
+        "Casino at Sea",
+        "Howl at the Moon dueling pianos",
+        "Live music venues",
+        "The Spinnaker Lounge",
+        "Dazzles Nightclub"
+      ],
+      "recreation": [
+        "2 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Putting green"
+      ],
+      "included": [
+        "All meals in main dining rooms and Garden Café buffet",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-luna",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Luna",
+    "year_built": 2026,
+    "gross_tonnage": 156300,
+    "passenger_capacity": 3571,
+    "crew": 1629,
+    "length_m": 322,
+    "decks": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Norwegian_Aqua_southampton.JPG/1280px-Norwegian_Aqua_southampton.JPG",
+    "ship_class": "Prima Plus class",
+    "description": "Norwegian Luna is the second Prima Plus-class ship, expected to debut in 2026. As a sister ship to Norwegian Aqua, it will feature the innovative Aqua Slidecoaster, the three-level Speedway go-kart racetrack, expanded Indulge Food Hall, and the spacious Aftscape outdoor entertainment deck that defines the Prima Plus class.",
+    "amenities": {
+      "dining": [
+        "Indulge Food Hall (16+ eateries)",
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Steak 'H' (specialty)",
+        "Onda by Scarpetta (specialty)",
+        "Los Lobos (specialty)",
+        "Palomar Seafood (specialty)",
+        "Cagney's Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Slidecoaster (hybrid roller coaster/water slide)",
+        "The Speedway (3-level go-kart racetrack)",
+        "Aftscape outdoor recreation area",
+        "Oceanwalk glass bridge",
+        "Cavern Club",
+        "Syd Norman's Pour House",
+        "Casino at Sea",
+        "The Metropolitan (main theater)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Pickleball court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Indulge Food Hall basic eateries"
+      ]
+    }
+  },
+  {
+    "id": "norwegian-aura",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Aura",
+    "year_built": 2027,
+    "gross_tonnage": 156300,
+    "passenger_capacity": 3571,
+    "crew": 1629,
+    "length_m": 322,
+    "decks": 20,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Norwegian_Aqua_southampton.JPG/1280px-Norwegian_Aqua_southampton.JPG",
+    "ship_class": "Prima Plus class",
+    "description": "Norwegian Aura is the third Prima Plus-class ship, scheduled to debut in 2027. It will be a sister ship to Norwegian Aqua and Norwegian Luna, continuing the Prima Plus tradition of offering world-class outdoor spaces, the iconic Aqua Slidecoaster, the multi-level Speedway racetrack, and elevated dining and entertainment experiences.",
+    "amenities": {
+      "dining": [
+        "Indulge Food Hall (16+ eateries)",
+        "The Local Bar & Grill",
+        "Garden Café buffet",
+        "Steak 'H' (specialty)",
+        "Onda by Scarpetta (specialty)",
+        "Los Lobos (specialty)",
+        "Palomar Seafood (specialty)",
+        "Cagney's Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Aqua Slidecoaster (hybrid roller coaster/water slide)",
+        "The Speedway (3-level go-kart racetrack)",
+        "Aftscape outdoor recreation area",
+        "Oceanwalk glass bridge",
+        "Cavern Club",
+        "Syd Norman's Pour House",
+        "Casino at Sea",
+        "The Metropolitan (main theater)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Vibe Beach Club (adults-only, fee applies)",
+        "3 pools",
+        "Full-service spa (Mandara Spa)",
+        "Fitness center",
+        "Pickleball court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Garden Café buffet and The Local Bar & Grill",
+        "Entertainment shows",
+        "Kids club (Splash Academy)",
+        "Access to pools and fitness center",
+        "Indulge Food Hall basic eateries"
+      ]
+    }
+  }
+]

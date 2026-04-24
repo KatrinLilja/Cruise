@@ -1,0 +1,896 @@
+[
+  {
+    "id": "viking-star",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Star",
+    "year_built": 2015,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 228,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Viking_Star_at_Pier_24_in_Tallinn_20_May_2016.jpg/1280px-Viking_Star_at_Pier_24_in_Tallinn_20_May_2016.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Star is the lead ship of the Viking Star class and the vessel that launched Viking Ocean Cruises in April 2015, marking Torstein Hagen's long-anticipated move from rivers to the sea. Built by Fincantieri at Marghera, Italy and designed by SMC Design of London with interiors by Los Angeles-based Rottet Studio, she established the template for every Viking ocean ship that followed: clean Scandinavian lines, a destination-focused itinerary, no casinos or children, and every stateroom featuring a private veranda. Christened in Bergen by Norwegian politician Trude Drevland, Viking Star quickly won multiple industry awards for innovation in ship design and the all-inclusive shore excursion model.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar, named after the Faroese capital)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (large Nordic-inspired spa with Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining (lunch and dinner)",
+        "All specialty restaurants including Manfredi's and The Kitchen Table (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-sea",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Sea",
+    "year_built": 2016,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Viking_Sea_at_Pier_24_in_Port_of_Tallinn_19_May_2017.jpg/1280px-Viking_Sea_at_Pier_24_in_Port_of_Tallinn_19_May_2017.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Sea, delivered by Fincantieri in 2016 as the second Viking Star-class ship, was christened by Karine Hagen — daughter of founder Torstein Hagen — in Bergen harbour. She shares the same lean Scandinavian design philosophy as her lead sister and quickly established herself as the itinerary workhorse of the fleet, sailing Mediterranean, Caribbean, and Northern European programmes. Viking Sea is particularly associated with the brand's Arctic and Iceland voyages, where her shallow draught and compact dimensions allow calls at dramatic fjord and island ports inaccessible to larger ships.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-sky",
+    "regions": ["Northern Europe", "Mediterranean", "Arctic & Antarctica"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Sky",
+    "year_built": 2017,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Viking_Sky_departing_Tallinn_Tallinn_Bay_Tallinn_24_July_2017.jpg/1280px-Viking_Sky_departing_Tallinn_Tallinn_Bay_Tallinn_24_July_2017.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Sky, the third Viking Star-class ship, was christened by Marit Barstad — Torstein Hagen's sister — in 2017. She is perhaps the most famous ship in the fleet internationally: in March 2019 she suffered multiple engine failures in a storm off the Hustadvika coast of Norway, requiring the airlift evacuation of over 450 guests in dramatic North Sea conditions. The ship was later stabilised and towed to port. After extensive inspection and repair she returned to service, and today sails a full programme of global voyages. Viking Sky's story became emblematic of the high safety standards and crew professionalism across the fleet.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-yi-dun",
+    "regions": ["Asia", "Pacific Islands"],
+    "homeport": "Shanghai, China",
+    "cruiseLineId": "viking",
+    "name": "Viking Yi Dun",
+    "year_built": 2017,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Viking_Sun_in_Tallinn_Bay_Tallinn_28_May_2018_%28cropped%29.jpg/1280px-Viking_Sun_in_Tallinn_Bay_Tallinn_28_May_2018_%28cropped%29.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Yi Dun — formally Zhao Shang Yi Dun (招商伊敦) — was built by Fincantieri in 2017 as Viking Sun, the fourth vessel in the Viking Star class. She launched the brand's first world cruise itinerary in 2017–18, a 141-day voyage departing Miami and visiting 35 countries across five continents. In 2021 she was transferred to China Merchants Viking Cruises, a joint venture between Viking and China Merchants Group established to bring the Viking experience to the Chinese coastal cruise market. Sailing under the Chinese flag and a Mandarin-language enrichment programme, she retains the Scandinavian design, all-veranda staterooms, adult-only policy, and port-focused philosophy that define the Viking brand, bringing it to a new generation of Chinese travellers.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Mandarin-language port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-orion",
+    "regions": ["Arctic & Antarctica", "Australia & New Zealand", "Asia"],
+    "homeport": "Sydney, Australia",
+    "cruiseLineId": "viking",
+    "name": "Viking Orion",
+    "year_built": 2018,
+    "gross_tonnage": 47861,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/DSC00218%E6%B8%B8%E8%BD%AE-_%28cropped%29.jpg/1280px-DSC00218%E6%B8%B8%E8%BD%AE-_%28cropped%29.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Orion was delivered by Fincantieri and christened in 2018 by astronaut Anna Fisher — one of the first American women selected by NASA — in a ceremony that reflected Viking's partnership with the Smithsonian Institution and the brand's emphasis on intellectual discovery. She is named for the constellation Orion and has been a cornerstone of Viking's Asia-Pacific and Australian programmes, regularly calling at ports from Japan and Vietnam to New Zealand and the islands of the South Pacific. Viking Orion also sails Antarctic expedition voyages in partnership with the BBC Studios team that produced the Planet Earth series.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library with Smithsonian partnership enrichment resources",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-jupiter",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Jupiter",
+    "year_built": 2019,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Viking_Jupiter_at_Pier_24_in_Port_of_Tallinn_27_September_2019.jpg/1280px-Viking_Jupiter_at_Pier_24_in_Port_of_Tallinn_27_September_2019.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Jupiter, the fifth Viking Star-class ship, was christened in 2019 by Sissel Kyrkjebø, the celebrated Norwegian soprano known internationally as simply 'Sissel'. Her naming ceremony in Bergen was a fitting cultural moment for a brand that consistently elevates its connection to Scandinavian heritage. Viking Jupiter marked the close of an extraordinary run of annual new deliveries from Fincantieri before the pandemic pause. She has become a flagship itinerary ship for Viking's Caribbean winter programme and its Mediterranean and Northern European summer season, offering extensive explorer suite options for guests seeking the most spacious verandas at sea.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-venus",
+    "regions": ["Asia", "Pacific Islands", "Australia & New Zealand"],
+    "homeport": "Osaka, Japan",
+    "cruiseLineId": "viking",
+    "name": "Viking Venus",
+    "year_built": 2021,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/9833175_Viking_Venus_2021.jpg/1280px-9833175_Viking_Venus_2021.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Venus was delivered by Fincantieri in 2021, ending the two-year pandemic hiatus in new ship deliveries, and christened by British journalist Anne Diamond in a ceremony that took place in London. She was the first Viking ocean ship to be named in the United Kingdom, reflecting the company's enormous popularity with British travellers, who represent one of the largest national groups in the Viking guest mix. Viking Venus sailed her maiden British Isles itinerary before taking up a full global programme, and has since become particularly associated with Viking's Scandinavian homelands voyages and its Baltic capitals season.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-mars",
+    "regions": ["Mediterranean", "Caribbean", "Transatlantic"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Mars",
+    "year_built": 2022,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2022_06_Viking_Mars_%281%29_%28cropped%29.jpg/1280px-2022_06_Viking_Mars_%281%29_%28cropped%29.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Mars was delivered by Fincantieri in Ancona in 2022 and named by Lady Fiona Carnarvon, Countess of Carnarvon and chatelaine of Highclere Castle — the filming location of Downton Abbey — in a ceremony in Greenwich. The Downton Abbey connection is apt: Viking is a major sponsor of PBS and has long been associated with period drama and cultural television, and Lady Carnarvon's involvement reinforced the brand's deep affinity with British heritage. Viking Mars immediately took up a full global programme spanning the Mediterranean, Northern Europe, and the Caribbean.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-neptune",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Neptune",
+    "year_built": 2022,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Viking_Neptune%2C_mariehamn_-_20240608_-_03.jpg/1280px-Viking_Neptune%2C_mariehamn_-_20240608_-_03.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Neptune was delivered from Fincantieri's Ancona yard in late 2022 and christened by astronaut Nicole Stott — one of only a handful of people to have both flown in space and dived to the seabed — in a ceremony reflecting Viking's enduring collaboration with explorers and scientists. She joined the fleet as its eighth Star-class ship, completing a quartet of new deliveries from the post-pandemic construction surge. Viking Neptune took up world cruise and long voyage programmes and is a favoured choice for guests booking Viking's Grand Voyages — multi-segment ocean journeys that can span three months or more.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-saturn",
+    "regions": ["Mediterranean", "Northern Europe", "Africa"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Saturn",
+    "year_built": 2023,
+    "gross_tonnage": 47842,
+    "passenger_capacity": 930,
+    "crew": 602,
+    "length_m": 227,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Viking_Saturn%2C_Bergen.jpg/1280px-Viking_Saturn%2C_Bergen.jpg",
+    "ship_class": "Viking Star class",
+    "description": "Viking Saturn, delivered by Fincantieri Ancona in 2023, was named by Ann Ziff — Chairman of the Metropolitan Opera in New York — in a ceremony that celebrated the arts patronage that runs through the Viking brand. The final ship of the original nine-ship Viking Star class, Viking Saturn completes a remarkable decade of consistent ocean ship-building that began with Viking Star in 2015. She maintains the same clean Scandinavian design language and destination-focused philosophy of her sisters, and is scheduled for an extensive range of global itineraries including the Mediterranean, Arctic Norway, and the Caribbean.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, West End and Broadway productions)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (Nordic-inspired, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-vela",
+    "regions": ["Mediterranean", "Caribbean", "Transatlantic"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Vela",
+    "year_built": 2024,
+    "gross_tonnage": 53769,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Vela, delivered by Fincantieri Ancona in December 2024 and entering service in May 2025, is the first of the new enlarged Vela class and a significant step forward for Viking Ocean Cruises. At 238 metres and 53,769 gross tons, she is noticeably larger than the Star class, with 499 staterooms for 998 guests — a fleet first — while maintaining the same no-casino, adults-only philosophy. Christened by Ivana Elice, Vice President of Fincantieri's Cruise Business Unit, Viking Vela incorporates new fuel-efficient hybrid technologies and an updated interior concept from Rottet Studio that introduces expanded public spaces while preserving the clean Nordic aesthetic Viking guests recognise.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-vesta",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Vesta",
+    "year_built": 2025,
+    "gross_tonnage": 54300,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Vesta, delivered by Fincantieri Ancona in 2025 and christened by Norwegian journalist Lene Tangevald-Jensen, is the second Vela-class ship and introduces new hydrogen-assisted fuel cell technology as part of Viking's long-stated commitment to zero-emission cruising. At 54,300 gross tons she is the largest ship in the Viking fleet, yet carries just 998 guests — a ratio that ensures the intimate, destination-focused experience the brand is known for. Viking Vesta marks the beginning of what will become a substantial fleet of enlarged Vela-class ships, with six or more additional vessels on order from Fincantieri, delivering through to 2030 and beyond.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-octantis",
+    "regions": ["Arctic & Antarctica", "North America", "Pacific Islands"],
+    "homeport": "Toronto, Canada",
+    "cruiseLineId": "viking",
+    "name": "Viking Octantis",
+    "year_built": 2022,
+    "gross_tonnage": 30150,
+    "passenger_capacity": 378,
+    "crew": 400,
+    "length_m": 205,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Octantisship.jpg/1280px-Octantisship.jpg",
+    "ship_class": "Viking Octantis class",
+    "description": "Viking Octantis is the first purpose-built expedition ship in the Viking fleet, completed in December 2021 by VARD (Fincantieri) and launched on her maiden voyage to Antarctica in January 2022. Built to Polar Class 6 standards and named after Sigma Octantis — the south polar star — she is designed to conduct genuine scientific research alongside her 378 guests. Her dimensions were specifically engineered to navigate the Welland Canal, allowing Great Lakes itineraries alongside polar voyages. Christened by Norwegian polar explorer and skier Liv Arnesen, Viking Octantis is distinguished by The Hangar, an aft equipment bay housing Zodiacs, kayaks, and two Cruise Sub 7-300 yellow submarines; and The Aula, a two-storey glass lecture theatre inspired by the University of Oslo.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "The World Café (casual open-kitchen buffet and alfresco terrace)",
+        "The Pool Grill (casual grill)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Aula (two-storey glass expedition theatre, daily briefings and lectures)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "The Living Room (cocktail bar, live music)",
+        "Torshavn (Nordic bar)",
+        "Library with expedition and natural history collection",
+        "Citizen Science participation with NOAA and Cornell Lab of Ornithology"
+      ],
+      "recreation": [
+        "The Hangar (expedition equipment bay: Zodiacs, kayaks, two yellow submarines)",
+        "The Laboratory (onboard science lab)",
+        "Nordic walking track",
+        "The Spa (Nordic-inspired spa and thermal suite)",
+        "Fitness centre",
+        "Polar Class 6 ice-strengthened hull for Antarctic and Arctic operations"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)"
+      ]
+    }
+  },
+  {
+    "id": "viking-polaris",
+    "regions": ["Arctic & Antarctica", "Africa", "South America"],
+    "homeport": "Longyearbyen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Polaris",
+    "year_built": 2022,
+    "gross_tonnage": 30150,
+    "passenger_capacity": 378,
+    "crew": 400,
+    "length_m": 205,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Viking_Polaris.jpg/1280px-Viking_Polaris.jpg",
+    "ship_class": "Viking Octantis class",
+    "description": "Viking Polaris is the sister ship to Viking Octantis, completed by VARD (Fincantieri) in 2022 and christened by Ann Bancroft — the first woman to reach both the North and South Poles on foot. Like Viking Octantis, she was built to Polar Class 6 standards and carries 378 guests on expedition voyages to Antarctica, the Arctic, the Great Lakes, and remote ocean destinations. Viking Polaris shares the same innovative layout as her sister, including The Hangar expedition bay, The Aula two-storey lecture theatre, and the onboard science laboratory operated in partnership with leading research institutions. The two expedition ships together form the core of Viking Expeditions, the fastest-growing division of the Viking fleet.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "The World Café (casual open-kitchen buffet and alfresco terrace)",
+        "The Pool Grill (casual grill)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Aula (two-storey glass expedition theatre, daily briefings and lectures)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "The Living Room (cocktail bar, live music)",
+        "Torshavn (Nordic bar)",
+        "Library with expedition and natural history collection",
+        "Citizen Science participation with NOAA and partner research institutions"
+      ],
+      "recreation": [
+        "The Hangar (expedition equipment bay: Zodiacs, kayaks, and special operations boats)",
+        "The Laboratory (onboard science lab)",
+        "Nordic walking track",
+        "The Spa (Nordic-inspired spa and thermal suite)",
+        "Fitness centre",
+        "Polar Class 6 ice-strengthened hull for Antarctic and Arctic operations"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)"
+      ]
+    }
+  },
+  {
+    "id": "viking-mira",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Mira",
+    "year_built": 2026,
+    "gross_tonnage": 54300,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Mira is the third ship in the enlarged Vela class, built by Fincantieri in Ancona and delivered in May 2026. Her maiden voyage departs Civitavecchia on 5 June 2026 on a seven-night 'Iconic Mediterranean' itinerary to Barcelona, followed by a repositioning season in Northern Europe. Like her sisters Viking Vela and Viking Vesta, she features 499 all-veranda staterooms, adult-only policy, and the same enrichment-focused Scandinavian interior design. Mira adds further capacity to Viking's rapidly expanding ocean fleet as the line continues to grow toward its announced target of 23 ocean ships by 2031.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-libra",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Libra",
+    "year_built": 2026,
+    "gross_tonnage": 54300,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Libra holds the distinction of being the world's first hydrogen-powered cruise ship, a landmark milestone for both Viking and the wider cruise industry. Built by Fincantieri in Ancona, she floated out in March 2026 and is scheduled for delivery in November 2026, with her maiden voyage departing Piraeus on 3 December 2026 on a ten-night 'Greek Odyssey' itinerary. Her hybrid propulsion system combines liquefied hydrogen and fuel cells with conventional engines, enabling zero-emission operation in environmentally sensitive areas such as the Norwegian Fjords. In all other respects she mirrors the Vela class: 499 all-veranda staterooms, 998-guest adult-only capacity, and Scandinavian design throughout.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-astrea",
+    "regions": ["Mediterranean", "Northern Europe", "Transatlantic"],
+    "homeport": "Bergen, Norway",
+    "cruiseLineId": "viking",
+    "name": "Viking Astrea",
+    "year_built": 2027,
+    "gross_tonnage": 54300,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Astrea is the fifth ship in the enlarged Vela class, scheduled for delivery by Fincantieri in 2027 with a maiden voyage planned for June 2027. Named after Astrea, the Greek goddess of justice and the last immortal to leave Earth at the end of the Golden Age — whose departure to the heavens gave us the constellation Virgo — she continues Viking's tradition of celestial naming for its ocean fleet. Viking Astrea incorporates the hydrogen fuel cell technology introduced on Viking Libra, advancing Viking's commitment to zero-emission cruising in sensitive marine environments, while maintaining the 499-stateroom all-veranda design and adult-only policy established across the Vela class.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  },
+  {
+    "id": "viking-lyra",
+    "regions": ["Asia", "Pacific Islands", "Australia & New Zealand"],
+    "homeport": "Singapore",
+    "cruiseLineId": "viking",
+    "name": "Viking Lyra",
+    "year_built": 2028,
+    "gross_tonnage": 54300,
+    "passenger_capacity": 998,
+    "crew": 640,
+    "length_m": 238,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Viking_Vela_Ship.jpg/1280px-Viking_Vela_Ship.jpg",
+    "ship_class": "Viking Vela class",
+    "description": "Viking Lyra is the sixth ship in the enlarged Vela class, scheduled for delivery by Fincantieri in 2028 with a maiden voyage planned for May 2028. Named after the constellation Lyra — home to Vega, one of the brightest stars in the northern sky — she continues Viking's pattern of naming ocean ships after constellations and celestial bodies. Viking Lyra is part of the expanded order of six new vessels placed by Viking with Fincantieri in October 2024, representing a combined investment estimated between €500 million and €1 billion. Like her Vela-class sisters, she will carry 998 guests in 499 all-veranda staterooms with no casino, no children, and Scandinavian design throughout.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating all day)",
+        "Manfredi's Italian Restaurant (no surcharge)",
+        "The Kitchen Table (chef's table, market-to-table dinner, no surcharge)",
+        "The World Café (casual open-kitchen buffet, alfresco Aquavit Terrace)",
+        "The Pool Grill (casual poolside burgers and snacks)",
+        "24-hour room service (full menu)"
+      ],
+      "entertainment": [
+        "The Star Theatre (main stage, expanded production entertainment)",
+        "The Living Room (cocktail bar, live music nightly)",
+        "Torshavn (intimate Nordic bar)",
+        "The Explorer's Lounge (panoramic observation lounge)",
+        "Library",
+        "Port talks, cultural enrichment lectures, and destination immersion programme"
+      ],
+      "recreation": [
+        "The Spa (expanded Nordic-inspired spa, Snow Grotto and thermal suite)",
+        "Infinity Pool and main pool",
+        "Whirlpools",
+        "Fitness centre",
+        "Nordic walking track",
+        "Boutique and shops"
+      ],
+      "included": [
+        "Beer, wine and soft drinks with onboard dining",
+        "All specialty restaurants (no surcharge)",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (standard excursion)",
+        "24-hour room service"
+      ]
+    }
+  }
+]

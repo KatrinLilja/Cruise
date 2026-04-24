@@ -1,0 +1,1493 @@
+[
+  {
+    "id": "mardi-gras",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "carnival",
+    "name": "Mardi Gras",
+    "year_built": 2021,
+    "gross_tonnage": 180000,
+    "passenger_capacity": 5282,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/MD/mardi-gras/heros/mardi-gras-ship-hero-2.png",
+    "ship_class": "Excel class",
+    "description": "Mardi Gras is Carnival's largest and most innovative ship, featuring BOLT — the first rollercoaster at sea. It introduced a new zone concept with six themed \"zones\" including a French Quarter, La Piazza, and Summer Landing.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Rudi's Seagrill (specialty)",
+        "Bonsai Sushi (specialty)",
+        "Empire Supper Club (specialty)",
+        "Emeril's Bistro 1396 (specialty)"
+      ],
+      "entertainment": [
+        "BOLT electric roller coaster (first at sea)",
+        "SkyRide suspended cycling attraction",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-celebration",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Celebration",
+    "year_built": 2022,
+    "gross_tonnage": 183521,
+    "passenger_capacity": 5374,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/CB/carnival-celebration/heros/carnival-celebration-ship-aerial-hero-desktop.jpg",
+    "ship_class": "Excel class",
+    "description": "Carnival Celebration is a sister ship to Mardi Gras, launched to celebrate Carnival's 50th anniversary. It features the same zone concept, the BOLT rollercoaster, and expanded culinary offerings including Guy's Burger Joint and Emeril's Bistro 1396.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Emeril's Bistro 1396",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)",
+        "Rudi's Seagrill (specialty)"
+      ],
+      "entertainment": [
+        "BOLT electric roller coaster",
+        "SkyRide suspended cycling attraction",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-venezia",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "New York, NY",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Venezia",
+    "year_built": 2019,
+    "gross_tonnage": 135225,
+    "passenger_capacity": 4232,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://iprsoftwaremedia.com/412/files/202401/65a039693d63321d9e114bd7_Carnival%20Venezia%202/Carnival%20Venezia%202_prv.jpg",
+    "ship_class": "Vista class",
+    "description": "Originally built as Costa Venezia for Costa Cruises, Carnival Venezia joined the Carnival fleet in 2023. The ship features a distinctly Italian design inspired by Venice, including a dedicated Italian district, piazzas, and Italian-themed restaurants.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Piazza della Frutta (Italian street food)",
+        "BlueIguana Cantina",
+        "Guy's Burger Joint",
+        "La Piazza Pizzeria",
+        "Cucina del Capitano (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "SkyRide aerial cycling attraction",
+        "WaterWorks aqua park",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools including Havana pool (Cuban-themed)",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare activity area",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-dream",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "New Orleans, LA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Dream",
+    "year_built": 2009,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3646,
+    "crew": 1367,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/202310/65281b5fa138354c59c8e078_08_Carnival-Dream-scaled/08_Carnival-Dream-scaled_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Dream was the largest Carnival ship at its launch in 2009 and the first of the Dream class. It introduced the expanded WaterWorks aqua park, the adults-only Serenity retreat, and the Ocean Plaza entertainment venue — features that became standard on future Carnival ships.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "The Steakhouse (specialty)",
+        "Cucina del Capitano (specialty)"
+      ],
+      "entertainment": [
+        "WaterWorks aqua park",
+        "Ocean Plaza entertainment venue",
+        "Hasbro The Game Show",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-magic",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Magic",
+    "year_built": 2011,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3690,
+    "crew": 1367,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/20234/64675419b3aed3515f153dea_Carnival%20Magic/Carnival%20Magic_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Magic is the second Dream-class ship, launched in 2011 for European itineraries before relocating to the US. It was one of the first ships to feature the popular Guy's Burger Joint, a partnership with Food Network personality Guy Fieri.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "The Steakhouse (specialty)",
+        "Cucina del Capitano (specialty)"
+      ],
+      "entertainment": [
+        "WaterWorks aqua park",
+        "Ocean Plaza entertainment venue",
+        "Hasbro The Game Show",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-breeze",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Breeze",
+    "year_built": 2012,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3690,
+    "crew": 1386,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/202310/65281b55a138354c59c8e075_08_Carnival-Breeze-scaled/08_Carnival-Breeze-scaled_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Breeze is the third and final Dream-class ship, launched in 2012. It added the BlueIguana Tequila Bar and RedFrog Rum Bar to the lineup of poolside venues and features a full-size EA SPORTS Bar — the first on any Carnival ship at the time of its debut.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "RedFrog Rum Bar & Pub",
+        "Pizzeria del Capitano",
+        "The Steakhouse (specialty)",
+        "Cucina del Capitano (specialty)"
+      ],
+      "entertainment": [
+        "WaterWorks aqua park",
+        "Ocean Plaza entertainment venue",
+        "Hasbro The Game Show",
+        "EA SPORTS Bar",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-vista",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Vista",
+    "year_built": 2016,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://iprsoftwaremedia.com/412/files/albumcovers/0b533a93-c935-47a8-a7ec-d81ddbd0db51_thmb.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Vista introduced the Vista class in 2016 and debuted several firsts for Carnival: SkyRide — a pedal-powered aerial cycling attraction — IMAX Theater at sea, Havana staterooms and pool, and the Bonsai Sushi restaurant. It set the template for the modern Carnival experience.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "JiJi Asian Kitchen (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "SkyRide aerial cycling attraction",
+        "WaterWorks aqua park",
+        "IMAX Theater at sea",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Havana Bar",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools including Havana pool (Cuban-themed)",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-horizon",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Horizon",
+    "year_built": 2018,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/HZ/carnival-horizon-ship-3.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Horizon is the second Vista-class ship. It added Chef's Table Lumiere — an intimate fine dining experience — and Dr. Seuss Bookville to the lineup. The ship homeports in Miami and New York, offering Caribbean and Bahamas itineraries.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "JiJi Asian Kitchen (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Chef's Table Lumiere (specialty)"
+      ],
+      "entertainment": [
+        "SkyRide aerial cycling attraction",
+        "WaterWorks aqua park",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Dr. Seuss Bookville",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools including Havana pool (Cuban-themed)",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-jubilee",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Galveston, TX",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Jubilee",
+    "year_built": 2023,
+    "gross_tonnage": 183900,
+    "passenger_capacity": 5374,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/JB/carnival-jubilee/heros/carnival-jubilee-ship-aerial-hero-desktop.jpg",
+    "ship_class": "Excel class",
+    "description": "Carnival Jubilee is the third Excel-class ship and homeports in Galveston, Texas — a first for an Excel-class vessel. It features BOLT, the first rollercoaster at sea, along with six themed zones including a vibrant New Orleans-inspired Quarter and a thriving food-and-beverage scene.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Shaquille O'Neal's Big Chicken (specialty)",
+        "Rudi's Seagrill (specialty)",
+        "Bonsai Sushi (specialty)",
+        "Empire Supper Club (specialty)"
+      ],
+      "entertainment": [
+        "BOLT electric roller coaster (first at sea)",
+        "SkyRide suspended cycling attraction",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-firenze",
+    "regions": ["Caribbean", "Alaska", "Pacific Islands"],
+    "homeport": "Long Beach, CA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Firenze",
+    "year_built": 2021,
+    "gross_tonnage": 135225,
+    "passenger_capacity": 4232,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/FN/StateRoomCodes/FNISHV_1200x350.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Firenze is inspired by the beauty and culture of Florence, Italy. Originally built as Costa Toscana, the ship joined the Carnival fleet in 2024, homeporting in Long Beach, California. It features a Florence-inspired design, a vibrant piazza atmosphere, and the beloved Carnival amenities.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "JiJi Asian Kitchen (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Emeril's Bistro (specialty)"
+      ],
+      "entertainment": [
+        "SkyRide aerial cycling attraction",
+        "WaterWorks aqua park",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-panorama",
+    "regions": ["Caribbean", "Alaska", "Pacific Islands"],
+    "homeport": "Long Beach, CA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Panorama",
+    "year_built": 2019,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PO/carnival-panorama/heros/carnival-panorama-sky-zone-hero-2.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Panorama is the third Vista-class ship and the first new Carnival ship to homeport in Long Beach, California in over 20 years. It features SkyRide — a suspended aerial cycling experience — and a range of Carnival signature venues including Guy's Burger Joint and BlueIguana Cantina.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "JiJi Asian Kitchen (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "SkyRide aerial cycling attraction",
+        "WaterWorks aqua park",
+        "Liquid Lounge main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools including Havana pool",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "SportSquare ropes course & mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "WaterWorks aqua park",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-luminosa",
+    "regions": ["Australia & New Zealand", "Pacific Islands"],
+    "homeport": "Brisbane, Australia",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Luminosa",
+    "year_built": 2009,
+    "gross_tonnage": 92720,
+    "passenger_capacity": 2826,
+    "crew": 1050,
+    "length_m": 294,
+    "decks": 16,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LM/carnival-luminosa-atrium-desktop.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Luminosa joined the Carnival fleet in 2022, transferred from sister brand Costa Cruises as Costa Luminosa. It sails Australian and Pacific itineraries year-round, offering a blend of Carnival's signature fun atmosphere with stylish European design touches.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Bonsai Sushi (specialty)",
+        "Steakhouse (specialty)",
+        "Chef's Table (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-splendor",
+    "regions": ["Australia & New Zealand", "Pacific Islands"],
+    "homeport": "Sydney, Australia",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Splendor",
+    "year_built": 2008,
+    "gross_tonnage": 113323,
+    "passenger_capacity": 3006,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SL/carnival-splendor-4.jpg",
+    "ship_class": "Splendor class",
+    "description": "Carnival Splendor is the sole ship of her class and sails Australian waters year-round. She features a grand multi-story atrium, multiple pool areas, and a wide array of dining and entertainment venues, making her a popular choice for South Pacific and New Zealand itineraries.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools including adults-only Serenity pool",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-freedom",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Freedom",
+    "year_built": 2007,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/FD/carnival-freedom-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Freedom is the fifth and final Conquest-class ship. She underwent a major refit in 2022 following a fire, emerging with new features including a rebranded venues lineup and updated décor. She sails Caribbean itineraries from Port Canaveral, Florida.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-liberty",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Liberty",
+    "year_built": 2005,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LI/carnival-liberty-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Liberty is the fourth Conquest-class ship, sailing the Caribbean from Port Canaveral, Florida. She features a tropical resort atmosphere with colorful décor, multiple pool areas, and Carnival's signature dining and entertainment lineup.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-valor",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "New Orleans, LA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Valor",
+    "year_built": 2004,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/VA/carnival-valor-2.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Valor is the third Conquest-class ship, with a patriotic American theme running through her décor and venues. She sails year-round Caribbean itineraries from New Orleans, Louisiana, and features Carnival's signature Fun Ship amenities.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-miracle",
+    "regions": ["Alaska", "Caribbean", "Pacific Islands"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Miracle",
+    "year_built": 2004,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/MI/carnival-miracle-1.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Miracle is a Spirit-class ship that sails Alaska in summer and Mexican Riviera itineraries in winter from Long Beach. She features a whimsical superhero theme throughout her décor and was one of the first ships to introduce Guy's Burger Joint and BlueIguana Cantina.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Nick & Nora's Supper Club (specialty)",
+        "Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-glory",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Glory",
+    "year_built": 2003,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/GL/carnival-glory-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Glory is the second Conquest-class ship, featuring bold primary colors in her décor and themed public spaces. She sails Caribbean itineraries from New Orleans and Port Canaveral, and features a wide array of Carnival signature dining and entertainment venues.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-encounter",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Galveston, TX",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Encounter",
+    "year_built": 2002,
+    "gross_tonnage": 77441,
+    "passenger_capacity": 1998,
+    "crew": 900,
+    "length_m": 261,
+    "decks": 11,
+    "image": "https://www.carnival.com/-/media/Images/Ships/EQ/StateroomCodes/EQISST_1200x350.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Encounter joined the Carnival fleet in 2025, transferred from P&O Australia where she sailed as Pacific Encounter. Originally built as a Spirit-class ship, she brings Carnival's signature fun-ship experience to new homeports with a warm, welcoming atmosphere.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-conquest",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "New Orleans, LA",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Conquest",
+    "year_built": 2002,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/CQ/carnival-conquest-3.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Conquest is the first and namesake ship of the Conquest class, themed around French Impressionist art with reproductions displayed throughout. She was the largest cruise ship in the world when launched in 2002 and sails Caribbean itineraries from New Orleans.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)",
+        "Fahrenheit 555 Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-legend",
+    "regions": ["Caribbean", "Transatlantic", "Northern Europe"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Legend",
+    "year_built": 2002,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LE/carnival-legend-aerial.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Legend is a Spirit-class ship that sails year-round from Baltimore, Maryland, and Tampa, Florida. She features a mythological theme with legendary figures throughout her décor and offers Carnival's beloved signature dining and entertainment lineup.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-adventure",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Baltimore, MD",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Adventure",
+    "year_built": 2001,
+    "gross_tonnage": 77441,
+    "passenger_capacity": 1998,
+    "crew": 900,
+    "length_m": 261,
+    "decks": 11,
+    "image": "https://www.carnival.com/-/media/Images/Ships/AQ/StateroomCodes/AQISST_1200x350.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Adventure joined the Carnival fleet in 2025, transferred from P&O Australia where she sailed as Pacific Adventure. She brings Carnival's signature fun-ship experience to new itineraries, offering a lively onboard atmosphere with Carnival's beloved dining and entertainment venues.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Steakhouse (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-pride",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Baltimore, MD",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Pride",
+    "year_built": 2001,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PR/carnival-pride-desktop-hero.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Pride is a Spirit-class ship themed around the Renaissance period with artistic reproductions and grand sculptures throughout. She sails the Caribbean from Tampa and Baltimore, and features Carnival's full complement of signature dining venues and entertainment.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-spirit",
+    "regions": ["Australia & New Zealand", "Pacific Islands", "Asia"],
+    "homeport": "Sydney, Australia",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Spirit",
+    "year_built": 2001,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SP/carnival-spirit-1.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Spirit is the namesake and first ship of the Spirit class. She sails Alaska in summer and Hawaiian voyages in winter. Her elegant design features a stunning multi-deck atrium, a signature spiral staircase, and expansive glass panels that allow natural light to flood the interior.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-radiance",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Radiance",
+    "year_built": 2000,
+    "gross_tonnage": 101509,
+    "passenger_capacity": 2758,
+    "crew": 1100,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/RD/carnival-radiance-lido-marketplace-hero.jpg",
+    "ship_class": "Triumph class",
+    "description": "Carnival Radiance, formerly Carnival Victory, underwent a major transformation in 2020 and emerged as a fully revamped ship with a new name and updated look. She sails Caribbean itineraries from various East Coast homeports and features Carnival's signature dining and entertainment venues.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-sunrise",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "New York, NY",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Sunrise",
+    "year_built": 1999,
+    "gross_tonnage": 102853,
+    "passenger_capacity": 2984,
+    "crew": 1146,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SN/carnival-sunrise-1.jpg",
+    "ship_class": "Triumph class",
+    "description": "Carnival Sunrise, formerly Carnival Triumph, underwent a dramatic top-to-bottom transformation in 2019, emerging with a completely new look, new venues, and new décor. She sails the Caribbean from Norfolk, Virginia, and New York, offering short and long Eastern Caribbean itineraries.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-paradise",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Paradise",
+    "year_built": 1998,
+    "gross_tonnage": 70367,
+    "passenger_capacity": 2052,
+    "crew": 920,
+    "length_m": 261,
+    "decks": 10,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PA/carnival-paradise-1.jpg",
+    "ship_class": "Fantasy class",
+    "description": "Carnival Paradise is a Fantasy-class ship that sails short Caribbean itineraries from Tampa, Florida. She was originally launched as a smoke-free ship — a first in the industry. Today she offers 4- and 5-day Bahamas and Western Caribbean cruises with Carnival's Fun Ship style.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-elation",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Jacksonville, FL",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Elation",
+    "year_built": 1998,
+    "gross_tonnage": 70367,
+    "passenger_capacity": 2052,
+    "crew": 920,
+    "length_m": 261,
+    "decks": 10,
+    "image": "https://www.carnival.com/-/media/Images/Ships/EL/carnival-elation-desktop-hero-2.jpg",
+    "ship_class": "Fantasy class",
+    "description": "Carnival Elation is a Fantasy-class ship that sails short 4- and 5-day Caribbean and Bahamas cruises from Jacksonville, Florida. One of Carnival's classic Fun Ships, she offers a lively, casual atmosphere perfect for quick getaways with friends and family.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (2 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Bonsai Sushi (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "2 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean)",
+        "Access to pools and fitness center"
+      ]
+    }
+  },
+  {
+    "id": "carnival-sunshine",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Charleston, SC",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Sunshine",
+    "year_built": 1996,
+    "gross_tonnage": 101509,
+    "passenger_capacity": 3002,
+    "crew": 1150,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SH/carnival-sunshine-1.jpg",
+    "ship_class": "Destiny class",
+    "description": "Carnival Sunshine, formerly Carnival Destiny, was one of the world's first vessels to exceed 100,000 gross tons when built in 1996. After a massive makeover in 2013, she emerged as Carnival Sunshine — a completely reimagined ship with over 50 new features. She sails the Caribbean from Charleston, South Carolina, and Norfolk, Virginia.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (3 venues)",
+        "Lido Marketplace buffet",
+        "Guy's Burger Joint",
+        "BlueIguana Cantina",
+        "Pizzeria del Capitano",
+        "Fahrenheit 555 Steakhouse (specialty)",
+        "Bonsai Sushi (specialty)",
+        "JiJi Asian Kitchen (specialty)"
+      ],
+      "entertainment": [
+        "Main theater",
+        "Punchliners Comedy Club",
+        "Casino",
+        "WaterWorks aqua park",
+        "Live music venues",
+        "Serenity Adults-Only Retreat"
+      ],
+      "recreation": [
+        "3 pools",
+        "WaterWorks waterslides",
+        "Full-service spa (Cloud 9 Spa)",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining rooms and Lido Marketplace buffet",
+        "Guy's Burger Joint and BlueIguana Cantina",
+        "Entertainment shows and comedy",
+        "Kids & teens clubs (Camp Ocean, Circle C, Club O2)",
+        "Access to pools and fitness center"
+      ]
+    }
+  }
+]

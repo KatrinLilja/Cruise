@@ -1,0 +1,228 @@
+[
+  {
+    "id": "queen-mary-2",
+    "regions": ["Transatlantic", "Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "cunard",
+    "name": "Queen Mary 2",
+    "year_built": 2004,
+    "gross_tonnage": 149215,
+    "passenger_capacity": 2695,
+    "crew": 1253,
+    "length_m": 345,
+    "decks": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Queen_Mary_2_Boston_July_2015_01_%28cropped%29.jpg/1280px-Queen_Mary_2_Boston_July_2015_01_%28cropped%29.jpg",
+    "ship_class": "Queen Mary 2 class",
+    "description": "RMS Queen Mary 2 is the flagship of Cunard Line and, as of 2026, the only purpose-built ocean liner still in active service. Christened by Queen Elizabeth II in 2004, she is the largest and most powerful ocean liner ever built, capable of 30 knots and designed to withstand the ferocious North Atlantic. QM2 operates regular transatlantic crossings between Southampton and New York — the last scheduled ocean liner service in the world — as well as world voyages and occasional cruises.",
+    "amenities": {
+      "dining": [
+        "Queens Grill (suites — exclusive, included)",
+        "Princess Grill (top-grade staterooms, included)",
+        "Britannia Restaurant (main dining, 3-deck grand room)",
+        "Todd English (specialty, fee applies)",
+        "Kings Court (buffet)",
+        "The Verandah (specialty, fee applies)",
+        "Sir Samuel's (café)",
+        "Golden Lion Pub (pub grub)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "Royal Court Theatre (West End productions)",
+        "Illuminations Planetarium (first at sea)",
+        "G32 Nightclub",
+        "Commodore Club (panoramic bar)",
+        "Golden Lion Pub (live music)",
+        "Empire Casino",
+        "Ballroom dancing classes",
+        "Guest lecturers and enrichment programs"
+      ],
+      "recreation": [
+        "Canyon Ranch SpaClub",
+        "Outdoor pool and heated indoor pool",
+        "Whirlpools",
+        "Fitness center",
+        "Full-size paddle tennis courts",
+        "Golf nets",
+        "Jogging track (top deck)",
+        "Kennels (dogs and cats welcome)",
+        "Library (largest at sea)",
+        "Bookshop"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Afternoon tea in the Queens Room",
+        "Entertainment and enrichment programs",
+        "Kids club",
+        "Pool and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "queen-victoria",
+    "regions": ["Mediterranean", "Northern Europe", "Transatlantic", "Caribbean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "cunard",
+    "name": "Queen Victoria",
+    "year_built": 2007,
+    "gross_tonnage": 90049,
+    "passenger_capacity": 2081,
+    "crew": 900,
+    "length_m": 294,
+    "decks": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Queen_Victoria_%2852322173455%29.jpg/1280px-Queen_Victoria_%2852322173455%29.jpg",
+    "ship_class": "Vista class",
+    "description": "MS Queen Victoria is a Vista-class ship and the smallest vessel in the Cunard fleet. She entered service in December 2007, built at Fincantieri's Marghera shipyard in Italy. Named after Queen Victoria, she carries Cunard's hallmark British formality with the signature three-tier dining class system — Queens Grill, Princess Grill, and Britannia. She underwent a refit in 2017 and regularly sails world voyages, Mediterranean itineraries, and Northern European routes.",
+    "amenities": {
+      "dining": [
+        "Queens Grill (suites — exclusive, included)",
+        "Princess Grill (top-grade staterooms, included)",
+        "Britannia Restaurant (main dining)",
+        "The Verandah (specialty, fee applies)",
+        "Lido (buffet)",
+        "Golden Lion Pub (pub grub)",
+        "Sir Samuel's (café)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "Royal Court Theatre (West End productions)",
+        "Queens Room (grand ballroom for afternoon tea and dancing)",
+        "Commodore Club (panoramic bar)",
+        "Golden Lion Pub",
+        "Empire Casino",
+        "Ballroom dancing classes",
+        "Cinema",
+        "Guest lecturers"
+      ],
+      "recreation": [
+        "Cunard Spa",
+        "Outdoor pool and whirlpools",
+        "Fitness center",
+        "Paddle tennis",
+        "Golf nets",
+        "Jogging track",
+        "Library",
+        "Card room"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Afternoon tea in the Queens Room",
+        "Entertainment and enrichment programs",
+        "Kids club",
+        "Pool and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "queen-elizabeth",
+    "regions": ["Australia & New Zealand", "Asia", "Mediterranean", "Caribbean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "cunard",
+    "name": "Queen Elizabeth",
+    "year_built": 2010,
+    "gross_tonnage": 90901,
+    "passenger_capacity": 2092,
+    "crew": 1003,
+    "length_m": 294,
+    "decks": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Queen_Elizabeth_%28ship%2C_2010%29_in_Sydney%2C_December_2022%2C_10.jpg/1280px-Queen_Elizabeth_%28ship%2C_2010%29_in_Sydney%2C_December_2022%2C_10.jpg",
+    "ship_class": "Vista class",
+    "description": "MS Queen Elizabeth is a modified Vista-class ship that entered service in October 2010. She is the third Cunard ship to bear the name and was christened by HRH The Queen Elizabeth II. Slightly larger than her sister Queen Victoria at 90,901 GT, she was designed with a 1930s Art Deco interior inspired by the original RMS Queen Elizabeth. She is renowned for her elegant public spaces including the Midships Bar, the Garden Lounge, and sweeping double-height atrium.",
+    "amenities": {
+      "dining": [
+        "Queens Grill (suites — exclusive, included)",
+        "Princess Grill (top-grade staterooms, included)",
+        "Britannia Restaurant (main dining, Art Deco grand room)",
+        "The Verandah (specialty, fee applies)",
+        "Lido (buffet)",
+        "Golden Lion Pub (pub grub)",
+        "Café Carinthia (patisserie)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "Royal Court Theatre (West End productions)",
+        "Queens Room (grand ballroom for afternoon tea and dancing)",
+        "Commodore Club (panoramic bar)",
+        "Golden Lion Pub (live music and quiz nights)",
+        "Empire Casino",
+        "Ballroom dancing classes",
+        "Cinema",
+        "Guest lecturers and enrichment programs"
+      ],
+      "recreation": [
+        "Cunard Spa & Salon",
+        "Outdoor pool and whirlpools",
+        "Fitness center",
+        "Paddle tennis",
+        "Golf nets",
+        "Jogging track",
+        "Library",
+        "Card room",
+        "Games court"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Afternoon tea in the Queens Room",
+        "Entertainment and enrichment programs",
+        "Kids club",
+        "Pool and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "queen-anne",
+    "regions": ["Mediterranean", "Caribbean", "Transatlantic", "Northern Europe"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "cunard",
+    "name": "Queen Anne",
+    "year_built": 2024,
+    "gross_tonnage": 113000,
+    "passenger_capacity": 2996,
+    "crew": 1200,
+    "length_m": 323,
+    "decks": 16,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MS_Queen_Anne_at_Cabo_San_Lucas_Mexico_31_January_2025.jpg/1280px-MS_Queen_Anne_at_Cabo_San_Lucas_Mexico_31_January_2025.jpg",
+    "ship_class": "Halifax class",
+    "description": "MS Queen Anne is Cunard's newest ship, making her maiden voyage on 3 May 2024. Based on the extended Pinnacle-class platform built at Fincantieri's Marghera shipyard, she is Cunard's second largest ship and the 249th vessel in the line's history. Designed to blend Cunard's timeless British heritage with contemporary style, Queen Anne features bold new public spaces including the Garden Lounge, the vibrant Chart Room bar, and the acclaimed Keel & Cow gastropub, while maintaining the beloved Queens Grill dining tradition.",
+    "amenities": {
+      "dining": [
+        "Queens Grill (suites — exclusive, included)",
+        "Princess Grill (top-grade staterooms, included)",
+        "Britannia Restaurant (main dining)",
+        "The Verandah (specialty, fee applies)",
+        "Keel & Cow (gastropub)",
+        "Lido (buffet)",
+        "Café Carinthia (patisserie)",
+        "Sir Samuel's (café)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "Royal Court Theatre (West End productions)",
+        "Queens Room (ballroom for afternoon tea and dancing)",
+        "The Chart Room (panoramic bar)",
+        "Commodore Club",
+        "Golden Lion Pub",
+        "Empire Casino",
+        "Live music and jazz performances",
+        "Guest lecturers and enrichment programs"
+      ],
+      "recreation": [
+        "Cunard Spa & Wellness",
+        "Outdoor pool and whirlpools",
+        "Fitness center",
+        "Paddle tennis",
+        "Golf nets",
+        "Jogging track",
+        "Library",
+        "Card room",
+        "Outdoor games deck"
+      ],
+      "included": [
+        "Main dining room meals",
+        "Afternoon tea in the Queens Room",
+        "Entertainment and enrichment programs",
+        "Kids club",
+        "Pool and fitness center access"
+      ]
+    }
+  }
+]

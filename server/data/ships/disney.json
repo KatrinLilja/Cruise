@@ -1,0 +1,456 @@
+[
+  {
+    "id": "disney-magic",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Magic",
+    "year_built": 1998,
+    "gross_tonnage": 83338,
+    "passenger_capacity": 1750,
+    "crew": 950,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/DisneyMagicdepartsCanaveral.JPG/1280px-DisneyMagicdepartsCanaveral.JPG",
+    "ship_class": "Magic class",
+    "description": "Disney Magic is the inaugural ship of Disney Cruise Line and the lead vessel of the Magic class. Launched in 1998, she combines classic ocean liner elegance with Disney storytelling and family-focused entertainment, featuring signature Mickey Mouse bow art and iconic yellow funnels.",
+    "amenities": {
+      "dining": [
+        "Animator's Palate (rotational dining)",
+        "Lumiere's (rotational dining, French-inspired)",
+        "Rapunzel's Royal Table (rotational dining)",
+        "Cabanas (pool deck buffet)",
+        "Palo (adults-only Italian, fee applies)",
+        "Remy (adults-only French fine dining, fee applies)",
+        "Eye Scream (complimentary soft-serve)",
+        "Pinocchio's Pizzeria"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (Broadway-style shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Fathoms nightclub",
+        "O'Gills Pub",
+        "Keys piano bar",
+        "Senses Spa & Salon",
+        "24-hour character meet-and-greets",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaDunk waterslide",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool (family)",
+        "Goofy's Pool (family)",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Jogging track",
+        "Basketball court"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Edge, Vibe, It's a Small World Nursery)",
+        "Disney character experiences",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-wonder",
+    "regions": ["Alaska", "Caribbean", "Pacific Islands"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "disney",
+    "name": "Disney Wonder",
+    "year_built": 1999,
+    "gross_tonnage": 84130,
+    "passenger_capacity": 1750,
+    "crew": 950,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/DisneyWonderGlacierBay.jpg/1280px-DisneyWonderGlacierBay.jpg",
+    "ship_class": "Magic class",
+    "description": "Disney Wonder is the second ship in the Disney Cruise Line fleet and sister ship to Disney Magic. Entering service in 1999, she is beloved for her Alaska and Pacific Coast itineraries and features Ariel from The Little Mermaid as her atrium centerpiece. She underwent a major refurbishment in 2016.",
+    "amenities": {
+      "dining": [
+        "Animator's Palate (rotational dining)",
+        "Triton's (rotational dining, seafood)",
+        "Tiana's Place (rotational dining, New Orleans)",
+        "Cabanas (pool deck buffet)",
+        "Palo (adults-only Italian, fee applies)",
+        "Remy (adults-only French fine dining, fee applies)",
+        "Eye Scream (complimentary soft-serve)",
+        "Pinocchio's Pizzeria"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (Broadway-style shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Azure nightclub",
+        "WaveBands music venue",
+        "Cadillac Lounge piano bar",
+        "Senses Spa & Salon",
+        "24-hour character meet-and-greets",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaDunk waterslide",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool (family)",
+        "Goofy's Pool (family)",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Jogging track",
+        "Basketball court"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Edge, Vibe, It's a Small World Nursery)",
+        "Disney character experiences",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-dream",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Dream",
+    "year_built": 2011,
+    "gross_tonnage": 129690,
+    "passenger_capacity": 2500,
+    "crew": 1458,
+    "length_m": 340,
+    "decks": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Disney_Dream_%28ship%2C_2011%29_001.jpg/1280px-Disney_Dream_%28ship%2C_2011%29_001.jpg",
+    "ship_class": "Dream class",
+    "description": "Disney Dream is the third ship in the fleet and the lead vessel of the larger Dream class. Debuting in 2011, she introduced the AquaDuck watercoaster — the first shipboard watercoaster — and a host of innovations including virtual portholes in interior staterooms and the award-winning Animator's Palate interactive dining experience.",
+    "amenities": {
+      "dining": [
+        "Animator's Palate (rotational dining, animated show)",
+        "Royal Palace (rotational dining, French-inspired)",
+        "Enchanted Garden (rotational dining)",
+        "Cabanas (pool deck buffet)",
+        "Palo (adults-only Italian, fee applies)",
+        "Remy (adults-only French fine dining, fee applies)",
+        "Flo's Café",
+        "Eye Scream",
+        "Vanellope's Sweets & Treats"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (4 Broadway shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Skyline Bar",
+        "The District entertainment district (adults-only)",
+        "Evolution nightclub",
+        "Pink champagne bar",
+        "Senses Spa & Salon",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaDuck watercoaster (shipboard first)",
+        "AquaLab water-play area",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool & Mickey's Pool (family)",
+        "Nemo's Reef splash zone",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Mini-golf",
+        "Sports deck"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaDuck watercoaster access",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-fantasy",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Fantasy",
+    "year_built": 2012,
+    "gross_tonnage": 129690,
+    "passenger_capacity": 2500,
+    "crew": 1458,
+    "length_m": 340,
+    "decks": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Disney_Fantasy_Cruise_Ship_%286%29_%2821000557309%29.jpg/1280px-Disney_Fantasy_Cruise_Ship_%286%29_%2821000557309%29.jpg",
+    "ship_class": "Dream class",
+    "description": "Disney Fantasy is the fourth ship in the fleet and the sister ship to Disney Dream. Launched in 2012, she primarily sails seven-night Caribbean itineraries and features the popular AquaDuck watercoaster, an adults-only district, and elaborate themed spaces inspired by Disney and Pixar characters.",
+    "amenities": {
+      "dining": [
+        "Animator's Palate (rotational dining, animated show)",
+        "Royal Court (rotational dining, French-inspired)",
+        "Enchanted Garden (rotational dining)",
+        "Cabanas (pool deck buffet)",
+        "Palo (adults-only Italian, fee applies)",
+        "Remy (adults-only French fine dining, fee applies)",
+        "Flo's Café",
+        "Eye Scream",
+        "Vanellope's Sweets & Treats"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (4 Broadway shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "La Piazza (adults-only entertainment district)",
+        "Ooh La La champagne bar",
+        "Meridian Bar",
+        "Senses Spa & Salon",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaDuck watercoaster",
+        "AquaLab water-play area",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool & Mickey's Pool (family)",
+        "Nemo's Reef splash zone",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Mini-golf",
+        "Sports deck"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaDuck watercoaster access",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-wish",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Wish",
+    "year_built": 2022,
+    "gross_tonnage": 144000,
+    "passenger_capacity": 2508,
+    "crew": 1555,
+    "length_m": 342,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Wish_in_Port_Canaveral_2024.jpg/1280px-Wish_in_Port_Canaveral_2024.jpg",
+    "ship_class": "Wish class",
+    "description": "Disney Wish is the fifth ship in the fleet and lead vessel of the new Wish class. Debuting in 2022, she is the first LNG-powered Disney ship and features the world's first Disney attraction at sea — AquaMouse — along with an immersive Grand Hall themed after Cinderella's palace and themed suites for Disney princess fans.",
+    "amenities": {
+      "dining": [
+        "Arendelle: A Frozen Dining Adventure (rotational)",
+        "1923 (rotational, Hollywood golden age)",
+        "Worlds of Marvel (rotational, interactive dining show)",
+        "Marceline Market (marketplace buffet)",
+        "Palo Steakhouse (adults-only, fee applies)",
+        "Encanto: A Disney Dining Adventure (fee applies)",
+        "Connections Café & Eatery",
+        "Joyful Sweets",
+        "Star Wars: Hyperspace Lounge (fee applies)"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (3 Broadway shows including Disney Seas the Adventure)",
+        "Buena Vista Theatre (first-run movies)",
+        "Senses Spa & Salon",
+        "Luna (adults-only entertainment area)",
+        "Nightingale's (piano bar)",
+        "Quiet Seas (cocktail lounge)",
+        "Hero Zone sports bar",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaMouse (world's first Disney attraction at sea)",
+        "Disney Uncharted Adventure interactive game",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool (family)",
+        "Mickey's Splash Zone",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Sports deck"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Marketplace buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaMouse attraction access",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-treasure",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Treasure",
+    "year_built": 2024,
+    "gross_tonnage": 144256,
+    "passenger_capacity": 2492,
+    "crew": 1555,
+    "length_m": 342,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Disney_Treasure_schip_%28cropped%29.jpg/1280px-Disney_Treasure_schip_%28cropped%29.jpg",
+    "ship_class": "Wish class",
+    "description": "Disney Treasure is the sixth ship in the fleet and the second Wish-class vessel, entering service in December 2024. Themed around adventure and Disney's greatest explorers, her Grand Hall is inspired by Aladdin's Palace of Agrabah, and she features new dining concepts including dining experiences set in the worlds of Indiana Jones and Skipper Canteen.",
+    "amenities": {
+      "dining": [
+        "Worlds of Marvel (rotational, interactive dining show)",
+        "1923 (rotational, Hollywood golden age)",
+        "The Tale of Haunted Mansion (rotational)",
+        "Periscope Pub (casual dining)",
+        "Palo Steakhouse (adults-only, fee applies)",
+        "Enchante (adults-only French, fee applies)",
+        "Skipper Society (fee applies)",
+        "Marceline Market (marketplace buffet)",
+        "Joyful Sweets"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (Broadway shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Senses Spa & Salon",
+        "The Treasure Trove (adults-only nightclub)",
+        "Pearl (cocktail lounge)",
+        "D Lounge (piano bar)",
+        "Hero Zone sports bar",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaMouse watercoaster (Disney attraction at sea)",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool (family)",
+        "Mickey's Splash Zone",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Sports deck"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Marketplace buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaMouse attraction access",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-destiny",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "disney",
+    "name": "Disney Destiny",
+    "year_built": 2025,
+    "gross_tonnage": 144000,
+    "passenger_capacity": 2508,
+    "crew": 1606,
+    "length_m": 342,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Disney_Destiny_%28cropped%29.jpg/1280px-Disney_Destiny_%28cropped%29.jpg",
+    "ship_class": "Wish class",
+    "description": "Disney Destiny is the seventh ship in the fleet and the third Wish-class vessel, entering service in November 2025. Themed around Disney's greatest heroes, her Grand Hall celebrates Black Panther's Wakanda, and she is the first Disney ship to feature Marvel heroes as central atrium characters. Sponsored by Susan Egan, the voice of Meg from Hercules.",
+    "amenities": {
+      "dining": [
+        "Wakanda: A Marvel Dining Adventure (rotational)",
+        "1923 (rotational, Hollywood golden age)",
+        "Worlds of Marvel (rotational, interactive show)",
+        "Marceline Market (marketplace buffet)",
+        "Palo Steakhouse (adults-only, fee applies)",
+        "Enchante (adults-only French, fee applies)",
+        "Connections Café & Eatery",
+        "Joyful Sweets"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (Broadway shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Senses Spa & Salon",
+        "Hero District (adults-only entertainment area)",
+        "Nightingale's (piano bar)",
+        "Quiet Seas (cocktail lounge)",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaMouse (Disney attraction at sea)",
+        "Quiet Cove pool (adults-only)",
+        "Donald's Pool (family)",
+        "Mickey's Splash Zone",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Sports deck"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Marketplace buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaMouse attraction access",
+        "Pools and fitness center access"
+      ]
+    }
+  },
+  {
+    "id": "disney-adventure",
+    "regions": ["Asia", "Pacific Islands"],
+    "homeport": "Singapore",
+    "cruiseLineId": "disney",
+    "name": "Disney Adventure",
+    "year_built": 2026,
+    "gross_tonnage": 208108,
+    "passenger_capacity": 4222,
+    "crew": 2300,
+    "length_m": 343,
+    "decks": 19,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Disney_Adventure_Disney_Cruise_Line_%2855114134961%29.jpg/1280px-Disney_Adventure_Disney_Cruise_Line_%2855114134961%29.jpg",
+    "ship_class": "Global class",
+    "description": "Disney Adventure is the eighth ship in the fleet and the largest Disney cruise ship ever built, entering service in March 2026 on Asia-Pacific itineraries. Originally the Global Dream hull acquired from the bankrupt MV Werften, she was completed by Meyer Werft and christened by Robert Downey Jr. With 208,000 gross tons, she is one of the largest cruise ships in the world.",
+    "amenities": {
+      "dining": [
+        "Rotational dining restaurants (multiple)",
+        "Marketplace buffet",
+        "Palo Steakhouse (adults-only, fee applies)",
+        "Asian-inspired specialty dining",
+        "Quick-service dining venues",
+        "Adults-only fine dining (fee applies)",
+        "Joyful Sweets"
+      ],
+      "entertainment": [
+        "Walt Disney Theatre (Broadway-style shows)",
+        "Buena Vista Theatre (first-run movies)",
+        "Disney Uncharted Adventure interactive experiences",
+        "Adults-only entertainment district",
+        "Multiple themed bars and lounges",
+        "Senses Spa & Salon",
+        "Deck parties and fireworks at sea"
+      ],
+      "recreation": [
+        "AquaMouse (Disney attraction at sea)",
+        "Multiple pool areas",
+        "Quiet Cove pool (adults-only)",
+        "Water play areas",
+        "Senses Spa & Salon",
+        "Fitness center",
+        "Sports complex",
+        "Indoor attractions"
+      ],
+      "included": [
+        "Rotational dining (3 restaurants)",
+        "Marketplace buffet and quick-service meals",
+        "Broadway-style entertainment",
+        "Kids clubs (Oceaneer Club, Oceaneer Lab, Edge, Vibe)",
+        "Disney character experiences",
+        "AquaMouse attraction access",
+        "Pools and fitness center access"
+      ]
+    }
+  }
+]

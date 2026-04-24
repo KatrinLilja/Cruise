@@ -1,0 +1,604 @@
+[
+  {
+    "id": "silver-cloud",
+    "regions": ["Arctic & Antarctica", "Africa", "Indian Ocean"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "silversea",
+    "name": "Silver Cloud",
+    "year_built": 1994,
+    "gross_tonnage": 17400,
+    "passenger_capacity": 254,
+    "crew": 212,
+    "length_m": 157,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Silvercloudship.jpg/1280px-Silvercloudship.jpg",
+    "ship_class": "Cloud class",
+    "description": "Silver Cloud is Silversea's founding ship, entering service in April 1994 as the vessel that introduced all-inclusive luxury cruising to the world. Originally carrying 296 guests, she was refurbished and converted to expedition service in 2017, now carrying just 254 guests. Her compact size is a remarkable asset — she can anchor in harbours and call at remote ports completely inaccessible to larger ships, from Greek island backwaters to Norwegian fjord villages. A true piece of cruise history, Silver Cloud remains active and relevant over three decades after she first sailed.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Hot Rocks (poolside grill)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (main entertainment venue)",
+        "Panorama Lounge (observation bar)",
+        "Casino",
+        "Library",
+        "Expedition lectures and presentations"
+      ],
+      "recreation": [
+        "Pool and sun deck",
+        "Spa and wellness centre",
+        "Fitness centre",
+        "Expedition shore visits to boutique ports"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and soft drinks",
+        "All specialty restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "silver-wind",
+    "regions": ["Arctic & Antarctica", "Mediterranean", "South America"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "silversea",
+    "name": "Silver Wind",
+    "year_built": 1995,
+    "gross_tonnage": 17400,
+    "passenger_capacity": 274,
+    "crew": 212,
+    "length_m": 157,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Silverwind_cruiseship.jpg/1280px-Silverwind_cruiseship.jpg",
+    "ship_class": "Cloud class",
+    "description": "Silver Wind joined the fleet in January 1995 as sister ship to Silver Cloud, completing Silversea's inaugural pair. Like her sister, she has evolved over the decades and was converted to expedition service in 2021. Now carrying 274 guests, Silver Wind pairs Silversea's hallmark ultra-luxury all-inclusive experience with the freedom to explore remote and boutique destinations. Her intimate scale makes her one of the most agile ships in the fleet, calling at ports that larger ships can only dream of.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Hot Rocks (poolside grill)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (main entertainment venue)",
+        "Panorama Lounge (observation bar)",
+        "Casino",
+        "Library",
+        "Expedition lectures and presentations"
+      ],
+      "recreation": [
+        "Pool and sun deck",
+        "Spa and wellness centre",
+        "Fitness centre",
+        "Expedition shore visits to boutique ports"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and soft drinks",
+        "All specialty restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "silver-shadow",
+    "regions": ["Caribbean", "Mediterranean", "Asia"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "silversea",
+    "name": "Silver Shadow",
+    "year_built": 2000,
+    "gross_tonnage": 28258,
+    "passenger_capacity": 392,
+    "crew": 295,
+    "length_m": 186,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Silver_shadow_ovik02.jpg/1280px-Silver_shadow_ovik02.jpg",
+    "ship_class": "Shadow class",
+    "description": "Silver Shadow debuted in September 2000 as the first of the expanded Shadow class, carrying nearly 100 more guests than the original Cloud-class ships while retaining the all-suite, all-inclusive ethos Silversea pioneered. Built by Francisco Visentini with completion by T. Mariotti, she introduced a range of new dining venues and refined the butler service programme that distinguishes Silversea from all other luxury lines. Silver Shadow sails an eclectic programme of world itineraries, from Baltic capitals to the South Pacific.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French fine dining, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco dinner and casual daytime)",
+        "Hot Rocks (poolside grilled cuisine)",
+        "Silver Note (jazz café with tapas)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (main entertainment, cabaret and production shows)",
+        "Connoisseur's Corner (cigar and cognac bar)",
+        "Panorama Lounge (panoramic observation bar)",
+        "Casino",
+        "Library",
+        "Guest lecturer enrichment programme"
+      ],
+      "recreation": [
+        "Pool and whirlpools",
+        "Zagara Beauty Spa",
+        "Fitness centre with ocean views",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All specialty restaurants including La Dame (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-whisper",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "silversea",
+    "name": "Silver Whisper",
+    "year_built": 2001,
+    "gross_tonnage": 28258,
+    "passenger_capacity": 392,
+    "crew": 295,
+    "length_m": 186,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spb_Evening_MV_Silver_Whisper_at_English_Embankment.jpg/1280px-Spb_Evening_MV_Silver_Whisper_at_English_Embankment.jpg",
+    "ship_class": "Shadow class",
+    "description": "Silver Whisper, delivered in January 2001, is the sister ship to Silver Shadow and the second of the Shadow class. Named by Marzia Lefebvre D'Ovidio, wife of then-chairman Manfredi, she shares the same refined layout and all-suite configuration as her sister, with every suite receiving dedicated butler service. Silver Whisper is particularly celebrated for her world cruise voyages and Grand Voyages, which circumnavigate the globe over several months with a loyal following of guests who return year after year.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French fine dining, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco dinner and casual daytime)",
+        "Hot Rocks (poolside grilled cuisine)",
+        "Silver Note (jazz café with tapas)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (main entertainment, cabaret and production shows)",
+        "Connoisseur's Corner (cigar and cognac bar)",
+        "Panorama Lounge (panoramic observation bar)",
+        "Casino",
+        "Library",
+        "Guest lecturer enrichment programme"
+      ],
+      "recreation": [
+        "Pool and whirlpools",
+        "Zagara Beauty Spa",
+        "Fitness centre with ocean views",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All specialty restaurants including La Dame (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-spirit",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean", "Asia"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "silversea",
+    "name": "Silver Spirit",
+    "year_built": 2009,
+    "gross_tonnage": 39519,
+    "passenger_capacity": 608,
+    "crew": 376,
+    "length_m": 196,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Silver_Spirit_at_Pier_24_in_Port_of_Tallinn_8_August_2018.jpg/1280px-Silver_Spirit_at_Pier_24_in_Port_of_Tallinn_8_August_2018.jpg",
+    "ship_class": "Spirit class",
+    "description": "Silver Spirit was delivered by Fincantieri in 2009 as the first of a new, larger class for Silversea — the Spirit class. She carried an expanded complement of dining venues and entertainment spaces, setting the template for the Muse class that followed. In a remarkable 2018 refit, Silver Spirit was lengthened by 25 metres at the Fincantieri Palermo shipyard, increasing passenger capacity from 540 to 608 and adding new suite categories and a revised dining concept. She remains a flagship-calibre ship in the Silversea fleet.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French fine dining, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Hot Rocks (poolside lava stone grill)",
+        "Silver Note (intimate jazz café with tapas)",
+        "The Grill (casual poolside)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (main stage entertainment)",
+        "Connoisseur's Corner (cigar and cognac lounge)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures and Venetian Society events"
+      ],
+      "recreation": [
+        "Pool deck and whirlpools",
+        "Zagara Beauty Spa",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques and shops"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All specialty restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-muse",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe", "South America"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "silversea",
+    "name": "Silver Muse",
+    "year_built": 2017,
+    "gross_tonnage": 40791,
+    "passenger_capacity": 596,
+    "crew": 411,
+    "length_m": 212,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Silver_Muse%2C_Fremantle%2C_2019_%2805%29.jpg/1280px-Silver_Muse%2C_Fremantle%2C_2019_%2805%29.jpg",
+    "ship_class": "Muse class",
+    "description": "Silver Muse was delivered by Fincantieri at Sestri Ponente in April 2017, introducing the Muse class and a transformative expansion of Silversea's dining programme. For the first time, Silversea offered eight distinct restaurant concepts aboard a single ship, including the Asian-inspired Indochine, the Japanese-inspired Kaiseki, and the signature La Dame. Named by Costanza Lefebvre d'Ovidio, daughter of then-chairman Manfredi, Silver Muse set the benchmark for the Muse-class trio and raised the bar for all-inclusive dining at sea.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French gastronomic, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Indochine (Southeast Asian cuisine, included)",
+        "Kaiseki (Japanese omakase-inspired, included)",
+        "Hot Rocks (lava stone grill, poolside)",
+        "Silver Note (jazz café with creative tapas)",
+        "The Grill (casual poolside)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (full-scale productions and cabaret)",
+        "Connoisseur's Corner (premium cigars and cognac)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures (history, culture, cuisine)"
+      ],
+      "recreation": [
+        "Pool deck and whirlpools",
+        "Zagara Beauty Spa (Silversea's largest spa at the time)",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All eight restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-moon",
+    "regions": ["Mediterranean", "Caribbean", "Transatlantic"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "silversea",
+    "name": "Silver Moon",
+    "year_built": 2020,
+    "gross_tonnage": 40844,
+    "passenger_capacity": 596,
+    "crew": 411,
+    "length_m": 212,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Silver_Moon_moored_at_Pier_26_in_Port_of_Tallinn_27_August_2022.jpg/1280px-Silver_Moon_moored_at_Pier_26_in_Port_of_Tallinn_27_August_2022.jpg",
+    "ship_class": "Muse class",
+    "description": "Silver Moon, the second Muse-class ship, was delivered by Fincantieri in 2020 and named by celebrated Italian winemaker Angelo Gaja's daughter Gaia Gaja. She is an evolution of the Silver Muse design, carrying the same 596 guests across 298 suites all featuring butler service, and the same eight-restaurant dining concept. Silver Moon's debut under Royal Caribbean Group's ownership marked a new chapter for Silversea, combining the founding family's culinary legacy with the investment and scale of a major cruise group.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French gastronomic, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Indochine (Southeast Asian cuisine, included)",
+        "Kaiseki (Japanese omakase-inspired, included)",
+        "Hot Rocks (lava stone grill, poolside)",
+        "Silver Note (jazz café with creative tapas)",
+        "The Grill (casual poolside)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (full-scale productions and cabaret)",
+        "Connoisseur's Corner (premium cigars and cognac)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures and wine and food events"
+      ],
+      "recreation": [
+        "Pool deck and whirlpools",
+        "Zagara Beauty Spa",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All eight restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-origin",
+    "regions": ["South America", "Pacific Islands"],
+    "homeport": "Guayaquil, Ecuador",
+    "cruiseLineId": "silversea",
+    "name": "Silver Origin",
+    "year_built": 2020,
+    "gross_tonnage": 6365,
+    "passenger_capacity": 100,
+    "crew": 117,
+    "length_m": 101,
+    "decks": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Silver_Origin.jpg/1280px-Silver_Origin.jpg",
+    "ship_class": "Origin class",
+    "description": "Silver Origin is Silversea's first purpose-built expedition ship and the only vessel in the fleet dedicated exclusively to the Galápagos Islands. Built by Shipyard De Hoop in the Netherlands and delivered in 2020, she carries just 100 guests and sails under the Ecuadorean flag year-round. Her design was conceived from the ground up for the unique demands of Galápagos exploration — a shallow draught allows anchoring close to landing sites, Zodiacs enable wet and dry landings, and a comprehensive expedition team of naturalists, guides, and scientists brings the extraordinary ecosystem to life. She was christened by Galápagos conservationist Johanna Carrión.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Terrazza (casual alfresco dining)",
+        "In-suite dining"
+      ],
+      "entertainment": [
+        "Expedition Lounge (daily briefings and presentations)",
+        "Library with Galápagos natural history collection",
+        "Evening presentations by naturalist guides",
+        "Citizen Science participation opportunities"
+      ],
+      "recreation": [
+        "Fleet of Zodiac inflatable craft",
+        "Snorkelling equipment provided",
+        "Kayaking (selected itineraries)",
+        "Guided Galápagos shore excursions and wildlife walks",
+        "On board naturalist and expedition team",
+        "Spa and fitness facilities"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All meals and dining (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "All Galápagos expedition excursions"
+      ]
+    }
+  },
+  {
+    "id": "silver-dawn",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "silversea",
+    "name": "Silver Dawn",
+    "year_built": 2021,
+    "gross_tonnage": 40855,
+    "passenger_capacity": 596,
+    "crew": 411,
+    "length_m": 212,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Silver_Dawn_IMO_9857937_P_Sorrento_20-04-2022_%282%29.jpg/1280px-Silver_Dawn_IMO_9857937_P_Sorrento_20-04-2022_%282%29.jpg",
+    "ship_class": "Muse class",
+    "description": "Silver Dawn is the third and final Muse-class ship, delivered by Fincantieri in 2021. She is the most refined iteration of the Muse blueprint, also notable for introducing Silversea's new grey hull livery — a striking departure from the white hulls of the previous fleet. Named by American food and travel writer Nilou Motamed, Silver Dawn brings together all the hallmarks of the Muse class — eight restaurants, intimate scale, butler service — with contemporary interior touches that look towards the new Evolution class. She sails Mediterranean, Northern Europe, and Caribbean itineraries.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Dame (French gastronomic, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco breakfast and dinner)",
+        "Indochine (Southeast Asian cuisine, included)",
+        "Kaiseki (Japanese omakase-inspired, included)",
+        "Hot Rocks (lava stone grill, poolside)",
+        "Silver Note (jazz café with creative tapas)",
+        "The Grill (casual poolside)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "The Show Lounge (full-scale productions and cabaret)",
+        "Connoisseur's Corner (premium cigars and cognac)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures and cultural programmes"
+      ],
+      "recreation": [
+        "Pool deck and whirlpools",
+        "Zagara Beauty Spa",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All eight restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-endeavour",
+    "regions": ["Arctic & Antarctica", "Africa", "Pacific Islands"],
+    "homeport": "Ushuaia, Argentina",
+    "cruiseLineId": "silversea",
+    "name": "Silver Endeavour",
+    "year_built": 2021,
+    "gross_tonnage": 20649,
+    "passenger_capacity": 220,
+    "crew": 200,
+    "length_m": 165,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Silver_Endeavour_-_Gerlache_Strait_-_Antarctica_-_V-P.jpg/1280px-Silver_Endeavour_-_Gerlache_Strait_-_Antarctica_-_V-P.jpg",
+    "ship_class": "Endeavour class",
+    "description": "Silver Endeavour is the crown jewel of Silversea's expedition fleet, acquired in 2022 from the defunct Crystal Cruises where she sailed as Crystal Endeavour. Built by MV Werften in Stralsund, Germany to Polar Class 6 standards, she is the most advanced polar expedition ship in the world at the ultra-luxury level. Carrying just 220 guests with 200 crew — an extraordinary near 1:1 ratio — every voyage comes with a full expedition team of scientists, historians, geographers, and naturalists. Christened by polar explorer Felicity Aston, Silver Endeavour is the gold standard for luxury expedition cruising.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "La Terrazza (Italian, alfresco and indoor casual)",
+        "Silver Note (jazz café, evening snacks and light bites)",
+        "Hot Rocks (grill)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "Expedition Lounge (daily team briefings, lectures, social hub)",
+        "Panorama Lounge (observation bar)",
+        "Library with polar and expedition references",
+        "Expert naturalist and scientist presentations",
+        "Citizen Science participation",
+        "Enrichment programme and evening lectures"
+      ],
+      "recreation": [
+        "Fleet of Zodiac inflatable craft",
+        "Kayaking and paddleboarding (selected voyages)",
+        "Expedition mudroom (equipment storage and boot station)",
+        "Polar Class 6 ice-strengthened hull",
+        "Spa and wellness centre",
+        "Fitness centre",
+        "Outdoor observation decks"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All restaurants (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "All expedition excursions and Zodiac landings",
+        "Expedition parka and Wellington boots"
+      ]
+    }
+  },
+  {
+    "id": "silver-nova",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic", "Northern Europe"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "silversea",
+    "name": "Silver Nova",
+    "year_built": 2023,
+    "gross_tonnage": 55051,
+    "passenger_capacity": 728,
+    "crew": 511,
+    "length_m": 244,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Silver_nova.jpg/1280px-Silver_nova.jpg",
+    "ship_class": "Evolution class",
+    "description": "Silver Nova is Silversea's largest ship and the first of the innovative Evolution class, delivered by Meyer Werft in Germany in July 2023. Her most striking feature is an asymmetric hull design — a first for the cruise industry — which positions public spaces and terraces to maximise ocean views and eliminate the traditional corridor-heavy layout of conventional ships. She introduces the S.A.L.T. (Sea and Land Taste) culinary programme, a Silversea-exclusive food philosophy connecting guests to the culture and cuisine of every destination through hands-on cooking classes, food-focused excursions, and a dedicated kitchen studio. Named by chef Nina Compton in January 2024 to mark Silversea's 30th anniversary.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "S.A.L.T. Kitchen (destination-driven cuisine, signature programme)",
+        "La Dame (French gastronomic, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco)",
+        "Indochine (Southeast Asian, included)",
+        "Kaiseki (Japanese omakase-inspired, included)",
+        "Hot Rocks (lava stone grill)",
+        "Silver Note (jazz café)",
+        "The Grill (poolside casual)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "Arts Café (cultural hub, arts and crafts, workshops)",
+        "S.A.L.T. Bar (cocktails inspired by port destinations)",
+        "The Show Lounge (main production entertainment)",
+        "Connoisseur's Corner (cigars and cognac)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures and cultural events"
+      ],
+      "recreation": [
+        "S.A.L.T. Lab (culinary studio for cooking classes)",
+        "S.A.L.T. Cellar (wine and spirits tasting room)",
+        "Infinity pool and sun deck",
+        "Zagara Beauty Spa",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All restaurants including S.A.L.T. Kitchen (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  },
+  {
+    "id": "silver-ray",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean", "South America"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "silversea",
+    "name": "Silver Ray",
+    "year_built": 2024,
+    "gross_tonnage": 55051,
+    "passenger_capacity": 728,
+    "crew": 511,
+    "length_m": 244,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SILVER_RAY_%2854516976411%29.jpg/1280px-SILVER_RAY_%2854516976411%29.jpg",
+    "ship_class": "Evolution class",
+    "description": "Silver Ray is the sister ship to Silver Nova and the second Evolution-class vessel, delivered by Meyer Werft in May 2024 — two days ahead of schedule — with her maiden voyage departing Lisbon in June 2024. She shares Silver Nova's groundbreaking asymmetric hull design and S.A.L.T. culinary programme, and was named by ocean scientist Maria Josefina Olascoaga. Silver Ray is the newest ship in the Silversea fleet and represents the line's vision for the future of ultra-luxury ocean cruising: innovative design, destination-focused cuisine, and the same uncompromising all-inclusive luxury that Silversea has delivered since 1994.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "S.A.L.T. Kitchen (destination-driven cuisine, signature programme)",
+        "La Dame (French gastronomic, Relais & Châteaux, included)",
+        "La Terrazza (Italian, alfresco)",
+        "Indochine (Southeast Asian, included)",
+        "Kaiseki (Japanese omakase-inspired, included)",
+        "Hot Rocks (lava stone grill)",
+        "Silver Note (jazz café)",
+        "The Grill (poolside casual)",
+        "In-suite dining (24 hours, full menu)"
+      ],
+      "entertainment": [
+        "Arts Café (cultural hub, arts and crafts, workshops)",
+        "S.A.L.T. Bar (cocktails inspired by port destinations)",
+        "The Show Lounge (main production entertainment)",
+        "Connoisseur's Corner (cigars and cognac)",
+        "Panorama Lounge (skyline bar)",
+        "Casino",
+        "Library",
+        "Enrichment lectures and cultural events"
+      ],
+      "recreation": [
+        "S.A.L.T. Lab (culinary studio for cooking classes)",
+        "S.A.L.T. Cellar (wine and spirits tasting room)",
+        "Infinity pool and sun deck",
+        "Zagara Beauty Spa",
+        "Fitness centre",
+        "Jogging track",
+        "Boutiques"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and beverages",
+        "All restaurants including S.A.L.T. Kitchen (no surcharge)",
+        "Butler service for every guest",
+        "All gratuities",
+        "Wi-Fi",
+        "One complimentary shore excursion per port (classic fare)"
+      ]
+    }
+  }
+]

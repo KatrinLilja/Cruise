@@ -1,0 +1,367 @@
+[
+  {
+    "id": "wind-star",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Bridgetown, Barbados",
+    "cruiseLineId": "windstar",
+    "name": "Wind Star",
+    "year_built": 1986,
+    "gross_tonnage": 5307,
+    "passenger_capacity": 148,
+    "crew": 101,
+    "length_m": 134,
+    "decks": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Wind_Star_at_Kusadasi_2012_DSCF1907bearb..jpg/1280px-Wind_Star_at_Kusadasi_2012_DSCF1907bearb..jpg",
+    "ship_class": "Wind class",
+    "description": "Wind Star is the lead ship of the Windstar fleet and one of the most distinctive cruise vessels ever built: a four-masted computer-controlled sailing yacht carrying just 148 guests in 74 ocean-view suites. Launched in 1986 at the Ateliers et Chantiers du Havre shipyard in France, she was conceived by designer Marc Held and naval architect Warwick Tompkins Jr. as a synthesis of a classic windjammer and a modern luxury yacht. Her most memorable moment comes each day at sea when the sails — nearly 1,500 square metres of white Dacron on four towering masts — unfurl automatically at sunset while the Windstar signature melody plays over the speakers, a ritual that defines the line's romance at sea. Wind Star's small size allows her to anchor in harbours inaccessible to larger ships, particularly in the Greek islands, Adriatic, and Caribbean.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating, candlelit ambience)",
+        "Candles (outdoor grill dinner on deck, no surcharge)",
+        "Veranda Cafe (casual breakfast and lunch buffet)",
+        "Compass Rose (poolside bar and light bites)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (cocktail bar, live music, evening entertainment)",
+        "Sail-away experience — sails unfurl with signature music",
+        "Deck barbecue evenings",
+        "Port talks, enrichment lectures, stargazing",
+        "Library and board games"
+      ],
+      "recreation": [
+        "Aft water sports marina (water skiing, kayaking, windsurfing, paddleboarding, snorkeling equipment — all complimentary)",
+        "Outdoor pool and whirlpool",
+        "The Spa by Windstar (massage, body treatments, salon)",
+        "Fitness centre"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Evening entertainment in The Lounge",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "wind-spirit",
+    "regions": ["Pacific Islands", "Caribbean"],
+    "homeport": "Papeete, Tahiti",
+    "cruiseLineId": "windstar",
+    "name": "Wind Spirit",
+    "year_built": 1988,
+    "gross_tonnage": 5307,
+    "passenger_capacity": 148,
+    "crew": 90,
+    "length_m": 134,
+    "decks": 4,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Wind_Spirit_-_Bodrum%2C_Turkey.JPG/1280px-Wind_Spirit_-_Bodrum%2C_Turkey.JPG",
+    "ship_class": "Wind class",
+    "description": "Wind Spirit is the sister ship to Wind Star and shares her four-mast computer-controlled sail configuration, 74 ocean-view suites, and 148-guest capacity. Launched in 1988 at the same French shipyard, she has become especially beloved for her Tahiti and French Polynesia programme — one of the most celebrated itineraries in all of cruising. Sailing the islands of Bora Bora, Moorea, Raiatea, Huahine, and Taha'a, Wind Spirit accesses private anchorages and remote motus where larger ships cannot follow. Her intimate atmosphere, signature teak deck, and open-seating dining make her feel more like a private yacht charter than a traditional cruise. She also sails Mediterranean and Greek Islands programmes during European season.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating, candlelit ambience)",
+        "Candles (outdoor grill dinner on deck, no surcharge)",
+        "Veranda Cafe (casual breakfast and lunch buffet)",
+        "Compass Rose (poolside bar and light bites)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (cocktail bar, live music, evening entertainment)",
+        "Sail-away experience — sails unfurl with signature music",
+        "Deck barbecue evenings",
+        "Port talks, enrichment lectures, stargazing",
+        "Library and board games"
+      ],
+      "recreation": [
+        "Aft water sports marina (water skiing, kayaking, windsurfing, paddleboarding, snorkeling — all complimentary)",
+        "Outdoor pool and whirlpool",
+        "The Spa by Windstar (massage, body treatments, salon)",
+        "Fitness centre"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Evening entertainment in The Lounge",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "wind-surf",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Bridgetown, Barbados",
+    "cruiseLineId": "windstar",
+    "name": "Wind Surf",
+    "year_built": 1989,
+    "gross_tonnage": 14745,
+    "passenger_capacity": 342,
+    "crew": 210,
+    "length_m": 187,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Wind_Surf_%28ship%2C_1989%29.jpg/1280px-Wind_Surf_%28ship%2C_1989%29.jpg",
+    "ship_class": "Wind class",
+    "description": "Wind Surf is the flagship of Windstar Cruises and, at 14,745 GT and 187 metres, one of the world's largest sailing cruise ships. She was built as La Fayette in 1989 and entered service in 1990 as Club Med 1, operating under Club Med Cruises for eight years before Windstar acquired her in 1998. A five-masted staysail schooner, she carries approximately 2,400 square metres of Dacron sail on five towering masts, each controlled by a central computer that reads wind speed, direction, and ship speed to optimise the sail plan automatically. Despite carrying 342 guests — more than twice the capacity of her sister ships — she retains Windstar's hallmark intimacy through 150 ocean-view staterooms and 18 suites, open seating, and no formal nights. Wind Surf offers more facilities than Wind Star or Spirit including a casino, additional lounges, and a larger spa.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating)",
+        "Candles (outdoor grill specialty dinner, no surcharge)",
+        "The Veranda (casual indoor and alfresco breakfast and lunch)",
+        "Compass Rose (poolside bar and light bites)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge and Casino",
+        "The Compass Rose Bar",
+        "Sail-away experience — five masts unfurl with signature music",
+        "Deck barbecue evenings and themed parties",
+        "Port talks, wine and culinary events, enrichment lectures",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina (water skiing, kayaking, windsurfing, paddleboarding, snorkeling — all complimentary)",
+        "Outdoor pool and two whirlpools",
+        "The Spa by Windstar (full treatment menu, thermal suite, salon)",
+        "Fitness centre with ocean-view cardio equipment",
+        "Casino"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Evening entertainment",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "star-breeze",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe"],
+    "homeport": "Athens (Piraeus), Greece",
+    "cruiseLineId": "windstar",
+    "name": "Star Breeze",
+    "year_built": 1989,
+    "gross_tonnage": 12995,
+    "passenger_capacity": 312,
+    "crew": 164,
+    "length_m": 160,
+    "decks": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Star_Breeze_in_Portoferraio_%28cropped%29.jpg/1280px-Star_Breeze_in_Portoferraio_%28cropped%29.jpg",
+    "ship_class": "Star Plus class",
+    "description": "Star Breeze was built in 1989 as Seabourn Spirit by Schichau-Seebeckwerft in Bremerhaven, Germany — a ship that became famous when she repelled a Somali pirate attack in November 2005, 115 kilometres off the coast of Somalia, using a Long Range Acoustic Device. After 26 years of Seabourn service, she joined Windstar in 2015. Between 2020 and 2021 she underwent Windstar's Star Plus Initiative: a shipyard stretch of 84 feet that added a new mid-section, increasing her length to 160 metres, capacity from 208 to 312 all-suite guests, and adding new specialty restaurants, a pool, and a redesigned spa and fitness centre. Today Star Breeze is an all-suite, all-outside-cabin motor yacht with a guest-to-crew ratio of under 2:1.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating all day)",
+        "Candles (outdoor specialty dinner, no surcharge)",
+        "Veranda Cafe (casual breakfast and lunch, indoor and alfresco)",
+        "Compass Rose (poolside bar)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (main entertainment venue, live music nightly)",
+        "Yacht Club (forward observation bar)",
+        "Deck barbecues and themed evenings",
+        "Port talks and destination enrichment programmes",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina (kayaking, paddleboarding, snorkeling, water skiing — complimentary)",
+        "Outdoor pool and whirlpools",
+        "The Spa by Windstar (massage, facials, salon)",
+        "Fitness centre"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Candles specialty dinner (no surcharge)",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "star-legend",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean", "South America"],
+    "homeport": "Lisbon, Portugal",
+    "cruiseLineId": "windstar",
+    "name": "Star Legend",
+    "year_built": 1992,
+    "gross_tonnage": 12995,
+    "passenger_capacity": 312,
+    "crew": 164,
+    "length_m": 160,
+    "decks": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Star_Legend_in_the_Kiel_Canal_XII.jpg/1280px-Star_Legend_in_the_Kiel_Canal_XII.jpg",
+    "ship_class": "Star Plus class",
+    "description": "Star Legend has one of the most storied careers in luxury cruising: built in 1992 by Schichau-Seebeckwerft as Royal Viking Queen for Royal Viking Line, passing to Royal Cruise Line as Queen Odyssey, then Seabourn Cruise Line as Seabourn Legend, before joining Windstar in 2015. Her designers — Petter Yran and Bjørn Storbraaten — gave her a timeless yacht interior that has aged beautifully. In 2021 she underwent the Star Plus stretch, adding 84 feet and expanding capacity to 312 all-suite guests. Star Legend sails a broad programme spanning the British Isles, Nordic capitals, the Kiel Canal, Black Sea, and Mediterranean, offering the intimacy and port access of a private yacht with the facilities of a small luxury ship.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating all day)",
+        "Candles (outdoor specialty dinner, no surcharge)",
+        "Veranda Cafe (casual breakfast and lunch)",
+        "Compass Rose (poolside bar)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (main entertainment venue, live music nightly)",
+        "Yacht Club (forward observation lounge)",
+        "Deck barbecues and themed evenings",
+        "Port talks and destination enrichment programmes",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina (kayaking, paddleboarding, snorkeling, water skiing — complimentary)",
+        "Outdoor pool and whirlpools",
+        "The Spa by Windstar (massage, facials, salon)",
+        "Fitness centre"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Candles specialty dinner (no surcharge)",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "star-pride",
+    "regions": ["Northern Europe", "Mediterranean", "Caribbean"],
+    "homeport": "Copenhagen, Denmark",
+    "cruiseLineId": "windstar",
+    "name": "Star Pride",
+    "year_built": 1988,
+    "gross_tonnage": 12995,
+    "passenger_capacity": 312,
+    "crew": 188,
+    "length_m": 159,
+    "decks": 5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Star_Pride%2C_8_January_2016.jpg/1280px-Star_Pride%2C_8_January_2016.jpg",
+    "ship_class": "Star Plus class",
+    "description": "Star Pride is the eldest of the three former Seabourn ships in the Windstar fleet, built in 1988 as Seabourn Pride — the first vessel ever operated by Seabourn Cruise Line. Christened by Shirley Temple Black in a Panama Canal maiden voyage, she was regarded as the finest small cruise ship ever built at her launch. After 26 years under the Seabourn pennant she became the first of the trio to join Windstar in May 2014. Like her sisters she underwent the Star Plus Initiative stretch in 2021, gaining 84 feet to reach 159 metres and expanding to 312 all-suite guests. Star Pride retains an original Nautilus Room in the hull — an unusual illuminated underwater viewing chamber — unique among Windstar ships. She primarily sails Caribbean, South America, and Central America itineraries.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating all day)",
+        "Candles (outdoor specialty dinner, no surcharge)",
+        "Veranda Cafe (casual breakfast and lunch)",
+        "Compass Rose (poolside bar)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (main entertainment venue, live music nightly)",
+        "Yacht Club (forward observation lounge)",
+        "Deck barbecues and themed evenings",
+        "Port talks and destination enrichment programmes",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina (kayaking, paddleboarding, snorkeling, water skiing — complimentary)",
+        "Outdoor pool and whirlpools",
+        "The Spa by Windstar (massage, facials, salon)",
+        "Fitness centre",
+        "Nautilus Room (unique illuminated underwater viewing chamber in the hull)"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "Basic Wi-Fi",
+        "Candles specialty dinner (no surcharge)",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "star-seeker",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Bridgetown, Barbados",
+    "cruiseLineId": "windstar",
+    "name": "Star Seeker",
+    "year_built": 2025,
+    "gross_tonnage": 9315,
+    "passenger_capacity": 224,
+    "crew": 133,
+    "length_m": 132,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/9835719_World_Explorer_2019.jpg/1280px-9835719_World_Explorer_2019.jpg",
+    "ship_class": "Star class",
+    "description": "Star Seeker is the first purpose-built new ship in Windstar's history, entering service in December 2025 and christened at PortMiami in January 2026. She represents a third generation of Windstar vessels: a 224-guest all-suite luxury yacht designed from the keel up. Built to an ice-strengthened hull classification, she can operate in sensitive polar and sub-polar environments inaccessible to non-ice-rated ships. All 112 suites feature either private verandas or floor-to-ceiling infinity windows, with 12 suite categories including two Horizon Owner's Suites with wrap-around balconies at 548 sq ft. Her standout dining venue is Basil + Bamboo — an Asian-fusion specialty restaurant reflecting the new global itineraries the Star class has been designed to explore, including Japan, Southeast Asia, Alaska, and the Caribbean. Her Rolls-Royce Tier III-compliant engines represent a significant environmental step forward for the Windstar fleet.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating)",
+        "Basil + Bamboo (Asian-fusion specialty restaurant, no surcharge)",
+        "Yacht Club Café (casual all-day café and bar with panoramic windows)",
+        "Star Grill (poolside grill)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (main entertainment venue, live music)",
+        "Yacht Club (signature bar and social hub)",
+        "Deck events and themed evenings",
+        "Port talks, expedition lectures, culinary enrichment",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina platform (kayaking, paddleboarding, snorkeling — complimentary)",
+        "Infinity pool and whirlpools",
+        "World Spa by Windstar (two-storey spa, extensive treatment menu, thermal areas, salon)",
+        "Full-size fitness centre with ocean views",
+        "Ice-strengthened hull for sensitive environment itineraries"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "All specialty restaurants including Basil + Bamboo (no surcharge)",
+        "Basic Wi-Fi",
+        "Use of fitness centre"
+      ]
+    }
+  },
+  {
+    "id": "star-explorer",
+    "regions": ["Mediterranean", "Caribbean", "South America"],
+    "homeport": "Athens (Piraeus), Greece",
+    "cruiseLineId": "windstar",
+    "name": "Star Explorer",
+    "year_built": 2026,
+    "gross_tonnage": 9923,
+    "passenger_capacity": 224,
+    "crew": 133,
+    "length_m": 132,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/9835719_World_Explorer_2019.jpg/1280px-9835719_World_Explorer_2019.jpg",
+    "ship_class": "Star class",
+    "description": "Star Explorer is the second purpose-built Star Class ship, scheduled to enter service in December 2026. She is the sister ship of Star Seeker and shares the same ice-strengthened hull, 112 all-suite configuration, Basil + Bamboo Asian-fusion specialty restaurant, and World Spa by Windstar. Named to evoke a spirit of discovery, Star Explorer will focus on itineraries that push the boundaries of small-ship cruising — including expedition-style sailings to remote coasts alongside the Mediterranean, Caribbean, and Asia programmes shared with her sister. Her 9,923 GT places her marginally larger than Star Seeker, reflecting refinements made during construction. Together the two Star Class ships mark the most significant fleet renewal in Windstar's four-decade history.",
+    "amenities": {
+      "dining": [
+        "Amphora Restaurant (main dining, open seating)",
+        "Basil + Bamboo (Asian-fusion specialty restaurant, no surcharge)",
+        "Yacht Club Café (casual all-day café and bar with panoramic windows)",
+        "Star Grill (poolside grill)",
+        "24-hour room service"
+      ],
+      "entertainment": [
+        "The Lounge (main entertainment venue, live music)",
+        "Yacht Club (signature bar and social hub)",
+        "Deck events and themed evenings",
+        "Port talks, expedition lectures, culinary enrichment",
+        "Library"
+      ],
+      "recreation": [
+        "Aft water sports marina platform (kayaking, paddleboarding, snorkeling — complimentary)",
+        "Infinity pool and whirlpools",
+        "World Spa by Windstar (two-storey spa, extensive treatment menu, thermal areas, salon)",
+        "Full-size fitness centre with ocean views",
+        "Ice-strengthened hull for sensitive environment itineraries"
+      ],
+      "included": [
+        "Complimentary wine and beer with lunch and dinner",
+        "All water sports from the aft marina platform (no surcharge)",
+        "All specialty restaurants including Basil + Bamboo (no surcharge)",
+        "Basic Wi-Fi",
+        "Use of fitness centre"
+      ]
+    }
+  }
+]

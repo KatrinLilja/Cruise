@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "wonder-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Wonder of the Seas",
+    "year_built": 2022,
+    "gross_tonnage": 236857,
+    "passenger_capacity": 6988,
+    "crew": 2300,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/oasis/oasis-of-the-seas-labadee-haiti-aft.jpg",
+    "ship_class": "Oasis class",
+    "description": "Wonder of the Seas is the world's largest cruise ship by gross tonnage. It features eight distinct neighborhoods, a zip line, 10 water slides, an ice skating rink, a surf simulator, and a wide variety of dining and entertainment options.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "Up to 9 specialty restaurants"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "The Ultimate Abyss slide",
+        "Zip line",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including H2O Zone kids waterpark",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "icon-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Icon of the Seas",
+    "year_built": 2024,
+    "gross_tonnage": 248663,
+    "passenger_capacity": 7600,
+    "crew": 2350,
+    "length_m": 365,
+    "decks": 20,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/icon/icon-of-the-seas-aerial-aft-sea-day-thrill-island-flowrider.jpg",
+    "ship_class": "Icon class",
+    "description": "Icon of the Seas debuted in 2024 as the world's largest cruise ship. It features six water slides, the largest waterpark at sea, eight neighborhoods, and a tropical garden, representing the next generation of Royal Caribbean mega-ships.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Surfside Eatery",
+        "Giovanni's Italian Kitchen & Cicchetti (specialty)",
+        "Izumi Hibachi & Sushi (specialty)",
+        "Hooked Seafood (specialty)",
+        "Chops Grille (specialty)",
+        "Empire Supper Club (specialty)"
+      ],
+      "entertainment": [
+        "AquaDome water theater",
+        "Category 6 waterpark (6 slides — largest at sea)",
+        "Crown's Edge sky walk experience",
+        "RipCord by iFly indoor skydiving simulator",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "6 pools including Chill Island and Surfside family area",
+        "20 hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Mini golf",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to all pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "symphony-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Symphony of the Seas",
+    "year_built": 2018,
+    "gross_tonnage": 228081,
+    "passenger_capacity": 6680,
+    "crew": 2200,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/promotions/2022/may/may-flash-3-wow/Symphony_HP_Jumbotron_1920_1080_FAM-NF_2x.jpg",
+    "ship_class": "Oasis class",
+    "description": "Symphony of the Seas was the world's largest cruise ship when it launched in 2018. A sister ship to Wonder of the Seas, it features the same eight neighborhoods including Central Park, Boardwalk, and the thrilling Perfect Storm waterslides.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "Up to 9 specialty restaurants"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "The Perfect Storm waterslides",
+        "Zip line",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway shows (including Grease)",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including H2O Zone kids waterpark",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "harmony-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Harmony of the Seas",
+    "year_built": 2016,
+    "gross_tonnage": 226963,
+    "passenger_capacity": 6687,
+    "crew": 2100,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/harmony-of-the-seas-bow-angle.jpg",
+    "ship_class": "Oasis class",
+    "description": "Harmony of the Seas was the world's largest cruise ship when it launched in 2016. The third Oasis-class vessel features 20 restaurants and bars, a 10-story slide called The Ultimate Abyss, a FlowRider surf simulator, and the beloved Central Park and Boardwalk neighborhoods.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "Up to 9 specialty restaurants"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "The Ultimate Abyss (10-story dry slide)",
+        "Zip line",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway shows (Grease, Cats, or Hairspray)",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including H2O Zone kids waterpark",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "allure-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Allure of the Seas",
+    "year_built": 2010,
+    "gross_tonnage": 225282,
+    "passenger_capacity": 6296,
+    "crew": 2384,
+    "length_m": 362,
+    "decks": 16,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/launch-images/Oasis-verdure-aerial.jpg",
+    "ship_class": "Oasis class",
+    "description": "Allure of the Seas is the second Oasis-class ship, launched in 2010. After a major amplification in 2020, it received new waterslides, a redesigned Boardwalk, updated dining including Sabor Modern Mexican, and a refreshed pool deck.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "Sabor Modern Mexican (specialty)",
+        "Giovanni's Table (specialty)",
+        "Chops Grille (specialty)",
+        "150 Central Park (specialty)",
+        "Coastal Kitchen (suite guests)",
+        "Sorrento's Pizza"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "Zip line",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway shows (Mamma Mia)",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including H2O Zone kids waterpark",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "oasis-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Oasis of the Seas",
+    "year_built": 2009,
+    "gross_tonnage": 225282,
+    "passenger_capacity": 6296,
+    "crew": 2165,
+    "length_m": 362,
+    "decks": 16,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/geotargeting/2022-geotargeting-setup/southeast/perfect-day-coco-cay-oasis-of-the-seas-aerial-morning-view.jpg",
+    "ship_class": "Oasis class",
+    "description": "Oasis of the Seas pioneered a new era of cruising when it debuted in 2009 as the first Oasis-class ship. It introduced the revolutionary neighborhood concept — seven distinct areas including a Central Park, Boardwalk, and Royal Promenade — that transformed modern cruise ship design.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "Giovanni's Table (specialty)",
+        "Chops Grille (specialty)",
+        "150 Central Park (specialty)",
+        "Johnny Rockets (specialty)"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "Zip line",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including H2O Zone kids waterpark",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "Flowrider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "quantum-of-the-seas",
+    "regions": ["Asia", "Australia & New Zealand"],
+    "homeport": "Singapore",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Quantum of the Seas",
+    "year_built": 2014,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4905,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/quantum/quantum-of-the-seas-dusk.jpg",
+    "ship_class": "Quantum class",
+    "description": "Quantum of the Seas introduced a wave of innovations when it launched in 2014, including the North Star observation pod that lifts guests 300 feet above sea level, RipCord by iFly skydiving simulator, and Two70 — an immersive entertainment venue with 270-degree views.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (American Icon, Chic, Silk, The Grande)",
+        "Windjammer buffet",
+        "Café Two70",
+        "Coastal Kitchen (suite guests)",
+        "Jamie's Italian (specialty)",
+        "Izumi Hibachi & Sushi (specialty)",
+        "Wonderland (specialty)",
+        "Hooked Seafood (specialty)",
+        "Sorrento's Pizza"
+      ],
+      "entertainment": [
+        "Two70 immersive entertainment venue",
+        "RipCord by iFly indoor skydiving simulator",
+        "North Star glass observation capsule",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "SeaPlex indoor sports complex (bumper cars, roller skating, circus school)",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "2 pools",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining venues and Windjammer buffet",
+        "Live entertainment and shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools and fitness center",
+        "Complimentary North Star rides and iFly sessions (limited per sailing)"
+      ]
+    }
+  },
+  {
+    "id": "anthem-of-the-seas",
+    "regions": ["Caribbean", "Transatlantic", "Northern Europe"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Anthem of the Seas",
+    "year_built": 2015,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4905,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/anthem-of-the-seas/image/anthem-of-the-seas-aerial-stern-sailing.jpg",
+    "ship_class": "Quantum class",
+    "description": "Anthem of the Seas is the second Quantum-class ship and the largest ship based year-round in the UK. It shares its sister ship's signature innovations — North Star, iFly, Two70 — and is known for its Wonderland surrealist restaurant and SeaPlex, the largest indoor activity complex at sea.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room (American Icon, Chic, Silk, The Grande)",
+        "Windjammer buffet",
+        "Café Two70",
+        "Coastal Kitchen (suite guests)",
+        "Jamie's Italian (specialty)",
+        "Izumi Hibachi & Sushi (specialty)",
+        "Wonderland (specialty)",
+        "Hooked Seafood (specialty)",
+        "Sorrento's Pizza"
+      ],
+      "entertainment": [
+        "Two70 immersive entertainment venue",
+        "RipCord by iFly indoor skydiving simulator",
+        "North Star glass observation capsule",
+        "Flowrider surf simulator",
+        "Rock climbing wall",
+        "SeaPlex indoor sports complex (bumper cars, roller skating, circus school)",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "2 pools",
+        "Solarium (adults-only pool)",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in main dining venues and Windjammer buffet",
+        "Live entertainment and shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools and fitness center",
+        "Complimentary North Star rides and iFly sessions (limited per sailing)"
+      ]
+    }
+  },
+  {
+    "id": "utopia-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Utopia of the Seas",
+    "year_built": 2024,
+    "gross_tonnage": 236857,
+    "passenger_capacity": 5698,
+    "crew": 2350,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://images.ctfassets.net/1j5frcmicrux/P4pm4lD6ZcOHtNVGpzuyb/3185687a191602bf8c391a4d12f25417/share-reveal-comp.jpg",
+    "ship_class": "Icon class",
+    "description": "Utopia of the Seas is totally transforming weekend vacations for good with bigger flavor, bolder play, and better chill days than you've ever imagined. Sail year-round from Port Canaveral to Perfect Day at CocoCay, Royal Caribbean's award-winning private island.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "21 dining venues including Chops Grille, Giovanni's, Izumi, Hooked Seafood"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "FlowRider surf simulator",
+        "Zip line",
+        "Rock climbing wall",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues",
+        "3 waterslides"
+      ],
+      "recreation": [
+        "5 pools including Splashaway Bay and adults-only Solarium",
+        "8 hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "star-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Star of the Seas",
+    "year_built": 2025,
+    "gross_tonnage": 250800,
+    "passenger_capacity": 7600,
+    "crew": 2350,
+    "length_m": 365,
+    "decks": 20,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/star/asset/star-of-the-seas-aerial-bow-angle-evening-crop.jpg",
+    "ship_class": "Icon class",
+    "description": "The World's Best Family Vacation, Star of the Seas is now sailing from Port Canaveral as the newest Icon Class ship. Loaded with next-level thrills, world-class dining, and unforgettable entertainment for every member of the family.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace buffet",
+        "Park Café",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Coastal Kitchen (suite guests)",
+        "Multiple specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "AquaTheater water shows",
+        "Category 6 waterpark",
+        "Crown's Edge sky walk",
+        "FlowRider surf simulator",
+        "Zip line",
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Multiple pools including family and adults-only Solarium",
+        "Hot tubs",
+        "Full-service spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer buffet",
+        "Live entertainment and Broadway shows",
+        "Kids & teens clubs (Adventure Ocean)",
+        "Access to pools, fitness center, and sports areas",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "ovation-of-the-seas",
+    "regions": ["Alaska", "Australia & New Zealand", "Asia"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Ovation of the Seas",
+    "year_built": 2016,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4180,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/ovation-of-the-seas-northstar-aerial.jpg",
+    "ship_class": "Quantum class",
+    "description": "Ovation of the Seas is one of the world's most groundbreaking ships. Fantastic entertainment, game-changing family fun you can enjoy in any climate, and breathtaking vistas from every stateroom make it truly remarkable.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "Café Two70",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Park Café",
+        "Specialty restaurants (Wonderland, Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "Two70 flexible venue with robotic screens",
+        "SeaPlex indoor sports complex",
+        "RipCord by iFly indoor skydiving simulator",
+        "FlowRider surf simulator",
+        "NorthStar observation capsule",
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club"
+      ],
+      "recreation": [
+        "Indoor/outdoor pool area",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Bumper cars at SeaPlex"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "spectrum-of-the-seas",
+    "regions": ["Asia", "Pacific Islands"],
+    "homeport": "Shanghai, China",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Spectrum of the Seas",
+    "year_built": 2019,
+    "gross_tonnage": 169379,
+    "passenger_capacity": 4246,
+    "crew": 1551,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/spectrum/assets/spectrum-of-the-seas-aerial-skypad-hero.jpg",
+    "ship_class": "Quantum Ultra class",
+    "description": "Discover a cruise adventure full of new feats and firsts on Spectrum of the Seas, the first of the Quantum Ultra Class cruise ships. Featuring the Ultimate Family Suite, SkySea capsule, and a Star of the Seas dining hall.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "Café Two70",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Star of the Seas dining hall",
+        "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "Two70 flexible venue with robotic screens",
+        "SeaPlex indoor sports complex",
+        "RipCord by iFly indoor skydiving simulator",
+        "FlowRider surf simulator",
+        "SkySea observation capsule",
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club"
+      ],
+      "recreation": [
+        "Indoor/outdoor pool area",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Bumper cars at SeaPlex"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "odyssey-of-the-seas",
+    "regions": ["Caribbean", "Mediterranean", "Transatlantic"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Odyssey of the Seas",
+    "year_built": 2021,
+    "gross_tonnage": 169379,
+    "passenger_capacity": 4198,
+    "crew": 1551,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/odyssey/odyssey-of-the-seas-sailing-cruising-sunset-north-star.jpg",
+    "ship_class": "Quantum Ultra class",
+    "description": "Odyssey of the Seas offers unforgettable onboard activities and delicious dining from around the world. Soak up the sun at the resort-style pool deck on this First Quantum Ultra Class cruise ship sailing the Caribbean.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "Café Two70",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Park Café",
+        "Specialty restaurants (Wonderland, Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "Two70 flexible venue with robotic screens",
+        "SeaPlex indoor sports complex",
+        "RipCord by iFly indoor skydiving simulator",
+        "FlowRider surf simulator",
+        "NorthStar observation capsule",
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club"
+      ],
+      "recreation": [
+        "Indoor/outdoor pool area",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Bumper cars at SeaPlex"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "freedom-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Freedom of the Seas",
+    "year_built": 2006,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4370,
+    "crew": 1360,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/freedom/freedom-of-the-seas-perfect-day-aerial-docked-pier.jpg",
+    "ship_class": "Freedom class",
+    "description": "Freedom of the Seas is the ultimate adventure-seeking expedition. This winner of best cruise ship for first timers sails way beyond the typical getaway with the perfect mix of destinations and all the best thrills at sea.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "H2O Zone kids aquapark",
+        "Splashaway Bay",
+        "Solarium adults-only pool",
+        "Main pools",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and Broadway shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "liberty-of-the-seas",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Liberty of the Seas",
+    "year_built": 2007,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4375,
+    "crew": 1397,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/liberty-of-the-seas-drone-sunset.jpg",
+    "ship_class": "Freedom class",
+    "description": "Liberty of the Seas brings you to some of the most incredible ports with plenty of adventure, entertainment, and nightlife. A Royal Amplified ship packed with thrills for the whole family.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "H2O Zone kids aquapark",
+        "Splashaway Bay",
+        "Solarium adults-only pool",
+        "Main pools",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and Broadway shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "independence-of-the-seas",
+    "regions": ["Caribbean", "Northern Europe", "Mediterranean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Independence of the Seas",
+    "year_built": 2008,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4375,
+    "crew": 1394,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/content/ship/independence-of-the-seas/overview/hero-pic/independence-aerial-view-birds-eye-cruise-ship.jpg",
+    "ship_class": "Freedom class",
+    "description": "Independence of the Seas sails short getaways year-round. This Royal Amplified ship is loaded with surprises to thrill even the boldest adventurers, with new water slides, Splashaway Bay waterpark, and bold dining options.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Sorrento's Pizza",
+        "Park Café",
+        "Sugar Beach pool bar",
+        "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Comedy club",
+        "Live music venues"
+      ],
+      "recreation": [
+        "H2O Zone kids aquapark",
+        "Splashaway Bay",
+        "Solarium adults-only pool",
+        "Main pools",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and Broadway shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "FlowRider surf simulator and rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "voyager-of-the-seas",
+    "regions": ["Australia & New Zealand", "Pacific Islands", "Caribbean"],
+    "homeport": "Brisbane, Australia",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Voyager of the Seas",
+    "year_built": 1999,
+    "gross_tonnage": 137276,
+    "passenger_capacity": 3840,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/international/voyager-of-the-seas/voyager-top-view-centre.jpg",
+    "ship_class": "Voyager class",
+    "description": "Voyager of the Seas is packed with more ways to play on your getaway. Catch a wave on the FlowRider surf simulator, explore the iconic Royal Promenade, and enjoy a flavor-filled journey with rustic Italian dishes and Far East-inspired cuisine.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Park Café",
+        "Sorrento's Pizza",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Royal Promenade indoor boulevard",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Solarium adults-only pool",
+        "Main pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "explorer-of-the-seas",
+    "regions": ["Caribbean", "Transatlantic"],
+    "homeport": "Cape Liberty (Bayonne), NJ",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Explorer of the Seas",
+    "year_built": 1999,
+    "gross_tonnage": 137308,
+    "passenger_capacity": 3840,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/explorer/explorer-of-the-seas-perfect-storm-aerial.jpg",
+    "ship_class": "Voyager class",
+    "description": "Explorer of the Seas is filled with unforgettable activities and features from bow to stern. One of the coolest culture-cruising ships out there, it pioneered entertainment at sea with a Royal Promenade, climbing wall, and ice skating rink.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Park Café",
+        "Sorrento's Pizza",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Royal Promenade indoor boulevard",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Solarium adults-only pool",
+        "Main pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "adventure-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Adventure of the Seas",
+    "year_built": 2001,
+    "gross_tonnage": 137276,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/content/fleet-landing/adventure-of-the-seas-the-perfect-storm-waterslides.jpg",
+    "ship_class": "Voyager class",
+    "description": "Adventure of the Seas offers more to do onboard with fewer days between some of the world's most incredible destinations. An all-out vacation adventure that's sure to put a dent in your bucket list.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Park Café",
+        "Sorrento's Pizza",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Ice skating rink",
+        "Royal Promenade indoor boulevard",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Splashaway Bay kids waterpark",
+        "Solarium adults-only pool",
+        "Main pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "navigator-of-the-seas",
+    "regions": ["Caribbean", "Pacific Islands"],
+    "homeport": "Los Angeles, CA",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Navigator of the Seas",
+    "year_built": 2002,
+    "gross_tonnage": 138279,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/navigator/assets/navigator-of-the-seas-aft-aerial-slides-hero.jpg",
+    "ship_class": "Voyager class",
+    "description": "Navigator of the Seas is an amplified weekend cruise ship delivering a maxed-out adventure in just a few short days. Take on record-breaking thrills like the longest waterslide at sea and soak up bigger, bolder, splashier pool days.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Park Café",
+        "The Lime & Coconut pool bar",
+        "Sorrento's Pizza",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Longest waterslide at sea",
+        "Royal Promenade indoor boulevard",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Splashaway Bay kids waterpark",
+        "Solarium adults-only pool",
+        "Main pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "mariner-of-the-seas",
+    "regions": ["Caribbean"],
+    "homeport": "Port Canaveral, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Mariner of the Seas",
+    "year_built": 2003,
+    "gross_tonnage": 138279,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/mariner-of-the-seas/mariner-of-the-seas-aerial-view-skypad.jpg",
+    "ship_class": "Voyager class",
+    "description": "Mariner of the Seas has more ways to play on the most maxed-out short getaway ever. Ditch the weekend road trip for this action-packed Royal Amplified cruise ship with new slides, Splashaway Bay, and fresh dining spots.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Marketplace",
+        "El Loco Fresh",
+        "Park Café",
+        "Sorrento's Pizza",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "FlowRider surf simulator",
+        "Rock climbing wall",
+        "Three-level waterslide",
+        "Royal Promenade indoor boulevard",
+        "Mini golf",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music venues"
+      ],
+      "recreation": [
+        "Splashaway Bay kids waterpark",
+        "Solarium adults-only pool",
+        "Main pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "radiance-of-the-seas",
+    "regions": ["Alaska", "Caribbean", "South America"],
+    "homeport": "Vancouver, Canada",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Radiance of the Seas",
+    "year_built": 2001,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/countries/AU/shipstiles/radiance_southpac.jpg",
+    "ship_class": "Radiance class",
+    "description": "Radiance of the Seas is your epic edge-of-the-map escape. Discover endless ways to seize the day on deck between adventure in port, wine tasting, and world-class dining — you're in for a wild and unforgettable journey.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music",
+        "Comedy shows",
+        "Mini golf",
+        "Stargazing platform"
+      ],
+      "recreation": [
+        "Main pool",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "brilliance-of-the-seas",
+    "regions": ["Mediterranean", "Transatlantic", "Caribbean"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Brilliance of the Seas",
+    "year_built": 2002,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/international/weekend-like-you-mean-it-campaign/brilliance-of-the-seas-south-pacific.jpg",
+    "ship_class": "Radiance class",
+    "description": "Brilliance of the Seas is the ultimate escape for backroads ramblers — distinct cultures to discover ashore and unique experiences onboard. Explore one-of-a-kind sights, sounds, and tastes on this elegant mid-sized vessel.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music",
+        "Comedy shows",
+        "Mini golf",
+        "Stargazing platform"
+      ],
+      "recreation": [
+        "Main pool",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "serenade-of-the-seas",
+    "regions": ["Caribbean", "Alaska", "South America"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Serenade of the Seas",
+    "year_built": 2003,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/serenade/serenade-of-the-seas-alaska-landscape-aerial.jpg",
+    "ship_class": "Radiance class",
+    "description": "Serenade of the Seas offers wild views from the top of the rock climbing wall and delicious dining from around the world. Discover electrifying nightlife that keeps the thrills going long after sunset on this globe-trotting ship.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music",
+        "Comedy shows",
+        "Mini golf",
+        "Stargazing platform"
+      ],
+      "recreation": [
+        "Main pool",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "jewel-of-the-seas",
+    "regions": ["Caribbean", "Transatlantic", "Northern Europe"],
+    "homeport": "Tampa, FL",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Jewel of the Seas",
+    "year_built": 2004,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/jewel-of-the-seas/jewel-of-the-seas-grenada-docked-harbor.jpg",
+    "ship_class": "Radiance class",
+    "description": "Jewel of the Seas delivers some of the world's most desired destinations. Packed with vibrant onboard experiences and dining venues, discover new shores and countless adventures in between on this elegant vessel.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Park Café",
+        "Specialty restaurants (Chops Grille, Giovanni's, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino Royale",
+        "Broadway-style shows",
+        "Live music",
+        "Comedy shows",
+        "Mini golf",
+        "Stargazing platform"
+      ],
+      "recreation": [
+        "Main pool",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Full spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs",
+        "Rock climbing wall"
+      ]
+    }
+  },
+  {
+    "id": "vision-of-the-seas",
+    "regions": ["Mediterranean", "Caribbean", "Middle East"],
+    "homeport": "Athens (Piraeus), Greece",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Vision of the Seas",
+    "year_built": 1998,
+    "gross_tonnage": 78340,
+    "passenger_capacity": 2435,
+    "crew": 765,
+    "length_m": 279,
+    "decks": 11,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/vision/assets/vision-of-the-seas-solarium-pool-deck.jpg",
+    "ship_class": "Vision class",
+    "description": "Award-winning family cruise ship Vision of the Seas provides the perfect blend of beautiful family-friendly cultural destinations, world-class dining, and epic activities for all ages.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Specialty restaurants (Chops Grille, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino",
+        "Theater shows",
+        "Live music",
+        "Karaoke nights",
+        "Trivia & game shows"
+      ],
+      "recreation": [
+        "Pool deck",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs"
+      ]
+    }
+  },
+  {
+    "id": "enchantment-of-the-seas",
+    "regions": ["Caribbean", "North America"],
+    "homeport": "Baltimore, MD",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Enchantment of the Seas",
+    "year_built": 1997,
+    "gross_tonnage": 82910,
+    "passenger_capacity": 2730,
+    "crew": 840,
+    "length_m": 301,
+    "decks": 11,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/enchantment-of-the-seas/assets/enchantment-of-the-seas-exterior-aerial-view.jpg",
+    "ship_class": "Vision class",
+    "description": "Enchantment of the Seas is the best way to take a few days to relax or play and hit some islands along the way. This lengthened and refurbished ship blends classic Royal Caribbean charm with modern amenities.",
+    "amenities": {
+      "dining": [
+        "Main Dining Room",
+        "Windjammer Café",
+        "Specialty restaurants (Chops Grille, etc.)"
+      ],
+      "entertainment": [
+        "Rock climbing wall",
+        "Casino",
+        "Theater shows",
+        "Live music",
+        "Karaoke nights",
+        "Trivia & game shows"
+      ],
+      "recreation": [
+        "Pool deck",
+        "Solarium adults-only pool",
+        "Hot tubs",
+        "Spa & salon",
+        "Fitness center",
+        "Sports court",
+        "Jogging track"
+      ],
+      "included": [
+        "All meals in Main Dining Room and Windjammer",
+        "Live entertainment and shows",
+        "Access to pools, fitness center, and sports areas",
+        "Kids & teens clubs"
+      ]
+    }
+  }
+]

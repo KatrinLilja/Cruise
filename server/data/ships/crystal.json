@@ -1,0 +1,112 @@
+[
+  {
+    "id": "crystal-symphony",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe", "Asia"],
+    "homeport": "Lisbon, Portugal",
+    "cruiseLineId": "crystal",
+    "name": "Crystal Symphony",
+    "year_built": 1995,
+    "gross_tonnage": 51044,
+    "passenger_capacity": 650,
+    "crew": 495,
+    "length_m": 238,
+    "decks": 12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Crystal_Symphony%2C_Fremantle%2C_2018_%2803%29.jpg/1280px-Crystal_Symphony%2C_Fremantle%2C_2018_%2803%29.jpg",
+    "ship_class": "Crystal class",
+    "description": "Crystal Symphony entered service in 1995 and is one of the most decorated ships in cruise history, having received numerous 'World's Best' accolades over her long career. Built in Finland at Kværner Masa-Yards, she underwent a major refurbishment in Trieste in 2022-2023 after A&K Travel Group acquired Crystal Cruises. Butler suites were increased and guest capacity reduced, making her an even more intimate ultra-luxury experience. She resumed service in September 2023.",
+    "amenities": {
+      "dining": [
+        "Waterside Restaurant (main restaurant, open seating)",
+        "Prego (Italian specialty, included)",
+        "Silk Road & The Sushi Bar (Asian fusion, included)",
+        "Tastes (casual bistro, included)",
+        "Lido Cafe (breakfast and lunch buffet)",
+        "24-hour in-suite dining (butler service)"
+      ],
+      "entertainment": [
+        "Galaxy Lounge (main show venue)",
+        "Casino Crystal",
+        "Avenue Saloon (piano bar)",
+        "Pulse Nightclub",
+        "Live music and jazz performances",
+        "Computer University at Sea (tech classes)",
+        "Cinema"
+      ],
+      "recreation": [
+        "Crystal Spa & Salon",
+        "Outdoor pool",
+        "Whirlpools",
+        "Paddle tennis courts",
+        "Golf driving nets",
+        "Fitness center",
+        "Jogging track",
+        "Deck games"
+      ],
+      "included": [
+        "All gratuities",
+        "All beverages including fine wine, spirits and specialty coffee",
+        "Speciality dining in all restaurants",
+        "Butler service for all guests",
+        "In-suite minibar replenished daily",
+        "Unlimited Wi-Fi",
+        "Shore excursions organized by Abercrombie & Kent"
+      ]
+    }
+  },
+  {
+    "id": "crystal-serenity",
+    "regions": ["Mediterranean", "Caribbean", "Arctic & Antarctica", "Asia", "South America"],
+    "homeport": "New York, NY",
+    "cruiseLineId": "crystal",
+    "name": "Crystal Serenity",
+    "year_built": 2003,
+    "gross_tonnage": 68870,
+    "passenger_capacity": 1040,
+    "crew": 655,
+    "length_m": 250,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Crystal_Serenity_in_Quebec_city%2C_Canada.jpg/1280px-Crystal_Serenity_in_Quebec_city%2C_Canada.jpg",
+    "ship_class": "Crystal class",
+    "description": "Crystal Serenity is the flagship of Crystal Cruises, entering service in 2003 built by Chantiers de l'Atlantique in St. Nazaire, France. She gained world fame in 2016 as the largest cruise ship ever to navigate the Northwest Passage. Formally named by Dame Julie Andrews, she was refurbished in Trieste in 2023 following the A&K Travel Group acquisition. Now operating as an ultra-luxury all-inclusive vessel, she is renowned for her spacious staterooms, exceptional dining, and world cruise itineraries.",
+    "amenities": {
+      "dining": [
+        "Waterside Restaurant (main restaurant, open seating)",
+        "Prego (Italian specialty, included)",
+        "Silk Road & The Sushi Bar (Asian fusion, included)",
+        "Nobu (specialty dining, included)",
+        "Tastes (casual bistro, included)",
+        "Lido Cafe (breakfast and lunch buffet)",
+        "24-hour in-suite dining (butler service)"
+      ],
+      "entertainment": [
+        "Galaxy Lounge (main show venue)",
+        "Casino Crystal",
+        "Avenue Saloon (piano bar)",
+        "Starlight Club (nightclub)",
+        "Live music and jazz performances",
+        "Computer University at Sea",
+        "Cinema",
+        "Guest lectures and enrichment programs"
+      ],
+      "recreation": [
+        "Crystal Spa & Salon",
+        "Outdoor pool and whirlpools",
+        "Fitness center",
+        "Paddle tennis courts",
+        "Golf driving nets",
+        "Jogging track",
+        "Deck games",
+        "Library"
+      ],
+      "included": [
+        "All gratuities",
+        "All beverages including fine wine, spirits and specialty coffee",
+        "All speciality dining restaurants",
+        "Butler service for all guests",
+        "In-suite minibar replenished daily",
+        "Unlimited Wi-Fi",
+        "Shore excursions organized by Abercrombie & Kent"
+      ]
+    }
+  }
+]

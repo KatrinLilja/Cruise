@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "wonder-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Wonder of the Seas",
+    "year_built": 2022,
+    "gross_tonnage": 236857,
+    "passenger_capacity": 6988,
+    "crew": 2300,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/oasis/oasis-of-the-seas-labadee-haiti-aft.jpg",
+    "ship_class": "Oasis class",
+    "description": "Wonder of the Seas is the world's largest cruise ship by gross tonnage. It features eight distinct neighborhoods, a zip line, 10 water slides, an ice skating rink, a surf simulator, and a wide variety of dining and entertainment options.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "Up to 9 specialty restaurants"],
+      "entertainment": ["AquaTheater water shows", "The Ultimate Abyss slide", "Zip line", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["4 pools including H2O Zone kids waterpark", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "icon-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Icon of the Seas",
+    "year_built": 2024,
+    "gross_tonnage": 248663,
+    "passenger_capacity": 7600,
+    "crew": 2350,
+    "length_m": 365,
+    "decks": 20,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/icon/icon-of-the-seas-aerial-aft-sea-day-thrill-island-flowrider.jpg",
+    "ship_class": "Icon class",
+    "description": "Icon of the Seas debuted in 2024 as the world's largest cruise ship. It features six water slides, the largest waterpark at sea, eight neighborhoods, and a tropical garden, representing the next generation of Royal Caribbean mega-ships.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Surfside Eatery", "Giovanni's Italian Kitchen & Cicchetti (specialty)", "Izumi Hibachi & Sushi (specialty)", "Hooked Seafood (specialty)", "Chops Grille (specialty)", "Empire Supper Club (specialty)"],
+      "entertainment": ["AquaDome water theater", "Category 6 waterpark (6 slides — largest at sea)", "Crown's Edge sky walk experience", "RipCord by iFly indoor skydiving simulator", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["6 pools including Chill Island and Surfside family area", "20 hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and shows", "Kids & teens clubs (Adventure Ocean)", "Access to all pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "symphony-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Symphony of the Seas",
+    "year_built": 2018,
+    "gross_tonnage": 228081,
+    "passenger_capacity": 6680,
+    "crew": 2200,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/promotions/2022/may/may-flash-3-wow/Symphony_HP_Jumbotron_1920_1080_FAM-NF_2x.jpg",
+    "ship_class": "Oasis class",
+    "description": "Symphony of the Seas was the world's largest cruise ship when it launched in 2018. A sister ship to Wonder of the Seas, it features the same eight neighborhoods including Central Park, Boardwalk, and the thrilling Perfect Storm waterslides.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "Up to 9 specialty restaurants"],
+      "entertainment": ["AquaTheater water shows", "The Perfect Storm waterslides", "Zip line", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway shows (including Grease)", "Comedy club", "Live music venues"],
+      "recreation": ["4 pools including H2O Zone kids waterpark", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "mardi-gras",
+    "cruiseLineId": "carnival",
+    "name": "Mardi Gras",
+    "year_built": 2021,
+    "gross_tonnage": 180000,
+    "passenger_capacity": 5282,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/MD/mardi-gras/heros/mardi-gras-ship-hero-2.png",
+    "ship_class": "Excel class",
+    "description": "Mardi Gras is Carnival's largest and most innovative ship, featuring BOLT — the first rollercoaster at sea. It introduced a new zone concept with six themed \"zones\" including a French Quarter, La Piazza, and Summer Landing.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Rudi's Seagrill (specialty)", "Bonsai Sushi (specialty)", "Empire Supper Club (specialty)", "Emeril's Bistro 1396 (specialty)"],
+      "entertainment": ["BOLT electric roller coaster (first at sea)", "SkyRide suspended cycling attraction", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-celebration",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Celebration",
+    "year_built": 2022,
+    "gross_tonnage": 183521,
+    "passenger_capacity": 5374,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/CB/carnival-celebration/heros/carnival-celebration-ship-aerial-hero-desktop.jpg",
+    "ship_class": "Excel class",
+    "description": "Carnival Celebration is a sister ship to Mardi Gras, launched to celebrate Carnival's 50th anniversary. It features the same zone concept, the BOLT rollercoaster, and expanded culinary offerings including Guy's Burger Joint and Emeril's Bistro 1396.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Emeril's Bistro 1396", "Fahrenheit 555 Steakhouse (specialty)", "Bonsai Sushi (specialty)", "Rudi's Seagrill (specialty)"],
+      "entertainment": ["BOLT electric roller coaster", "SkyRide suspended cycling attraction", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-venezia",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Venezia",
+    "year_built": 2019,
+    "gross_tonnage": 135225,
+    "passenger_capacity": 4232,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://iprsoftwaremedia.com/412/files/202401/65a039693d63321d9e114bd7_Carnival%20Venezia%202/Carnival%20Venezia%202_prv.jpg",
+    "ship_class": "Vista class",
+    "description": "Originally built as Costa Venezia for Costa Cruises, Carnival Venezia joined the Carnival fleet in 2023. The ship features a distinctly Italian design inspired by Venice, including a dedicated Italian district, piazzas, and Italian-themed restaurants.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Piazza della Frutta (Italian street food)", "BlueIguana Cantina", "Guy's Burger Joint", "La Piazza Pizzeria", "Cucina del Capitano (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["SkyRide aerial cycling attraction", "WaterWorks aqua park", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools including Havana pool (Cuban-themed)", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare activity area", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "norwegian-prima",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Prima",
+    "year_built": 2022,
+    "gross_tonnage": 143535,
+    "passenger_capacity": 3195,
+    "crew": 1506,
+    "length_m": 294,
+    "decks": 17,
+    "image": "https://www.ncl.com/sites/default/files/3200x640_Prima_Hero_01.png",
+    "ship_class": "Prima class",
+    "description": "Norwegian Prima is the first of NCL's next-generation Prima class ships. It stands out for offering more outdoor deck space per guest than any other large cruise ship, along with a unique three-level racetrack, the fastest drop slide at sea, and premium dining experiences.",
+    "amenities": {
+      "dining": ["Indulge Food Hall (16 eateries)", "The Local Bar & Grill", "Garden Café buffet", "Steak 'H' (specialty)", "Onda by Scarpetta (specialty)", "Los Lobos (specialty)", "Palomar Seafood (specialty)", "Cagney's Steakhouse (specialty)"],
+      "entertainment": ["The Speedway (3-level go-kart racetrack)", "The Drop (fastest dry slide at sea)", "Aftscape outdoor recreation area", "Oceanwalk glass bridge", "Cavern Club", "Syd Norman's Pour House", "Casino at Sea", "The Metropolitan (main theater)", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Pickleball court", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows", "Kids club (Splash Academy)", "Access to pools and fitness center", "The Speedway racetrack (limited laps included)", "Indulge Food Hall basic eateries"]
+    }
+  },
+  {
+    "id": "norwegian-encore",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Encore",
+    "year_built": 2019,
+    "gross_tonnage": 169116,
+    "passenger_capacity": 3958,
+    "crew": 1735,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/encore_hero_alaska_mountains_061025.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Encore is the fourth and final ship in the Breakaway Plus class. It features the longest race track at sea, an expanded Galaxy Pavilion virtual reality complex, award-winning Broadway shows like Kinky Boots, and the adults-only Vibe Beach Club.",
+    "amenities": {
+      "dining": ["The Local Bar & Grill", "Garden Café buffet", "Cagney's Steakhouse (specialty)", "Ocean Blue (specialty)", "Food Republic (specialty)", "Teppanyaki (specialty)", "Los Lobos Cantina (specialty)", "La Cucina (specialty)"],
+      "entertainment": ["The Speedway go-kart racetrack (longest at sea)", "Galaxy Pavilion virtual reality complex", "Outdoor laser tag arena", "Aqua Park (Ocean Loops waterslides)", "The Brat Pack Broadway show", "Casino at Sea", "Howl at the Moon dueling pianos", "Syd Norman's Pour House", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows and Broadway production", "Kids club (Splash Academy)", "Access to pools and fitness center", "Aqua Park waterslides"]
+    }
+  },
+  {
+    "id": "msc-world-europa",
+    "cruiseLineId": "msc",
+    "name": "MSC World Europa",
+    "year_built": 2022,
+    "gross_tonnage": 215863,
+    "passenger_capacity": 6762,
+    "crew": 2138,
+    "length_m": 331,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/eu_miniature.png",
+    "ship_class": "World class",
+    "description": "MSC World Europa is MSC's largest ship and one of the most environmentally advanced cruise ships in the world, powered by liquefied natural gas (LNG). It debuted at the 2022 FIFA World Cup in Qatar and features a stunning LED dome, the longest slide at sea, and a Mediterranean Village.",
+    "amenities": {
+      "dining": ["La Palmeraie main restaurant", "Marketplace Buffet", "Mediterranean Village (outdoor dining)", "Hola! Tacos & Cantina", "Kaito Sushi Bar (specialty)", "SALT Kitchen (specialty)", "East Restaurant (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["LED dome (largest at sea)", "Aqua Park (longest water slide at sea)", "F1 Simulator", "XD Cinema 4D", "Theater with Broadway-style shows", "Casino", "Sports Bar", "Live music venues", "MSC Yacht Club private lounge"],
+      "recreation": ["5 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "msc-seashore",
+    "cruiseLineId": "msc",
+    "name": "MSC Seashore",
+    "year_built": 2021,
+    "gross_tonnage": 169400,
+    "passenger_capacity": 5877,
+    "crew": 1648,
+    "length_m": 339,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/seashore/sh_miniature_mobile.jpg",
+    "ship_class": "Seaside EVO class",
+    "description": "MSC Seashore is the flagship of MSC's Seaside EVO class, inspired by the brand's iconic Seaside design but stretched and enhanced. It features expanded outdoor promenades, a unique infinity bridge connecting the ship to the sea, and MSC's largest water park.",
+    "amenities": {
+      "dining": ["La Palmeraie main restaurant", "Marketplace Buffet", "The Seafood Bar", "Hola! Tacos & Cantina", "Kaito Sushi Bar (specialty)", "SALT Kitchen (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["Aqua Park (Cliffhanger slide, Waterfall slide, Twister slide)", "Infinity Bridge connecting ship to sea", "XD Cinema 4D", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues"],
+      "recreation": ["4 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "celebrity-beyond",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Beyond",
+    "year_built": 2022,
+    "gross_tonnage": 141420,
+    "passenger_capacity": 3260,
+    "crew": 1410,
+    "length_m": 327,
+    "decks": 20,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/beyond-renderings/celebrity-beyond-updated-rendition-2560x1440.jpg",
+    "ship_class": "Edge class",
+    "description": "Celebrity Beyond is the third ship in Celebrity's revolutionary Edge class, and the largest ship Celebrity has ever built. Designed in partnership with AD100 interior designer Nate Berkus, it features the Magic Carpet — a cantilevered outdoor venue that moves between decks — and an expanded Rooftop Garden.",
+    "amenities": {
+      "dining": ["The Grand Palais main restaurant", "Oceanview Café buffet", "Magic Carpet outdoor dining venue", "Eden restaurant and bar (3-deck immersive venue)", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Le Petit Chef & Friends digital dining (specialty)", "Sushi on Five (specialty)", "Rooftop Garden Grill"],
+      "entertainment": ["Magic Carpet cantilevered floating platform", "Eden (performance art, cocktails, and dining)", "The Rooftop Garden", "Theater productions", "The Club entertainment venue", "Casino", "Live music throughout the ship", "Destination Gateway (largest outdoor deck on an Edge ship)"],
+      "recreation": ["Resort Deck with 4 pools", "Solarium (adults-only pool with retractable roof)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Lawn Club", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in The Grand Palais and Oceanview Café", "Basic beverages (Celebrity Always Included: drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-ascent",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Ascent",
+    "year_built": 2023,
+    "gross_tonnage": 141420,
+    "passenger_capacity": 3260,
+    "crew": 1410,
+    "length_m": 327,
+    "decks": 20,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/celebrity-ascent-in-the-caribbean-2560x1440.jpg",
+    "ship_class": "Edge class",
+    "description": "Celebrity Ascent is the fourth and newest ship in the Edge class. It features an expanded roster of design collaborators, 32 dining and bar experiences, a redesigned Eden restaurant, and the iconic Magic Carpet. It offers sailings across Europe and the Caribbean.",
+    "amenities": {
+      "dining": ["The Grand Palais main restaurant", "Oceanview Café buffet", "Magic Carpet outdoor dining venue", "Eden restaurant and bar (3-deck immersive venue)", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Le Petit Chef & Friends digital dining (specialty)", "Sushi on Five (specialty)", "Rooftop Garden Grill"],
+      "entertainment": ["Magic Carpet cantilevered floating platform", "Eden (performance art, cocktails, and dining)", "The Rooftop Garden", "Theater productions", "The Club entertainment venue", "Casino", "Live music throughout the ship", "Destination Gateway outdoor deck"],
+      "recreation": ["Resort Deck with 4 pools", "Solarium (adults-only pool with retractable roof)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Lawn Club", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in The Grand Palais and Oceanview Café", "Basic beverages (Celebrity Always Included: drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "harmony-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Harmony of the Seas",
+    "year_built": 2016,
+    "gross_tonnage": 226963,
+    "passenger_capacity": 6687,
+    "crew": 2100,
+    "length_m": 362,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/harmony-of-the-seas-bow-angle.jpg",
+    "ship_class": "Oasis class",
+    "description": "Harmony of the Seas was the world's largest cruise ship when it launched in 2016. The third Oasis-class vessel features 20 restaurants and bars, a 10-story slide called The Ultimate Abyss, a FlowRider surf simulator, and the beloved Central Park and Boardwalk neighborhoods.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "Up to 9 specialty restaurants"],
+      "entertainment": ["AquaTheater water shows", "The Ultimate Abyss (10-story dry slide)", "Zip line", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway shows (Grease, Cats, or Hairspray)", "Comedy club", "Live music venues"],
+      "recreation": ["4 pools including H2O Zone kids waterpark", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "allure-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Allure of the Seas",
+    "year_built": 2010,
+    "gross_tonnage": 225282,
+    "passenger_capacity": 6296,
+    "crew": 2384,
+    "length_m": 362,
+    "decks": 16,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/launch-images/Oasis-verdure-aerial.jpg",
+    "ship_class": "Oasis class",
+    "description": "Allure of the Seas is the second Oasis-class ship, launched in 2010. After a major amplification in 2020, it received new waterslides, a redesigned Boardwalk, updated dining including Sabor Modern Mexican, and a refreshed pool deck.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "Sabor Modern Mexican (specialty)", "Giovanni's Table (specialty)", "Chops Grille (specialty)", "150 Central Park (specialty)", "Coastal Kitchen (suite guests)", "Sorrento's Pizza"],
+      "entertainment": ["AquaTheater water shows", "Zip line", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway shows (Mamma Mia)", "Comedy club", "Live music venues"],
+      "recreation": ["4 pools including H2O Zone kids waterpark", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "oasis-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Oasis of the Seas",
+    "year_built": 2009,
+    "gross_tonnage": 225282,
+    "passenger_capacity": 6296,
+    "crew": 2165,
+    "length_m": 362,
+    "decks": 16,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/geotargeting/2022-geotargeting-setup/southeast/perfect-day-coco-cay-oasis-of-the-seas-aerial-morning-view.jpg",
+    "ship_class": "Oasis class",
+    "description": "Oasis of the Seas pioneered a new era of cruising when it debuted in 2009 as the first Oasis-class ship. It introduced the revolutionary neighborhood concept — seven distinct areas including a Central Park, Boardwalk, and Royal Promenade — that transformed modern cruise ship design.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "Giovanni's Table (specialty)", "Chops Grille (specialty)", "150 Central Park (specialty)", "Johnny Rockets (specialty)"],
+      "entertainment": ["AquaTheater water shows", "Zip line", "Flowrider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["4 pools including H2O Zone kids waterpark", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "Flowrider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "quantum-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Quantum of the Seas",
+    "year_built": 2014,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4905,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/quantum/quantum-of-the-seas-dusk.jpg",
+    "ship_class": "Quantum class",
+    "description": "Quantum of the Seas introduced a wave of innovations when it launched in 2014, including the North Star observation pod that lifts guests 300 feet above sea level, RipCord by iFly skydiving simulator, and Two70 — an immersive entertainment venue with 270-degree views.",
+    "amenities": {
+      "dining": ["Main Dining Room (American Icon, Chic, Silk, The Grande)", "Windjammer buffet", "Café Two70", "Coastal Kitchen (suite guests)", "Jamie's Italian (specialty)", "Izumi Hibachi & Sushi (specialty)", "Wonderland (specialty)", "Hooked Seafood (specialty)", "Sorrento's Pizza"],
+      "entertainment": ["Two70 immersive entertainment venue", "RipCord by iFly indoor skydiving simulator", "North Star glass observation capsule", "Flowrider surf simulator", "Rock climbing wall", "SeaPlex indoor sports complex (bumper cars, roller skating, circus school)", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining venues and Windjammer buffet", "Live entertainment and shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools and fitness center", "Complimentary North Star rides and iFly sessions (limited per sailing)"]
+    }
+  },
+  {
+    "id": "anthem-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Anthem of the Seas",
+    "year_built": 2015,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4905,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/anthem-of-the-seas/image/anthem-of-the-seas-aerial-stern-sailing.jpg",
+    "ship_class": "Quantum class",
+    "description": "Anthem of the Seas is the second Quantum-class ship and the largest ship based year-round in the UK. It shares its sister ship's signature innovations — North Star, iFly, Two70 — and is known for its Wonderland surrealist restaurant and SeaPlex, the largest indoor activity complex at sea.",
+    "amenities": {
+      "dining": ["Main Dining Room (American Icon, Chic, Silk, The Grande)", "Windjammer buffet", "Café Two70", "Coastal Kitchen (suite guests)", "Jamie's Italian (specialty)", "Izumi Hibachi & Sushi (specialty)", "Wonderland (specialty)", "Hooked Seafood (specialty)", "Sorrento's Pizza"],
+      "entertainment": ["Two70 immersive entertainment venue", "RipCord by iFly indoor skydiving simulator", "North Star glass observation capsule", "Flowrider surf simulator", "Rock climbing wall", "SeaPlex indoor sports complex (bumper cars, roller skating, circus school)", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining venues and Windjammer buffet", "Live entertainment and shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools and fitness center", "Complimentary North Star rides and iFly sessions (limited per sailing)"]
+    }
+  },
+  {
+    "id": "carnival-dream",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Dream",
+    "year_built": 2009,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3646,
+    "crew": 1367,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/202310/65281b5fa138354c59c8e078_08_Carnival-Dream-scaled/08_Carnival-Dream-scaled_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Dream was the largest Carnival ship at its launch in 2009 and the first of the Dream class. It introduced the expanded WaterWorks aqua park, the adults-only Serenity retreat, and the Ocean Plaza entertainment venue — features that became standard on future Carnival ships.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "The Steakhouse (specialty)", "Cucina del Capitano (specialty)"],
+      "entertainment": ["WaterWorks aqua park", "Ocean Plaza entertainment venue", "Hasbro The Game Show", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-magic",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Magic",
+    "year_built": 2011,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3690,
+    "crew": 1367,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/20234/64675419b3aed3515f153dea_Carnival%20Magic/Carnival%20Magic_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Magic is the second Dream-class ship, launched in 2011 for European itineraries before relocating to the US. It was one of the first ships to feature the popular Guy's Burger Joint, a partnership with Food Network personality Guy Fieri.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "The Steakhouse (specialty)", "Cucina del Capitano (specialty)"],
+      "entertainment": ["WaterWorks aqua park", "Ocean Plaza entertainment venue", "Hasbro The Game Show", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-breeze",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Breeze",
+    "year_built": 2012,
+    "gross_tonnage": 130000,
+    "passenger_capacity": 3690,
+    "crew": 1386,
+    "length_m": 306,
+    "decks": 13,
+    "image": "https://iprsoftwaremedia.com/412/files/202310/65281b55a138354c59c8e075_08_Carnival-Breeze-scaled/08_Carnival-Breeze-scaled_prv.jpg",
+    "ship_class": "Dream class",
+    "description": "Carnival Breeze is the third and final Dream-class ship, launched in 2012. It added the BlueIguana Tequila Bar and RedFrog Rum Bar to the lineup of poolside venues and features a full-size EA SPORTS Bar — the first on any Carnival ship at the time of its debut.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "RedFrog Rum Bar & Pub", "Pizzeria del Capitano", "The Steakhouse (specialty)", "Cucina del Capitano (specialty)"],
+      "entertainment": ["WaterWorks aqua park", "Ocean Plaza entertainment venue", "Hasbro The Game Show", "EA SPORTS Bar", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-vista",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Vista",
+    "year_built": 2016,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://iprsoftwaremedia.com/412/files/albumcovers/0b533a93-c935-47a8-a7ec-d81ddbd0db51_thmb.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Vista introduced the Vista class in 2016 and debuted several firsts for Carnival: SkyRide — a pedal-powered aerial cycling attraction — IMAX Theater at sea, Havana staterooms and pool, and the Bonsai Sushi restaurant. It set the template for the modern Carnival experience.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "JiJi Asian Kitchen (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["SkyRide aerial cycling attraction", "WaterWorks aqua park", "IMAX Theater at sea", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "Havana Bar", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools including Havana pool (Cuban-themed)", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-horizon",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Horizon",
+    "year_built": 2018,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/HZ/carnival-horizon-ship-3.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Horizon is the second Vista-class ship. It added Chef's Table Lumiere — an intimate fine dining experience — and Dr. Seuss Bookville to the lineup. The ship homeports in Miami and New York, offering Caribbean and Bahamas itineraries.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "JiJi Asian Kitchen (specialty)", "Fahrenheit 555 Steakhouse (specialty)", "Chef's Table Lumiere (specialty)"],
+      "entertainment": ["SkyRide aerial cycling attraction", "WaterWorks aqua park", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "Dr. Seuss Bookville", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools including Havana pool (Cuban-themed)", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-jubilee",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Jubilee",
+    "year_built": 2023,
+    "gross_tonnage": 183900,
+    "passenger_capacity": 5374,
+    "crew": 1735,
+    "length_m": 344,
+    "decks": 20,
+    "image": "https://www.carnival.com/-/media/Images/Ships/JB/carnival-jubilee/heros/carnival-jubilee-ship-aerial-hero-desktop.jpg",
+    "ship_class": "Excel class",
+    "description": "Carnival Jubilee is the third Excel-class ship and homeports in Galveston, Texas — a first for an Excel-class vessel. It features BOLT, the first rollercoaster at sea, along with six themed zones including a vibrant New Orleans-inspired Quarter and a thriving food-and-beverage scene.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Shaquille O'Neal's Big Chicken (specialty)", "Rudi's Seagrill (specialty)", "Bonsai Sushi (specialty)", "Empire Supper Club (specialty)"],
+      "entertainment": ["BOLT electric roller coaster (first at sea)", "SkyRide suspended cycling attraction", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-firenze",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Firenze",
+    "year_built": 2021,
+    "gross_tonnage": 135225,
+    "passenger_capacity": 4232,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/FN/StateRoomCodes/FNISHV_1200x350.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Firenze is inspired by the beauty and culture of Florence, Italy. Originally built as Costa Toscana, the ship joined the Carnival fleet in 2024, homeporting in Long Beach, California. It features a Florence-inspired design, a vibrant piazza atmosphere, and the beloved Carnival amenities.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "JiJi Asian Kitchen (specialty)", "Fahrenheit 555 Steakhouse (specialty)", "Emeril's Bistro (specialty)"],
+      "entertainment": ["SkyRide aerial cycling attraction", "WaterWorks aqua park", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-panorama",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Panorama",
+    "year_built": 2019,
+    "gross_tonnage": 133500,
+    "passenger_capacity": 3934,
+    "crew": 1450,
+    "length_m": 323,
+    "decks": 17,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PO/carnival-panorama/heros/carnival-panorama-sky-zone-hero-2.jpg",
+    "ship_class": "Vista class",
+    "description": "Carnival Panorama is the third Vista-class ship and the first new Carnival ship to homeport in Long Beach, California in over 20 years. It features SkyRide — a suspended aerial cycling experience — and a range of Carnival signature venues including Guy's Burger Joint and BlueIguana Cantina.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "JiJi Asian Kitchen (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["SkyRide aerial cycling attraction", "WaterWorks aqua park", "Liquid Lounge main theater", "Punchliners Comedy Club", "Casino", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools including Havana pool", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "SportSquare ropes course & mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "WaterWorks aqua park", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-luminosa",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Luminosa",
+    "year_built": 2009,
+    "gross_tonnage": 92720,
+    "passenger_capacity": 2826,
+    "crew": 1050,
+    "length_m": 294,
+    "decks": 16,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LM/carnival-luminosa-atrium-desktop.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Luminosa joined the Carnival fleet in 2022, transferred from sister brand Costa Cruises as Costa Luminosa. It sails Australian and Pacific itineraries year-round, offering a blend of Carnival's signature fun atmosphere with stylish European design touches.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Bonsai Sushi (specialty)", "Steakhouse (specialty)", "Chef's Table (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-splendor",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Splendor",
+    "year_built": 2008,
+    "gross_tonnage": 113323,
+    "passenger_capacity": 3006,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SL/carnival-splendor-4.jpg",
+    "ship_class": "Splendor class",
+    "description": "Carnival Splendor is the sole ship of her class and sails Australian waters year-round. She features a grand multi-story atrium, multiple pool areas, and a wide array of dining and entertainment venues, making her a popular choice for South Pacific and New Zealand itineraries.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools including adults-only Serenity pool", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-freedom",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Freedom",
+    "year_built": 2007,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/FD/carnival-freedom-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Freedom is the fifth and final Conquest-class ship. She underwent a major refit in 2022 following a fire, emerging with new features including a rebranded venues lineup and updated décor. She sails Caribbean itineraries from Port Canaveral, Florida.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-liberty",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Liberty",
+    "year_built": 2005,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LI/carnival-liberty-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Liberty is the fourth Conquest-class ship, sailing the Caribbean from Port Canaveral, Florida. She features a tropical resort atmosphere with colorful décor, multiple pool areas, and Carnival's signature dining and entertainment lineup.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-valor",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Valor",
+    "year_built": 2004,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/VA/carnival-valor-2.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Valor is the third Conquest-class ship, with a patriotic American theme running through her décor and venues. She sails year-round Caribbean itineraries from New Orleans, Louisiana, and features Carnival's signature Fun Ship amenities.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-miracle",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Miracle",
+    "year_built": 2004,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/MI/carnival-miracle-1.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Miracle is a Spirit-class ship that sails Alaska in summer and Mexican Riviera itineraries in winter from Long Beach. She features a whimsical superhero theme throughout her décor and was one of the first ships to introduce Guy's Burger Joint and BlueIguana Cantina.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Nick & Nora's Supper Club (specialty)", "Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-glory",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Glory",
+    "year_built": 2003,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/GL/carnival-glory-1.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Glory is the second Conquest-class ship, featuring bold primary colors in her décor and themed public spaces. She sails Caribbean itineraries from New Orleans and Port Canaveral, and features a wide array of Carnival signature dining and entertainment venues.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-encounter",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Encounter",
+    "year_built": 2002,
+    "gross_tonnage": 77441,
+    "passenger_capacity": 1998,
+    "crew": 900,
+    "length_m": 261,
+    "decks": 11,
+    "image": "https://www.carnival.com/-/media/Images/Ships/EQ/StateroomCodes/EQISST_1200x350.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Encounter joined the Carnival fleet in 2025, transferred from P&O Australia where she sailed as Pacific Encounter. Originally built as a Spirit-class ship, she brings Carnival's signature fun-ship experience to new homeports with a warm, welcoming atmosphere.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-conquest",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Conquest",
+    "year_built": 2002,
+    "gross_tonnage": 110239,
+    "passenger_capacity": 2974,
+    "crew": 1150,
+    "length_m": 290,
+    "decks": 13,
+    "image": "https://www.carnival.com/-/media/Images/Ships/CQ/carnival-conquest-3.jpg",
+    "ship_class": "Conquest class",
+    "description": "Carnival Conquest is the first and namesake ship of the Conquest class, themed around French Impressionist art with reproductions displayed throughout. She was the largest cruise ship in the world when launched in 2002 and sails Caribbean itineraries from New Orleans.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)", "Fahrenheit 555 Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-legend",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Legend",
+    "year_built": 2002,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/LE/carnival-legend-aerial.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Legend is a Spirit-class ship that sails year-round from Baltimore, Maryland, and Tampa, Florida. She features a mythological theme with legendary figures throughout her décor and offers Carnival's beloved signature dining and entertainment lineup.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-adventure",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Adventure",
+    "year_built": 2001,
+    "gross_tonnage": 77441,
+    "passenger_capacity": 1998,
+    "crew": 900,
+    "length_m": 261,
+    "decks": 11,
+    "image": "https://www.carnival.com/-/media/Images/Ships/AQ/StateroomCodes/AQISST_1200x350.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Adventure joined the Carnival fleet in 2025, transferred from P&O Australia where she sailed as Pacific Adventure. She brings Carnival's signature fun-ship experience to new itineraries, offering a lively onboard atmosphere with Carnival's beloved dining and entertainment venues.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Steakhouse (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-pride",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Pride",
+    "year_built": 2001,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PR/carnival-pride-desktop-hero.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Pride is a Spirit-class ship themed around the Renaissance period with artistic reproductions and grand sculptures throughout. She sails the Caribbean from Tampa and Baltimore, and features Carnival's full complement of signature dining venues and entertainment.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-spirit",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Spirit",
+    "year_built": 2001,
+    "gross_tonnage": 88500,
+    "passenger_capacity": 2124,
+    "crew": 930,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SP/carnival-spirit-1.jpg",
+    "ship_class": "Spirit class",
+    "description": "Carnival Spirit is the namesake and first ship of the Spirit class. She sails Alaska in summer and Hawaiian voyages in winter. Her elegant design features a stunning multi-deck atrium, a signature spiral staircase, and expansive glass panels that allow natural light to flood the interior.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-radiance",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Radiance",
+    "year_built": 2000,
+    "gross_tonnage": 101509,
+    "passenger_capacity": 2758,
+    "crew": 1100,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/RD/carnival-radiance-lido-marketplace-hero.jpg",
+    "ship_class": "Triumph class",
+    "description": "Carnival Radiance, formerly Carnival Victory, underwent a major transformation in 2020 and emerged as a fully revamped ship with a new name and updated look. She sails Caribbean itineraries from various East Coast homeports and features Carnival's signature dining and entertainment venues.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Fahrenheit 555 Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-sunrise",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Sunrise",
+    "year_built": 1999,
+    "gross_tonnage": 102853,
+    "passenger_capacity": 2984,
+    "crew": 1146,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SN/carnival-sunrise-1.jpg",
+    "ship_class": "Triumph class",
+    "description": "Carnival Sunrise, formerly Carnival Triumph, underwent a dramatic top-to-bottom transformation in 2019, emerging with a completely new look, new venues, and new décor. She sails the Caribbean from Norfolk, Virginia, and New York, offering short and long Eastern Caribbean itineraries.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Fahrenheit 555 Steakhouse (specialty)", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-paradise",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Paradise",
+    "year_built": 1998,
+    "gross_tonnage": 70367,
+    "passenger_capacity": 2052,
+    "crew": 920,
+    "length_m": 261,
+    "decks": 10,
+    "image": "https://www.carnival.com/-/media/Images/Ships/PA/carnival-paradise-1.jpg",
+    "ship_class": "Fantasy class",
+    "description": "Carnival Paradise is a Fantasy-class ship that sails short Caribbean itineraries from Tampa, Florida. She was originally launched as a smoke-free ship — a first in the industry. Today she offers 4- and 5-day Bahamas and Western Caribbean cruises with Carnival's Fun Ship style.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-elation",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Elation",
+    "year_built": 1998,
+    "gross_tonnage": 70367,
+    "passenger_capacity": 2052,
+    "crew": 920,
+    "length_m": 261,
+    "decks": 10,
+    "image": "https://www.carnival.com/-/media/Images/Ships/EL/carnival-elation-desktop-hero-2.jpg",
+    "ship_class": "Fantasy class",
+    "description": "Carnival Elation is a Fantasy-class ship that sails short 4- and 5-day Caribbean and Bahamas cruises from Jacksonville, Florida. One of Carnival's classic Fun Ships, she offers a lively, casual atmosphere perfect for quick getaways with friends and family.",
+    "amenities": {
+      "dining": ["Main Dining Room (2 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Bonsai Sushi (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["2 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "carnival-sunshine",
+    "cruiseLineId": "carnival",
+    "name": "Carnival Sunshine",
+    "year_built": 1996,
+    "gross_tonnage": 101509,
+    "passenger_capacity": 3002,
+    "crew": 1150,
+    "length_m": 272,
+    "decks": 12,
+    "image": "https://www.carnival.com/-/media/Images/Ships/SH/carnival-sunshine-1.jpg",
+    "ship_class": "Destiny class",
+    "description": "Carnival Sunshine, formerly Carnival Destiny, was one of the world's first vessels to exceed 100,000 gross tons when built in 1996. After a massive makeover in 2013, she emerged as Carnival Sunshine — a completely reimagined ship with over 50 new features. She sails the Caribbean from Charleston, South Carolina, and Norfolk, Virginia.",
+    "amenities": {
+      "dining": ["Main Dining Room (3 venues)", "Lido Marketplace buffet", "Guy's Burger Joint", "BlueIguana Cantina", "Pizzeria del Capitano", "Fahrenheit 555 Steakhouse (specialty)", "Bonsai Sushi (specialty)", "JiJi Asian Kitchen (specialty)"],
+      "entertainment": ["Main theater", "Punchliners Comedy Club", "Casino", "WaterWorks aqua park", "Live music venues", "Serenity Adults-Only Retreat"],
+      "recreation": ["3 pools", "WaterWorks waterslides", "Full-service spa (Cloud 9 Spa)", "Fitness center", "Sports court", "Mini golf", "Jogging track"],
+      "included": ["All meals in main dining rooms and Lido Marketplace buffet", "Guy's Burger Joint and BlueIguana Cantina", "Entertainment shows and comedy", "Kids & teens clubs (Camp Ocean, Circle C, Club O2)", "Access to pools and fitness center"]
+    }
+  },
+  {
+    "id": "norwegian-bliss",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Bliss",
+    "year_built": 2018,
+    "gross_tonnage": 168028,
+    "passenger_capacity": 4010,
+    "crew": 1716,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/BLISS_Overview_Wilds_Alaska_2023_0720.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Bliss was purpose-built for Alaska and Caribbean itineraries. It features the largest race track at sea at the time of its launch, an outdoor laser tag arena, the Galaxy Pavilion virtual reality complex, and two brand-new high-speed waterslides called the Ocean Loops.",
+    "amenities": {
+      "dining": ["The Local Bar & Grill", "Garden Café buffet", "Cagney's Steakhouse (specialty)", "Ocean Blue (specialty)", "Food Republic (specialty)", "Teppanyaki (specialty)", "Los Lobos Cantina (specialty)", "La Cucina (specialty)"],
+      "entertainment": ["The Speedway go-kart racetrack", "Galaxy Pavilion virtual reality complex", "Outdoor laser tag arena", "Aqua Park (Ocean Loops waterslides)", "Broadway shows", "Casino at Sea", "Howl at the Moon dueling pianos", "Syd Norman's Pour House", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows and Broadway production", "Kids club (Splash Academy)", "Access to pools and fitness center", "Aqua Park waterslides"]
+    }
+  },
+  {
+    "id": "norwegian-joy",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Joy",
+    "year_built": 2017,
+    "gross_tonnage": 167725,
+    "passenger_capacity": 3776,
+    "crew": 1821,
+    "length_m": 333,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/JOY.Joy_Overview_Hero_1600x320.jpg",
+    "ship_class": "Breakaway Plus class",
+    "description": "Norwegian Joy was originally built for the Chinese market before being refurbished for the American market in 2019. Now sailing Caribbean and Alaska routes, it features a two-level racetrack, the Aqua Racer waterslide, and venues designed specifically for the North American guest experience.",
+    "amenities": {
+      "dining": ["The Local Bar & Grill", "Garden Café buffet", "Cagney's Steakhouse (specialty)", "Ocean Blue (specialty)", "Food Republic (specialty)", "Teppanyaki (specialty)", "Los Lobos Cantina (specialty)", "La Cucina (specialty)"],
+      "entertainment": ["The Speedway go-kart racetrack (two-level)", "Galaxy Pavilion virtual reality complex", "Aqua Park waterslides", "Broadway shows", "Casino at Sea", "Howl at the Moon dueling pianos", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows and Broadway production", "Kids club (Splash Academy)", "Access to pools and fitness center", "Aqua Park waterslides"]
+    }
+  },
+  {
+    "id": "norwegian-escape",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Escape",
+    "year_built": 2015,
+    "gross_tonnage": 164998,
+    "passenger_capacity": 4218,
+    "crew": 1733,
+    "length_m": 326,
+    "decks": 20,
+    "image": "https://www.ncl.com/sites/default/files/NCL_Escape_desktop.jpg",
+    "ship_class": "Breakaway class",
+    "description": "Norwegian Escape is the largest Breakaway-class ship and the largest ship ever built for the North American market at its launch. It features a five-story go-kart race track (later added), the Aqua Park with three multi-story waterslides, and the award-winning Broadway show For the Record: Baz Luhrmann.",
+    "amenities": {
+      "dining": ["The Local Bar & Grill", "Garden Café buffet", "Cagney's Steakhouse (specialty)", "Ocean Blue (specialty)", "Food Republic (specialty)", "Teppanyaki (specialty)", "Margaritaville at Sea (specialty)", "La Cucina (specialty)"],
+      "entertainment": ["Aqua Park (3 waterslides including The Whip)", "The Waterfront outdoor promenade", "5678 Comedy Club", "Broadway shows (For the Record: Baz Luhrmann)", "Casino at Sea", "Howl at the Moon dueling pianos", "Syd Norman's Pour House", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Ropes course", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows and Broadway production", "Kids club (Splash Academy)", "Access to pools and fitness center", "Aqua Park waterslides"]
+    }
+  },
+  {
+    "id": "norwegian-breakaway",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Breakaway",
+    "year_built": 2013,
+    "gross_tonnage": 145655,
+    "passenger_capacity": 3903,
+    "crew": 1657,
+    "length_m": 326,
+    "decks": 18,
+    "image": "https://www.ncl.com/sites/default/files/Hero-Breakway-2018.jpg",
+    "ship_class": "Breakaway class",
+    "description": "Norwegian Breakaway was the first of NCL's Breakaway class when it launched from New York in 2013. The ship introduced the iconic Waterfront — a quarter-mile outdoor promenade with restaurants and bars overlooking the ocean — and the thrilling five-story Aqua Park waterslides.",
+    "amenities": {
+      "dining": ["The Local Bar & Grill", "Garden Café buffet", "Cagney's Steakhouse (specialty)", "Ocean Blue (specialty)", "Pincho Tapas Bar (specialty)", "La Cucina (specialty)", "Margaritaville at Sea (specialty)"],
+      "entertainment": ["Aqua Park (5-story waterslides)", "The Waterfront outdoor promenade", "5678 Comedy Club", "Broadway shows (Rock of Ages)", "Casino at Sea", "Howl at the Moon dueling pianos", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Ropes course", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows and Broadway production", "Kids club (Splash Academy)", "Access to pools and fitness center", "Aqua Park waterslides"]
+    }
+  },
+  {
+    "id": "norwegian-viva",
+    "cruiseLineId": "norwegian",
+    "name": "Norwegian Viva",
+    "year_built": 2023,
+    "gross_tonnage": 142500,
+    "passenger_capacity": 3195,
+    "crew": 1506,
+    "length_m": 294,
+    "decks": 17,
+    "image": "https://www.ncl.com/sites/default/files/1600x320_Viva_Hero_02.png",
+    "ship_class": "Prima class",
+    "description": "Norwegian Viva is the second Prima-class ship, launched in 2023. Like its sister ship Norwegian Prima, it features more outdoor deck space per guest than any other large ship. The Prima class is defined by its distinctive hull design, three-deck race track, and elevated dining and entertainment options.",
+    "amenities": {
+      "dining": ["Indulge Food Hall (16 eateries)", "The Local Bar & Grill", "Garden Café buffet", "Steak 'H' (specialty)", "Onda by Scarpetta (specialty)", "Los Lobos (specialty)", "Palomar Seafood (specialty)", "Cagney's Steakhouse (specialty)"],
+      "entertainment": ["The Speedway (3-level go-kart racetrack)", "The Drop (fastest dry slide at sea)", "Aftscape outdoor recreation area", "Oceanwalk glass bridge", "Cavern Club", "Syd Norman's Pour House", "Casino at Sea", "The Metropolitan (main theater)", "Live music venues"],
+      "recreation": ["Vibe Beach Club (adults-only, fee applies)", "3 pools", "Full-service spa (Mandara Spa)", "Fitness center", "Pickleball court", "Jogging track"],
+      "included": ["All meals in Garden Café buffet and The Local Bar & Grill", "Entertainment shows", "Kids club (Splash Academy)", "Access to pools and fitness center", "The Speedway racetrack (limited laps included)", "Indulge Food Hall basic eateries"]
+    }
+  },
+  {
+    "id": "msc-grandiosa",
+    "cruiseLineId": "msc",
+    "name": "MSC Grandiosa",
+    "year_built": 2019,
+    "gross_tonnage": 181541,
+    "passenger_capacity": 6334,
+    "crew": 1704,
+    "length_m": 331,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/gr_miniature.png",
+    "ship_class": "Meraviglia Plus class",
+    "description": "MSC Grandiosa is the first Meraviglia Plus class ship. Longer than the original Meraviglia class, it features an 80-meter LED sky dome that creates stunning visual shows, the largest duty-free promenade at sea, and Cirque du Soleil at Sea performances in a purpose-built venue.",
+    "amenities": {
+      "dining": ["Manhattan main restaurant", "Marketplace Buffet", "Kaito Sushi Bar (specialty)", "East Restaurant (specialty)", "Butcher's Cut Steakhouse (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["80-meter LED sky dome with light shows", "Cirque du Soleil at Sea (dedicated theater)", "XD Cinema 4D", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues", "Bowling alley"],
+      "recreation": ["4 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "msc-virtuosa",
+    "cruiseLineId": "msc",
+    "name": "MSC Virtuosa",
+    "year_built": 2021,
+    "gross_tonnage": 181541,
+    "passenger_capacity": 6334,
+    "crew": 1704,
+    "length_m": 331,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/virtuosa/silhouette/vi_miniature_mobile.jpg",
+    "ship_class": "Meraviglia Plus class",
+    "description": "MSC Virtuosa is the second Meraviglia Plus class ship. It made history in 2021 as the first cruise ship to deploy an AI-powered robotic bartender named Rob. The ship also features a unique MSC Yacht Club private enclave and the same Cirque du Soleil at Sea entertainment as its sister ship MSC Grandiosa.",
+    "amenities": {
+      "dining": ["Manhattan main restaurant", "Marketplace Buffet", "Kaito Sushi Bar (specialty)", "East Restaurant (specialty)", "Butcher's Cut Steakhouse (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["80-meter LED sky dome with light shows", "Cirque du Soleil at Sea (dedicated theater)", "Rob the AI robotic bartender", "XD Cinema 4D", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues", "Bowling alley"],
+      "recreation": ["4 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "msc-meraviglia",
+    "cruiseLineId": "msc",
+    "name": "MSC Meraviglia",
+    "year_built": 2017,
+    "gross_tonnage": 167600,
+    "passenger_capacity": 5714,
+    "crew": 1536,
+    "length_m": 315,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/mr__miniature.png",
+    "ship_class": "Meraviglia class",
+    "description": "MSC Meraviglia introduced the Meraviglia class in 2017 and set a new design standard for MSC. The ship features a 93-meter LED dome in the main promenade — one of the most recognizable features at sea — along with the first bowling alley on an MSC ship and an XD Cinema.",
+    "amenities": {
+      "dining": ["Manhattan main restaurant", "Marketplace Buffet", "Kaito Sushi Bar (specialty)", "East Restaurant (specialty)", "Butcher's Cut Steakhouse (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["93-meter LED promenade dome with light shows", "XD Cinema 4D", "Bowling alley (first on an MSC ship)", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues"],
+      "recreation": ["4 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "msc-bellissima",
+    "cruiseLineId": "msc",
+    "name": "MSC Bellissima",
+    "year_built": 2019,
+    "gross_tonnage": 167600,
+    "passenger_capacity": 5686,
+    "crew": 1536,
+    "length_m": 315,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/bellissima_miniature.png",
+    "ship_class": "Meraviglia class",
+    "description": "MSC Bellissima launched in 2019 as the second Meraviglia-class ship. It debuted ZOE — an AI-powered virtual personal assistant available in every cabin — a world first in the cruise industry. The ship also features an updated version of the stunning LED promenade dome and expanded dining options.",
+    "amenities": {
+      "dining": ["Manhattan main restaurant", "Marketplace Buffet", "Kaito Sushi Bar (specialty)", "East Restaurant (specialty)", "Butcher's Cut Steakhouse (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["93-meter LED promenade dome with light shows", "ZOE AI virtual assistant in every cabin", "XD Cinema 4D", "Bowling alley", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues"],
+      "recreation": ["4 pools", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "msc-seascape",
+    "cruiseLineId": "msc",
+    "name": "MSC Seascape",
+    "year_built": 2022,
+    "gross_tonnage": 169400,
+    "passenger_capacity": 5877,
+    "crew": 1648,
+    "length_m": 339,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/seascape/sc_miniature_mobile.jpg",
+    "ship_class": "Seaside EVO class",
+    "description": "MSC Seascape is the second Seaside EVO class ship and a sister vessel to MSC Seashore. Deployed year-round in Miami, it is purpose-built for Caribbean cruising. It features the Cliffhanger roller coaster-style waterslide that extends 40 feet beyond the edge of the ship, a new Aft Pool area, and expanded family entertainment.",
+    "amenities": {
+      "dining": ["La Palmeraie main restaurant", "Marketplace Buffet", "The Seafood Bar", "Hola! Tacos & Cantina", "Kaito Sushi Bar (specialty)", "SALT Kitchen (specialty)", "MSC Yacht Club Restaurant (suite guests)"],
+      "entertainment": ["Aqua Park (Cliffhanger roller-coaster slide extending beyond ship's hull)", "Infinity Bridge connecting ship to sea", "XD Cinema 4D", "Theater with Broadway-style shows", "Casino", "Top Sail Lounge (Yacht Club)", "Live music venues"],
+      "recreation": ["4 pools including new Aft Pool area", "Full-service spa (MSC Aurea Spa)", "Fitness center", "Sports court", "Jogging track", "Kids waterpark"],
+      "included": ["All meals in main restaurant and Marketplace Buffet", "Live entertainment and theater shows", "Kids club (Doremi at MSC)", "Access to pools and fitness center", "Aqua Park water slides"]
+    }
+  },
+  {
+    "id": "celebrity-edge",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Edge",
+    "year_built": 2018,
+    "gross_tonnage": 130818,
+    "passenger_capacity": 2918,
+    "crew": 1320,
+    "length_m": 306,
+    "decks": 16,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/Celebrity-Edge.jpg",
+    "ship_class": "Edge class",
+    "description": "Celebrity Edge launched in 2018 and completely redefined Celebrity Cruises' design language. It was the first ship to feature the Magic Carpet — a cantilevered floating platform that glides up and down the ship's exterior serving as a restaurant, bar, and embarkation point. The ship also introduced The Retreat, an exclusive luxury enclave.",
+    "amenities": {
+      "dining": ["The Grand Palais main restaurant", "Oceanview Café buffet", "Magic Carpet outdoor dining venue", "Eden restaurant and bar (3-deck immersive venue)", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Le Petit Chef & Friends digital dining (specialty)", "Sushi on Five (specialty)", "Rooftop Garden Grill"],
+      "entertainment": ["Magic Carpet cantilevered floating platform (world first)", "Eden (performance art, cocktails, and dining)", "The Rooftop Garden", "Theater productions", "The Club entertainment venue", "Casino", "Live music throughout the ship"],
+      "recreation": ["Resort Deck with 4 pools", "Solarium (adults-only pool with retractable roof)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Lawn Club", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in The Grand Palais and Oceanview Café", "Basic beverages (Celebrity Always Included: drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-apex",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Apex",
+    "year_built": 2020,
+    "gross_tonnage": 130818,
+    "passenger_capacity": 2910,
+    "crew": 1316,
+    "length_m": 306,
+    "decks": 16,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/evening-celebrity-apex-ship-exterior-2560x1440.jpg",
+    "ship_class": "Edge class",
+    "description": "Celebrity Apex is the second Edge-class ship, launching in 2020. It features the same groundbreaking design as Celebrity Edge including the Magic Carpet and The Retreat. Apex introduced an enhanced culinary program with Fine Cut Steakhouse and expanded the Rooftop Garden concept. It primarily sails European itineraries.",
+    "amenities": {
+      "dining": ["The Grand Palais main restaurant", "Oceanview Café buffet", "Magic Carpet outdoor dining venue", "Eden restaurant and bar (3-deck immersive venue)", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Le Petit Chef & Friends digital dining (specialty)", "Sushi on Five (specialty)", "Rooftop Garden Grill"],
+      "entertainment": ["Magic Carpet cantilevered floating platform", "Eden (performance art, cocktails, and dining)", "The Rooftop Garden", "Theater productions", "The Club entertainment venue", "Casino", "Live music throughout the ship"],
+      "recreation": ["Resort Deck with 4 pools", "Solarium (adults-only pool with retractable roof)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Lawn Club", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in The Grand Palais and Oceanview Café", "Basic beverages (Celebrity Always Included: drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-millennium",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Millennium",
+    "year_built": 2000,
+    "gross_tonnage": 91011,
+    "passenger_capacity": 2218,
+    "crew": 999,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/millennium-aerial-view-2560x1440.jpg",
+    "ship_class": "Millennium class",
+    "description": "Celebrity Millennium launched in 2000 as the first of the Millennium class and is one of Celebrity's most beloved ships. It underwent a major 'revolutionized' refurbishment in 2019, gaining new specialty restaurants, a redesigned The Retreat, and updated staterooms while retaining its classic elegance.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush", "Sky Lounge"],
+      "entertainment": ["Theater productions", "The Club entertainment venue", "Casino", "Live music venues", "Pool deck entertainment"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools and fitness center", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-equinox",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Equinox",
+    "year_built": 2009,
+    "gross_tonnage": 121878,
+    "passenger_capacity": 2852,
+    "crew": 1253,
+    "length_m": 317,
+    "decks": 15,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/equinox-aerial-view-60-opacity-2560x1440.jpg",
+    "ship_class": "Solstice class",
+    "description": "Celebrity Equinox is the second Solstice-class ship. It is famous for its real lawn on the top deck — The Lawn Club — the first real grass lawn at sea. After its 2019 Revolution refurbishment, it gained Eden (a bar, restaurant, and entertainment space spanning three decks) and new suite options.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Lawn Club Grill outdoor dining", "Eden restaurant and bar", "Murano (specialty)", "Tuscan Grille (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush"],
+      "entertainment": ["Eden (performance art, cocktails, and dining)", "The Lawn Club (real grass)", "Solstice Stage outdoor entertainment", "Theater productions", "The Club entertainment venue", "Casino", "Live music venues"],
+      "recreation": ["3 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-reflection",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Reflection",
+    "year_built": 2012,
+    "gross_tonnage": 125366,
+    "passenger_capacity": 3046,
+    "crew": 1253,
+    "length_m": 319,
+    "decks": 15,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/ship-overview/9935-ship-exterior-reflection-overview-80-opacity.jpg",
+    "ship_class": "Solstice class",
+    "description": "Celebrity Reflection is the fifth and largest Solstice-class ship. It was refurbished in 2020 as part of Celebrity's Revolution program, receiving a redesigned The Retreat, new suite classes, and updated public spaces. Reflection is known for its elegant design and extensive art collection, with over 3,500 original works on board.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Lawn Club Grill outdoor dining", "Eden restaurant and bar", "Murano (specialty)", "Tuscan Grille (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush"],
+      "entertainment": ["Eden (performance art, cocktails, and dining)", "The Lawn Club (real grass)", "Solstice Stage outdoor entertainment", "Theater productions", "The Club entertainment venue", "Casino", "Live music venues", "Art collection tour (3,500+ original works)"],
+      "recreation": ["3 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-eclipse",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Eclipse",
+    "year_built": 2010,
+    "gross_tonnage": 121878,
+    "passenger_capacity": 2852,
+    "crew": 1253,
+    "length_m": 317,
+    "decks": 15,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ship-things-to-do-onboard/ships/CEL-Eclipse-Aerial-2560x1440.jpg",
+    "ship_class": "Solstice class",
+    "description": "Celebrity Eclipse is the third Solstice-class ship. Homeporting in Southampton, UK, it is the most popular Celebrity ship for British travelers. It underwent the Celebrity Revolution refurbishment and features the iconic Lawn Club, Martini Bar and Crush, and the atmospheric Cellar Masters wine bar.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Lawn Club Grill outdoor dining", "Eden restaurant and bar", "Murano (specialty)", "Tuscan Grille (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush", "Cellar Masters wine bar"],
+      "entertainment": ["Eden (performance art, cocktails, and dining)", "The Lawn Club (real grass)", "Solstice Stage outdoor entertainment", "Theater productions", "The Club entertainment venue", "Casino", "Live music venues"],
+      "recreation": ["3 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-silhouette",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Silhouette",
+    "year_built": 2011,
+    "gross_tonnage": 122210,
+    "passenger_capacity": 2902,
+    "crew": 1253,
+    "length_m": 319,
+    "decks": 15,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/silhouette-2560x1440.jpg",
+    "ship_class": "Solstice class",
+    "description": "Celebrity Silhouette is the fourth Solstice-class ship. Launched in 2011, it was the first Celebrity ship to feature The Lawn Club Grill, an interactive outdoor dining experience on the ship's famous grass lawn. Following its Celebrity Revolution refurbishment, Silhouette now features updated staterooms, The Retreat, and contemporary dining venues.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Lawn Club Grill outdoor dining (first on Celebrity)", "Eden restaurant and bar", "Murano (specialty)", "Tuscan Grille (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush"],
+      "entertainment": ["Eden (performance art, cocktails, and dining)", "The Lawn Club (real grass)", "Solstice Stage outdoor entertainment", "Theater productions", "The Club entertainment venue", "Casino", "Live music venues"],
+      "recreation": ["3 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-solstice",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Solstice",
+    "year_built": 2008,
+    "gross_tonnage": 121878,
+    "passenger_capacity": 2850,
+    "crew": 1253,
+    "length_m": 317,
+    "decks": 15,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/celebrity-solstice-pictures/CEL_SI_ExteriorSun_Solstice_BlueHull-2560x1440.jpg",
+    "ship_class": "Solstice class",
+    "description": "Celebrity Solstice was the first ship in Celebrity's groundbreaking Solstice class, launched in 2008. It introduced the revolutionary real grass Lawn Club on the top deck — a first in the cruise industry. Following a 2023 renewal, the Renewed Celebrity Solstice offers updated amenities, new dining venues, and modernized staterooms.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Lawn Club Grill outdoor dining", "Murano (specialty)", "Tuscan Grille (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush"],
+      "entertainment": ["The Lawn Club (real grass — world first)", "Solstice Stage outdoor entertainment", "Theater productions", "The Club entertainment venue", "Casino", "Live music venues"],
+      "recreation": ["3 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-constellation",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Constellation",
+    "year_built": 2002,
+    "gross_tonnage": 90940,
+    "passenger_capacity": 2184,
+    "crew": 999,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/celebrity-constellation-pictures/CEL-CS-Oslo-060-2360X1440.jpg",
+    "ship_class": "Millennium class",
+    "description": "Celebrity Constellation is the fourth Millennium-class ship. After its Celebrity Revolution refurbishment, it features updated suites, a redesigned The Retreat sundeck, and contemporary dining options. It is known for its art collection, including works by Dale Chihuly, and its classic Celebrity elegance.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush", "Sky Lounge"],
+      "entertainment": ["Theater productions", "The Club entertainment venue", "Casino", "Live music venues", "Pool deck entertainment", "Dale Chihuly art collection"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools and fitness center", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-infinity",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Infinity",
+    "year_built": 2001,
+    "gross_tonnage": 90940,
+    "passenger_capacity": 2170,
+    "crew": 999,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ship-things-to-do-onboard/ships/infinity-ship-2-2560x1440.jpg",
+    "ship_class": "Millennium class",
+    "description": "Celebrity Infinity is the second Millennium-class ship. It was among the first Celebrity ships to undergo the Celebrity Revolution refurbishment program, receiving a full interior redesign, new suite experiences, and updated dining venues. The ship primarily sails Alaska and South America itineraries.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush", "Sky Lounge"],
+      "entertainment": ["Theater productions", "The Club entertainment venue", "Casino", "Live music venues", "Pool deck entertainment"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools and fitness center", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-summit",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Summit",
+    "year_built": 2001,
+    "gross_tonnage": 91003,
+    "passenger_capacity": 2218,
+    "crew": 999,
+    "length_m": 294,
+    "decks": 11,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/ships/summit-aerial-view-60-opacity-2560x1440.jpg",
+    "ship_class": "Millennium class",
+    "description": "Celebrity Summit is the third Millennium-class ship. Revolutionized in 2019, it homeports in Bayonne, New Jersey — the closest Celebrity ship to New York City. It serves the popular Bermuda and Canada/New England routes, offering an accessible taste of Celebrity's premium experience for East Coast travelers.",
+    "amenities": {
+      "dining": ["The Grand Cuvée main restaurant", "Oceanview Café buffet", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Sushi on Five (specialty)", "Bistro on Five (specialty)", "Martini Bar & Crush", "Sky Lounge"],
+      "entertainment": ["Theater productions", "The Club entertainment venue", "Casino", "Live music venues", "Pool deck entertainment"],
+      "recreation": ["2 pools", "Solarium (adults-only pool)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in main restaurant and Oceanview Café", "Celebrity Always Included (drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools and fitness center", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "celebrity-flora",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Flora",
+    "year_built": 2019,
+    "gross_tonnage": 5922,
+    "passenger_capacity": 100,
+    "crew": 70,
+    "length_m": 101,
+    "decks": 5,
+    "image": "https://www.celebritycruises.com/content/dam/celebrity/new-images/celebrity-flora-story/Welcoming-Flora_SCIENCE-PARTNERSHIPS-2560x1440.jpg",
+    "ship_class": "Flora class",
+    "description": "Celebrity Flora is a unique expedition yacht purpose-built exclusively for Galápagos Islands cruises. As the first purpose-built ship for the Galápagos, it accommodates only 100 guests, offering an intimate eco-adventure experience. The ship carries zodiacs, snorkeling gear, kayaks, and glass-bottom boats for exploring the islands' remote wildlife sanctuaries.",
+    "amenities": {
+      "dining": ["The Restaurant main dining room", "The Patio outdoor dining", "The Bar & Lounge", "Flora Café"],
+      "entertainment": ["Naturalist-led lectures and enrichment programs", "Evening briefings and wildlife presentations", "Stargazing deck sessions", "Onboard library with naturalist resources"],
+      "recreation": ["Zodiac landing excursions (included)", "Snorkeling with gear provided", "Sea kayaking", "Glass-bottom boat tours", "Observation lounge deck", "Fitness area"],
+      "included": ["All meals and non-alcoholic beverages", "Wi-Fi", "Gratuities", "All Galápagos shore excursions and Zodiac landings", "Snorkeling and kayaking gear", "Expert naturalist guides on every excursion", "Park fees"]
+    }
+  },
+  {
+    "id": "celebrity-xcel",
+    "cruiseLineId": "celebrity",
+    "name": "Celebrity Xcel",
+    "year_built": 2025,
+    "gross_tonnage": 141420,
+    "passenger_capacity": 3260,
+    "crew": 1410,
+    "length_m": 327,
+    "decks": 20,
+    "image": "https://www.celebritycruises.com/xcel/opengraph-image.jpg",
+    "ship_class": "Edge class",
+    "description": "Celebrity Xcel is the fifth and newest ship in Celebrity's Edge class, debuting in 2025. The most technologically advanced ship in the Celebrity fleet, Xcel features the signature Magic Carpet cantilevered platform, upgraded Edge Staterooms, and the latest iteration of Celebrity's award-winning restaurant and entertainment concepts.",
+    "amenities": {
+      "dining": ["The Grand Palais main restaurant", "Oceanview Café buffet", "Magic Carpet outdoor dining venue", "Eden restaurant and bar (3-deck immersive venue)", "Fine Cut Steakhouse (specialty)", "Raw on 5 seafood bar (specialty)", "Le Petit Chef & Friends digital dining (specialty)", "Sushi on Five (specialty)", "Rooftop Garden Grill"],
+      "entertainment": ["Magic Carpet cantilevered floating platform", "Eden (performance art, cocktails, and dining)", "The Rooftop Garden", "Theater productions", "The Club entertainment venue", "Casino", "Live music throughout the ship"],
+      "recreation": ["Resort Deck with 4 pools", "Solarium (adults-only pool with retractable roof)", "Full-service spa & salon (Canyon Ranch)", "Fitness center", "Lawn Club", "Jogging track", "The Retreat exclusive sundeck (suite guests)"],
+      "included": ["All meals in The Grand Palais and Oceanview Café", "Basic beverages (Celebrity Always Included: drinks, Wi-Fi, gratuities)", "Live entertainment and theater shows", "Access to pools, fitness center, and The Lawn Club", "Enrichment programs and lectures"]
+    }
+  },
+  {
+    "id": "utopia-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Utopia of the Seas",
+    "year_built": 2024,
+    "gross_tonnage": 236857,
+    "passenger_capacity": 5698,
+    "crew": 2350,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://images.ctfassets.net/1j5frcmicrux/P4pm4lD6ZcOHtNVGpzuyb/3185687a191602bf8c391a4d12f25417/share-reveal-comp.jpg",
+    "ship_class": "Icon class",
+    "description": "Utopia of the Seas is totally transforming weekend vacations for good with bigger flavor, bolder play, and better chill days than you've ever imagined. Sail year-round from Port Canaveral to Perfect Day at CocoCay, Royal Caribbean's award-winning private island.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "21 dining venues including Chops Grille, Giovanni's, Izumi, Hooked Seafood"],
+      "entertainment": ["AquaTheater water shows", "FlowRider surf simulator", "Zip line", "Rock climbing wall", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues", "3 waterslides"],
+      "recreation": ["5 pools including Splashaway Bay and adults-only Solarium", "8 hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "star-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Star of the Seas",
+    "year_built": 2025,
+    "gross_tonnage": 250800,
+    "passenger_capacity": 7600,
+    "crew": 2350,
+    "length_m": 365,
+    "decks": 20,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/star/asset/star-of-the-seas-aerial-bow-angle-evening-crop.jpg",
+    "ship_class": "Icon class",
+    "description": "The World's Best Family Vacation, Star of the Seas is now sailing from Port Canaveral as the newest Icon Class ship. Loaded with next-level thrills, world-class dining, and unforgettable entertainment for every member of the family.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace buffet", "Park Café", "El Loco Fresh", "Sorrento's Pizza", "Coastal Kitchen (suite guests)", "Multiple specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["AquaTheater water shows", "Category 6 waterpark", "Crown's Edge sky walk", "FlowRider surf simulator", "Zip line", "Rock climbing wall", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["Multiple pools including family and adults-only Solarium", "Hot tubs", "Full-service spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer buffet", "Live entertainment and Broadway shows", "Kids & teens clubs (Adventure Ocean)", "Access to pools, fitness center, and sports areas", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "ovation-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Ovation of the Seas",
+    "year_built": 2016,
+    "gross_tonnage": 168666,
+    "passenger_capacity": 4180,
+    "crew": 1500,
+    "length_m": 348,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/ovation-of-the-seas-northstar-aerial.jpg",
+    "ship_class": "Quantum class",
+    "description": "Ovation of the Seas is one of the world's most groundbreaking ships. Fantastic entertainment, game-changing family fun you can enjoy in any climate, and breathtaking vistas from every stateroom make it truly remarkable.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "Café Two70", "El Loco Fresh", "Sorrento's Pizza", "Park Café", "Specialty restaurants (Wonderland, Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["Two70 flexible venue with robotic screens", "SeaPlex indoor sports complex", "RipCord by iFly indoor skydiving simulator", "FlowRider surf simulator", "NorthStar observation capsule", "Rock climbing wall", "Casino Royale", "Broadway-style shows", "Comedy club"],
+      "recreation": ["Indoor/outdoor pool area", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track", "Bumper cars at SeaPlex"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "spectrum-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Spectrum of the Seas",
+    "year_built": 2019,
+    "gross_tonnage": 169379,
+    "passenger_capacity": 4246,
+    "crew": 1551,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/spectrum/assets/spectrum-of-the-seas-aerial-skypad-hero.jpg",
+    "ship_class": "Quantum Ultra class",
+    "description": "Discover a cruise adventure full of new feats and firsts on Spectrum of the Seas, the first of the Quantum Ultra Class cruise ships. Featuring the Ultimate Family Suite, SkySea capsule, and a Star of the Seas dining hall.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "Café Two70", "El Loco Fresh", "Sorrento's Pizza", "Star of the Seas dining hall", "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["Two70 flexible venue with robotic screens", "SeaPlex indoor sports complex", "RipCord by iFly indoor skydiving simulator", "FlowRider surf simulator", "SkySea observation capsule", "Rock climbing wall", "Casino Royale", "Broadway-style shows", "Comedy club"],
+      "recreation": ["Indoor/outdoor pool area", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track", "Bumper cars at SeaPlex"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "odyssey-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Odyssey of the Seas",
+    "year_built": 2021,
+    "gross_tonnage": 169379,
+    "passenger_capacity": 4198,
+    "crew": 1551,
+    "length_m": 347,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/odyssey/odyssey-of-the-seas-sailing-cruising-sunset-north-star.jpg",
+    "ship_class": "Quantum Ultra class",
+    "description": "Odyssey of the Seas offers unforgettable onboard activities and delicious dining from around the world. Soak up the sun at the resort-style pool deck on this First Quantum Ultra Class cruise ship sailing the Caribbean.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "Café Two70", "El Loco Fresh", "Sorrento's Pizza", "Park Café", "Specialty restaurants (Wonderland, Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["Two70 flexible venue with robotic screens", "SeaPlex indoor sports complex", "RipCord by iFly indoor skydiving simulator", "FlowRider surf simulator", "NorthStar observation capsule", "Rock climbing wall", "Casino Royale", "Broadway-style shows", "Comedy club"],
+      "recreation": ["Indoor/outdoor pool area", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track", "Bumper cars at SeaPlex"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "freedom-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Freedom of the Seas",
+    "year_built": 2006,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4370,
+    "crew": 1360,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/freedom/freedom-of-the-seas-perfect-day-aerial-docked-pier.jpg",
+    "ship_class": "Freedom class",
+    "description": "Freedom of the Seas is the ultimate adventure-seeking expedition. This winner of best cruise ship for first timers sails way beyond the typical getaway with the perfect mix of destinations and all the best thrills at sea.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Sorrento's Pizza", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["H2O Zone kids aquapark", "Splashaway Bay", "Solarium adults-only pool", "Main pools", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and Broadway shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "liberty-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Liberty of the Seas",
+    "year_built": 2007,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4375,
+    "crew": 1397,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/royal-amplified/liberty-of-the-seas-drone-sunset.jpg",
+    "ship_class": "Freedom class",
+    "description": "Liberty of the Seas brings you to some of the most incredible ports with plenty of adventure, entertainment, and nightlife. A Royal Amplified ship packed with thrills for the whole family.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Sorrento's Pizza", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["H2O Zone kids aquapark", "Splashaway Bay", "Solarium adults-only pool", "Main pools", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and Broadway shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "independence-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Independence of the Seas",
+    "year_built": 2008,
+    "gross_tonnage": 154407,
+    "passenger_capacity": 4375,
+    "crew": 1394,
+    "length_m": 339,
+    "decks": 18,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/content/ship/independence-of-the-seas/overview/hero-pic/independence-aerial-view-birds-eye-cruise-ship.jpg",
+    "ship_class": "Freedom class",
+    "description": "Independence of the Seas sails short getaways year-round. This Royal Amplified ship is loaded with surprises to thrill even the boldest adventurers, with new water slides, Splashaway Bay waterpark, and bold dining options.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Sorrento's Pizza", "Park Café", "Sugar Beach pool bar", "Specialty restaurants (Chops Grille, Giovanni's, Izumi, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Mini golf", "Casino Royale", "Broadway-style shows", "Comedy club", "Live music venues"],
+      "recreation": ["H2O Zone kids aquapark", "Splashaway Bay", "Solarium adults-only pool", "Main pools", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and Broadway shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "FlowRider surf simulator and rock climbing wall"]
+    }
+  },
+  {
+    "id": "voyager-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Voyager of the Seas",
+    "year_built": 1999,
+    "gross_tonnage": 137276,
+    "passenger_capacity": 3840,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/international/voyager-of-the-seas/voyager-top-view-centre.jpg",
+    "ship_class": "Voyager class",
+    "description": "Voyager of the Seas is packed with more ways to play on your getaway. Catch a wave on the FlowRider surf simulator, explore the iconic Royal Promenade, and enjoy a flavor-filled journey with rustic Italian dishes and Far East-inspired cuisine.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Park Café", "Sorrento's Pizza", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Royal Promenade indoor boulevard", "Mini golf", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["Solarium adults-only pool", "Main pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "explorer-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Explorer of the Seas",
+    "year_built": 1999,
+    "gross_tonnage": 137308,
+    "passenger_capacity": 3840,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/explorer/explorer-of-the-seas-perfect-storm-aerial.jpg",
+    "ship_class": "Voyager class",
+    "description": "Explorer of the Seas is filled with unforgettable activities and features from bow to stern. One of the coolest culture-cruising ships out there, it pioneered entertainment at sea with a Royal Promenade, climbing wall, and ice skating rink.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Park Café", "Sorrento's Pizza", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Royal Promenade indoor boulevard", "Mini golf", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["Solarium adults-only pool", "Main pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "adventure-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Adventure of the Seas",
+    "year_built": 2001,
+    "gross_tonnage": 137276,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/content/fleet-landing/adventure-of-the-seas-the-perfect-storm-waterslides.jpg",
+    "ship_class": "Voyager class",
+    "description": "Adventure of the Seas offers more to do onboard with fewer days between some of the world's most incredible destinations. An all-out vacation adventure that's sure to put a dent in your bucket list.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Park Café", "Sorrento's Pizza", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Ice skating rink", "Royal Promenade indoor boulevard", "Mini golf", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["Splashaway Bay kids waterpark", "Solarium adults-only pool", "Main pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "navigator-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Navigator of the Seas",
+    "year_built": 2002,
+    "gross_tonnage": 138279,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/navigator/assets/navigator-of-the-seas-aft-aerial-slides-hero.jpg",
+    "ship_class": "Voyager class",
+    "description": "Navigator of the Seas is an amplified weekend cruise ship delivering a maxed-out adventure in just a few short days. Take on record-breaking thrills like the longest waterslide at sea and soak up bigger, bolder, splashier pool days.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Park Café", "The Lime & Coconut pool bar", "Sorrento's Pizza", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Longest waterslide at sea", "Royal Promenade indoor boulevard", "Mini golf", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["Splashaway Bay kids waterpark", "Solarium adults-only pool", "Main pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "mariner-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Mariner of the Seas",
+    "year_built": 2003,
+    "gross_tonnage": 138279,
+    "passenger_capacity": 3838,
+    "crew": 1181,
+    "length_m": 311,
+    "decks": 15,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/mariner-of-the-seas/mariner-of-the-seas-aerial-view-skypad.jpg",
+    "ship_class": "Voyager class",
+    "description": "Mariner of the Seas has more ways to play on the most maxed-out short getaway ever. Ditch the weekend road trip for this action-packed Royal Amplified cruise ship with new slides, Splashaway Bay, and fresh dining spots.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Marketplace", "El Loco Fresh", "Park Café", "Sorrento's Pizza", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["FlowRider surf simulator", "Rock climbing wall", "Three-level waterslide", "Royal Promenade indoor boulevard", "Mini golf", "Casino Royale", "Broadway-style shows", "Live music venues"],
+      "recreation": ["Splashaway Bay kids waterpark", "Solarium adults-only pool", "Main pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "radiance-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Radiance of the Seas",
+    "year_built": 2001,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/countries/AU/shipstiles/radiance_southpac.jpg",
+    "ship_class": "Radiance class",
+    "description": "Radiance of the Seas is your epic edge-of-the-map escape. Discover endless ways to seize the day on deck between adventure in port, wine tasting, and world-class dining — you're in for a wild and unforgettable journey.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino Royale", "Broadway-style shows", "Live music", "Comedy shows", "Mini golf", "Stargazing platform"],
+      "recreation": ["Main pool", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "brilliance-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Brilliance of the Seas",
+    "year_built": 2002,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/international/weekend-like-you-mean-it-campaign/brilliance-of-the-seas-south-pacific.jpg",
+    "ship_class": "Radiance class",
+    "description": "Brilliance of the Seas is the ultimate escape for backroads ramblers — distinct cultures to discover ashore and unique experiences onboard. Explore one-of-a-kind sights, sounds, and tastes on this elegant mid-sized vessel.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino Royale", "Broadway-style shows", "Live music", "Comedy shows", "Mini golf", "Stargazing platform"],
+      "recreation": ["Main pool", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "serenade-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Serenade of the Seas",
+    "year_built": 2003,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/serenade/serenade-of-the-seas-alaska-landscape-aerial.jpg",
+    "ship_class": "Radiance class",
+    "description": "Serenade of the Seas offers wild views from the top of the rock climbing wall and delicious dining from around the world. Discover electrifying nightlife that keeps the thrills going long after sunset on this globe-trotting ship.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino Royale", "Broadway-style shows", "Live music", "Comedy shows", "Mini golf", "Stargazing platform"],
+      "recreation": ["Main pool", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "jewel-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Jewel of the Seas",
+    "year_built": 2004,
+    "gross_tonnage": 90090,
+    "passenger_capacity": 2501,
+    "crew": 857,
+    "length_m": 293,
+    "decks": 12,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/jewel-of-the-seas/jewel-of-the-seas-grenada-docked-harbor.jpg",
+    "ship_class": "Radiance class",
+    "description": "Jewel of the Seas delivers some of the world's most desired destinations. Packed with vibrant onboard experiences and dining venues, discover new shores and countless adventures in between on this elegant vessel.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Park Café", "Specialty restaurants (Chops Grille, Giovanni's, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino Royale", "Broadway-style shows", "Live music", "Comedy shows", "Mini golf", "Stargazing platform"],
+      "recreation": ["Main pool", "Solarium adults-only pool", "Hot tubs", "Full spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs", "Rock climbing wall"]
+    }
+  },
+  {
+    "id": "vision-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Vision of the Seas",
+    "year_built": 1998,
+    "gross_tonnage": 78340,
+    "passenger_capacity": 2435,
+    "crew": 765,
+    "length_m": 279,
+    "decks": 11,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/ships/vision/assets/vision-of-the-seas-solarium-pool-deck.jpg",
+    "ship_class": "Vision class",
+    "description": "Award-winning family cruise ship Vision of the Seas provides the perfect blend of beautiful family-friendly cultural destinations, world-class dining, and epic activities for all ages.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Specialty restaurants (Chops Grille, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino", "Theater shows", "Live music", "Karaoke nights", "Trivia & game shows"],
+      "recreation": ["Pool deck", "Solarium adults-only pool", "Hot tubs", "Spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs"]
+    }
+  },
+  {
+    "id": "enchantment-of-the-seas",
+    "cruiseLineId": "royal-caribbean",
+    "name": "Enchantment of the Seas",
+    "year_built": 1997,
+    "gross_tonnage": 82910,
+    "passenger_capacity": 2730,
+    "crew": 840,
+    "length_m": 301,
+    "decks": 11,
+    "image": "https://assets.dm.rccl.com/is/image/RoyalCaribbeanCruises/royal/data/ship/enchantment-of-the-seas/assets/enchantment-of-the-seas-exterior-aerial-view.jpg",
+    "ship_class": "Vision class",
+    "description": "Enchantment of the Seas is the best way to take a few days to relax or play and hit some islands along the way. This lengthened and refurbished ship blends classic Royal Caribbean charm with modern amenities.",
+    "amenities": {
+      "dining": ["Main Dining Room", "Windjammer Café", "Specialty restaurants (Chops Grille, etc.)"],
+      "entertainment": ["Rock climbing wall", "Casino", "Theater shows", "Live music", "Karaoke nights", "Trivia & game shows"],
+      "recreation": ["Pool deck", "Solarium adults-only pool", "Hot tubs", "Spa & salon", "Fitness center", "Sports court", "Jogging track"],
+      "included": ["All meals in Main Dining Room and Windjammer", "Live entertainment and shows", "Access to pools, fitness center, and sports areas", "Kids & teens clubs"]
+    }
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "seabourn-sojourn",
+    "regions": ["Asia", "Indian Ocean", "Arctic & Antarctica", "Pacific Islands"],
+    "homeport": "Singapore",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Sojourn",
+    "year_built": 2010,
+    "gross_tonnage": 32477,
+    "passenger_capacity": 458,
+    "crew": 335,
+    "length_m": 198,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/SEABOURN_SOJOURN_25-7-2025.jpg/1280px-SEABOURN_SOJOURN_25-7-2025.jpg",
+    "ship_class": "Odyssey class",
+    "description": "Seabourn Sojourn is the second of the Odyssey-class ships, delivered by T. Mariotti in Genoa in 2010. Like her sister vessels, she carries just 229 suites — every one with a private verandah — and a crew of 335 for 458 guests, producing the intimate yet attentive atmosphere Seabourn is celebrated for. Her smaller size allows access to boutique ports and tender-only destinations that larger ships simply cannot reach, making her a favourite for Northern Europe, the Norwegian fjords, and exotic itineraries across Asia and the Pacific.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating, no set times)",
+        "Restaurant 2 (innovative tasting menus, included)",
+        "The Colonnade (indoor/outdoor casual brasserie)",
+        "The Patio Grill (poolside outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (cocktail bar with light bites)"
+      ],
+      "entertainment": [
+        "The Grand Salon (main entertainment, shows and performances)",
+        "The Club (evening dancing and live music)",
+        "Casino",
+        "Seabourn Square (social hub, library, boutique, coffee bar)",
+        "Observation Bar (panoramic views and cocktails)",
+        "Seabourn Conversations (guest lectures)",
+        "Enrichment programs and port talks"
+      ],
+      "recreation": [
+        "Water Sports Marina Platform (retractable stern platform)",
+        "Complimentary kayaking, sailing, snorkelling, paddleboarding",
+        "Deck pool and whirlpools",
+        "Spa & Wellness by Elemis",
+        "Fitness centre with ocean views",
+        "Jogging and walking track",
+        "Golf driving net and putting green",
+        "Sun decks and lounging areas"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining venues (no surcharge ever)",
+        "All gratuities",
+        "Complimentary water sports from the Marina",
+        "In-suite bar stocked to personal preferences",
+        "In-suite dining (full menu, 24 hours)",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "seabourn-quest",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean"],
+    "homeport": "Lisbon, Portugal",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Quest",
+    "year_built": 2011,
+    "gross_tonnage": 32477,
+    "passenger_capacity": 458,
+    "crew": 335,
+    "length_m": 198,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Seabourn_Quest_02.JPG/1280px-Seabourn_Quest_02.JPG",
+    "ship_class": "Odyssey class",
+    "description": "Seabourn Quest is the third and final Odyssey-class ship, delivered by T. Mariotti in 2011. She completed Seabourn's trio of intimate 458-guest yachts that redefined ultra-luxury small-ship cruising in the 2010s. With 229 ocean-view suites all featuring private verandahs and a nearly 1:1.4 crew-to-guest ratio, Quest exemplifies the Seabourn ethos: uncommon destinations, extraordinary service, and an onboard atmosphere that feels closer to a private yacht than a cruise ship. She is a popular choice for South America, the Caribbean, and far-flung expedition-style itineraries.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating, no set times)",
+        "Restaurant 2 (innovative tasting menus, included)",
+        "The Colonnade (indoor/outdoor casual brasserie)",
+        "The Patio Grill (poolside outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (cocktail bar with light bites)"
+      ],
+      "entertainment": [
+        "The Grand Salon (main entertainment, shows and performances)",
+        "The Club (evening dancing and live music)",
+        "Casino",
+        "Seabourn Square (social hub, library, boutique, coffee bar)",
+        "Observation Bar (panoramic views and cocktails)",
+        "Seabourn Conversations (guest lectures)",
+        "Enrichment programs and port talks"
+      ],
+      "recreation": [
+        "Water Sports Marina Platform (retractable stern platform)",
+        "Complimentary kayaking, sailing, snorkelling, paddleboarding",
+        "Deck pool and whirlpools",
+        "Spa & Wellness by Elemis",
+        "Fitness centre with ocean views",
+        "Jogging and walking track",
+        "Golf driving net and putting green",
+        "Sun decks and lounging areas"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining venues (no surcharge ever)",
+        "All gratuities",
+        "Complimentary water sports from the Marina",
+        "In-suite bar stocked to personal preferences",
+        "In-suite dining (full menu, 24 hours)",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "seabourn-encore",
+    "regions": ["Asia", "Mediterranean", "Indian Ocean"],
+    "homeport": "Singapore",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Encore",
+    "year_built": 2016,
+    "gross_tonnage": 41865,
+    "passenger_capacity": 604,
+    "crew": 450,
+    "length_m": 210,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Seabourn_Encore_%28ship%2C_2016%29%2C_S%C3%A8te_cf01.jpg/1280px-Seabourn_Encore_%28ship%2C_2016%29%2C_S%C3%A8te_cf01.jpg",
+    "ship_class": "Encore class",
+    "description": "Seabourn Encore debuted in January 2017, built by Fincantieri in Genoa as the first of the Encore-class ships.She expanded on the proven Odyssey-class design with larger suites, more dining venues, and the landmark addition of The Grill by Thomas Keller — a partnership with the celebrated Michelin-starred chef that transformed luxury dining at sea. Carrying just 604 guests with 450 crew, the ratio ensures the signature Seabourn service standard: staff outnumber guests. She was named by Dame Helen Mirren.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating, no set times)",
+        "The Grill by Thomas Keller (signature specialty, included)",
+        "The Colonnade (indoor/outdoor casual brasserie)",
+        "The Patio Grill (poolside outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (cocktail bar with light bites)"
+      ],
+      "entertainment": [
+        "The Grand Salon (main entertainment, Broadway-calibre shows)",
+        "The Club (evening dancing and live music)",
+        "Casino",
+        "Seabourn Square (social hub, library, boutique, coffee bar)",
+        "Observation Bar (panoramic views and cocktails)",
+        "Seabourn Conversations (guest lectures by luminaries)",
+        "Enrichment programs and port talks"
+      ],
+      "recreation": [
+        "Water Sports Marina Platform (retractable stern platform)",
+        "Complimentary kayaking, sailing, snorkelling, paddleboarding",
+        "Deck pool and whirlpools",
+        "Spa & Wellness by Elemis (one of the largest at sea relative to ship size)",
+        "Fitness centre with ocean views",
+        "Jogging and walking track",
+        "Golf driving net and putting green",
+        "Sun decks and lounging areas"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining venues (no surcharge ever)",
+        "All gratuities",
+        "Complimentary water sports from the Marina",
+        "In-suite bar stocked to personal preferences",
+        "In-suite dining (full menu, 24 hours)",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "seabourn-ovation",
+    "regions": ["Northern Europe", "Mediterranean", "South America"],
+    "homeport": "Barcelona, Spain",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Ovation",
+    "year_built": 2018,
+    "gross_tonnage": 41865,
+    "passenger_capacity": 604,
+    "crew": 450,
+    "length_m": 210,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MV_Seabourn_Ovation_in_Portofino%2C_Italy.jpg/1280px-MV_Seabourn_Ovation_in_Portofino%2C_Italy.jpg",
+    "ship_class": "Encore class",
+    "description": "Seabourn Ovation is the sister ship to Seabourn Encore, delivered by T. Mariotti in April 2018. She carries the same elegant Encore-class design with 302 suites — every one with a private verandah — and the same world-class dining programme including The Grill by Thomas Keller. Named by Dame Marianne Faithfull, Ovation sails a wide range of itineraries from the Mediterranean and Northern Europe to Asia and Australia, embodying Seabourn's philosophy of ultra-luxury exploration.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating, no set times)",
+        "The Grill by Thomas Keller (signature specialty, included)",
+        "The Colonnade (indoor/outdoor casual brasserie)",
+        "The Patio Grill (poolside outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (cocktail bar with light bites)"
+      ],
+      "entertainment": [
+        "The Grand Salon (main entertainment, Broadway-calibre shows)",
+        "The Club (evening dancing and live music)",
+        "Casino",
+        "Seabourn Square (social hub, library, boutique, coffee bar)",
+        "Observation Bar (panoramic views and cocktails)",
+        "Seabourn Conversations (guest lectures by luminaries)",
+        "Enrichment programs and port talks"
+      ],
+      "recreation": [
+        "Water Sports Marina Platform (retractable stern platform)",
+        "Complimentary kayaking, sailing, snorkelling, paddleboarding",
+        "Deck pool and whirlpools",
+        "Spa & Wellness by Elemis",
+        "Fitness centre with ocean views",
+        "Jogging and walking track",
+        "Golf driving net and putting green",
+        "Sun decks and lounging areas"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining venues (no surcharge ever)",
+        "All gratuities",
+        "Complimentary water sports from the Marina",
+        "In-suite bar stocked to personal preferences",
+        "In-suite dining (full menu, 24 hours)",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "seabourn-venture",
+    "regions": ["Arctic & Antarctica", "South America", "Northern Europe"],
+    "homeport": "Longyearbyen, Norway",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Venture",
+    "year_built": 2022,
+    "gross_tonnage": 23000,
+    "passenger_capacity": 264,
+    "crew": 250,
+    "length_m": 172,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SEABOURN_VENTURE_01.jpg/1280px-SEABOURN_VENTURE_01.jpg",
+    "ship_class": "Venture class",
+    "description": "Seabourn Venture is the first purpose-built expedition ship in Seabourn's history, delivered by T. Mariotti in 2022. Designed to explore the world's most remote polar and expedition destinations, she carries just 264 guests with nearly a 1:1 crew-to-guest ratio. Her defining feature is two six-person Triton submarines — fully owned and operated by Seabourn and included in the expedition fare — enabling guests to dive beneath Antarctic ice shelves and witness underwater worlds few humans have ever seen. A fleet of 24 Zodiacs and expert expedition teams round out the extraordinary adventure.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "The Colonnade (casual indoor/outdoor dining)",
+        "The Patio Grill (outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (bar with evening snacks)"
+      ],
+      "entertainment": [
+        "Expedition Lounge (daily briefings, lectures, and social hub)",
+        "The Club (evening socialising and drinks)",
+        "Seabourn Square (library and coffee bar)",
+        "Expert expedition team presentations",
+        "Guest lecturers (scientists, historians, photographers, explorers)",
+        "Citizen Science programmes",
+        "Open bridge policy"
+      ],
+      "recreation": [
+        "Two Triton six-person submarines (included in fare)",
+        "24 Zodiac inflatable expedition craft",
+        "Complimentary kayaking and paddleboarding",
+        "Expedition mudroom (gear and equipment storage)",
+        "Spa & Wellness by Elemis",
+        "Fitness centre",
+        "Observation decks (forward and upper)",
+        "Expedition walks and guided shore excursions with expert team"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining (no surcharge)",
+        "All gratuities",
+        "All expedition excursions including Zodiac landings and kayaking",
+        "Submarine dives (included in expedition fare)",
+        "Expedition-grade complimentary weather gear",
+        "In-suite bar stocked to personal preferences",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  },
+  {
+    "id": "seabourn-pursuit",
+    "regions": ["Arctic & Antarctica", "South America", "Northern Europe"],
+    "homeport": "Longyearbyen, Norway",
+    "cruiseLineId": "seabourn",
+    "name": "Seabourn Pursuit",
+    "year_built": 2023,
+    "gross_tonnage": 23000,
+    "passenger_capacity": 264,
+    "crew": 250,
+    "length_m": 172,
+    "decks": 8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Seabourn_Pursuit.jpg/1280px-Seabourn_Pursuit.jpg",
+    "ship_class": "Venture class",
+    "description": "Seabourn Pursuit is the sister ship to Seabourn Venture, delivered by T. Mariotti in 2023, completing Seabourn's ultra-luxury expedition fleet. Like her sister, she carries just 264 guests and is equipped with two Triton submarines, a full complement of Zodiacs, and a team of world-class expedition experts covering biology, glaciology, history, and photography. Her Polar Class 6 hull and dynamic positioning system allow her to venture into remote anchorages and wilderness areas inaccessible to conventional ships, while her interiors maintain the same Seabourn hallmarks of spacious suites, exceptional cuisine, and unmatched personal service.",
+    "amenities": {
+      "dining": [
+        "The Restaurant (main dining, open seating)",
+        "The Colonnade (casual indoor/outdoor dining)",
+        "The Patio Grill (outdoor grilled specialties)",
+        "In-suite dining (24 hours, full menu)",
+        "The Club (bar with evening snacks)"
+      ],
+      "entertainment": [
+        "Expedition Lounge (daily briefings, lectures, and social hub)",
+        "The Club (evening socialising and drinks)",
+        "Seabourn Square (library and coffee bar)",
+        "Expert expedition team presentations",
+        "Guest lecturers (scientists, historians, photographers, explorers)",
+        "Citizen Science programmes",
+        "Open bridge policy"
+      ],
+      "recreation": [
+        "Two Triton six-person submarines (included in fare)",
+        "24 Zodiac inflatable expedition craft",
+        "Complimentary kayaking and paddleboarding",
+        "Expedition mudroom (gear and equipment storage)",
+        "Spa & Wellness by Elemis",
+        "Fitness centre",
+        "Observation decks (forward and upper)",
+        "Expedition walks and guided shore excursions with expert team"
+      ],
+      "included": [
+        "All fine wines, champagne, spirits and non-alcoholic beverages",
+        "All specialty dining (no surcharge)",
+        "All gratuities",
+        "All expedition excursions including Zodiac landings and kayaking",
+        "Submarine dives (included in expedition fare)",
+        "Expedition-grade complimentary weather gear",
+        "In-suite bar stocked to personal preferences",
+        "Unlimited Wi-Fi"
+      ]
+    }
+  }
+]

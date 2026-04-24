@@ -1,0 +1,397 @@
+[
+  {
+    "id": "po-aurora",
+    "regions": ["Northern Europe", "Mediterranean", "South America", "Transatlantic"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Aurora",
+    "year_built": 2000,
+    "gross_tonnage": 76152,
+    "passenger_capacity": 1878,
+    "crew": 850,
+    "length_m": 270,
+    "decks": 11,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aurora_departing_Tallinn_29_May_2016_%28cropped%29.jpg/1280px-Aurora_departing_Tallinn_29_May_2016_%28cropped%29.jpg",
+    "ship_class": "Aurora class",
+    "description": "MV Aurora is one of P&O Cruises' most beloved ships, named after the Aurora Australis and the Roman goddess of the dawn. Entering service in 2000, she is an adults-preferred ship — perfect for those seeking a more refined, relaxed atmosphere. Aurora holds the prestigious Golden Cockerel trophy, awarded to the fastest ship in the P&O fleet, having reached 25.7 knots in April 2019. She is particularly popular for her long World Cruises.",
+    "amenities": {
+      "dining": [
+        "Bay Tree Restaurant (main dining, included)",
+        "Horizon Buffet (included)",
+        "Sindhu (Indian specialty, fee applies)",
+        "The Glass House (wine bar and small plates, fee applies)",
+        "Café Bordeaux (patisserie)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Curzon Theatre (main showroom)",
+        "Masquerade Nightclub",
+        "Crow's Nest (observation bar)",
+        "Rising Sun (pub)",
+        "Live music throughout ship",
+        "Cinema"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "Pools (indoor and outdoor)",
+        "Whirlpools",
+        "Jogging track",
+        "Library",
+        "Card room"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-arcadia",
+    "regions": ["Northern Europe", "Mediterranean", "South America", "Indian Ocean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Arcadia",
+    "year_built": 2005,
+    "gross_tonnage": 84342,
+    "passenger_capacity": 1952,
+    "crew": 869,
+    "length_m": 285,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Arcadia_departing_Tallinn_Port_of_Tallinn_27_June_2017.jpg/1280px-Arcadia_departing_Tallinn_Port_of_Tallinn_27_June_2017.jpg",
+    "ship_class": "Arcadia class",
+    "description": "MV Arcadia is an adults-only ship named after the idyllic region of Greece symbolising pastoral paradise. She was originally destined for Holland America Line and then Cunard before being reallocated to P&O Cruises during construction. Arcadia has a sophisticated, intimate atmosphere and specialises in longer voyages including World Cruises and Grand Voyages.",
+    "amenities": {
+      "dining": [
+        "Meridian Restaurant (main dining, included)",
+        "Horizon Buffet (included)",
+        "Ocean Grill by Marco Pierre White (specialty, fee applies)",
+        "The Glass House (wine bar and small plates, fee applies)",
+        "The Brasserie (casual dining)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Palladium Theatre (main showroom)",
+        "Club Zara (nightclub)",
+        "Crow's Nest (observation bar)",
+        "Intermezzo Piano Bar",
+        "Live music throughout ship",
+        "Cinema"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "Outdoor pools",
+        "Whirlpools",
+        "Jogging track",
+        "Library",
+        "Card room"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-ventura",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Ventura",
+    "year_built": 2008,
+    "gross_tonnage": 116017,
+    "passenger_capacity": 3092,
+    "crew": 1200,
+    "length_m": 290,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ventura_at_Funchal_2_2016_%28cropped%29.JPG/1280px-Ventura_at_Funchal_2_2016_%28cropped%29.JPG",
+    "ship_class": "Ventura class",
+    "description": "MV Ventura was P&O Cruises' largest ship at the time of her launch in 2008, heralding a new era of larger ships for the British market. Named after the Ventura County in California and the concept of adventure, she introduced a wider variety of dining venues and entertainment spaces than any previous P&O ship. Ventura welcomes families and adults alike and primarily sails the Caribbean and Mediterranean.",
+    "amenities": {
+      "dining": [
+        "The Saffron / Bay Tree (main dining rooms, included)",
+        "Horizon Buffet (included)",
+        "Sindhu (Indian specialty, fee applies)",
+        "The Glass House (wine bar, fee applies)",
+        "Beach House (casual American, fee applies)",
+        "Epicurean (fine dining, fee applies)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Headliners Theatre (West End-style shows)",
+        "The Live Lounge (live music venue)",
+        "Metropolis Bar",
+        "Havana Club (nightclub)",
+        "Malabar (cocktail bar)",
+        "Big Screen (outdoor cinema)",
+        "Casino"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "Pools (including family pool)",
+        "Whirlpools",
+        "Jogging track",
+        "Sports court",
+        "Splashpad (children's water play)",
+        "Children's clubs (Reef, The Jungle, H2O, Zest)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-azura",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Azura",
+    "year_built": 2010,
+    "gross_tonnage": 115055,
+    "passenger_capacity": 3092,
+    "crew": 1200,
+    "length_m": 290,
+    "decks": 15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/9424883_Azura_2010.jpg/1280px-9424883_Azura_2010.jpg",
+    "ship_class": "Ventura class",
+    "description": "MS Azura is the sister ship of Ventura and the second of P&O Cruises' large-format ships. Named after the vivid blue colour of the sky and sea, Azura shares the same versatile layout as Ventura with a mix of family-friendly and adults-only spaces. She is a year-round Caribbean ship, sailing from Southampton and Barbados on fly-cruises.",
+    "amenities": {
+      "dining": [
+        "The Meridian / Peninsular (main dining rooms, included)",
+        "Horizon Buffet (included)",
+        "Sindhu (Indian specialty, fee applies)",
+        "The Glass House (wine bar, fee applies)",
+        "Beach House (casual American, fee applies)",
+        "Epicurean (fine dining, fee applies)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Headliners Theatre (West End-style shows)",
+        "The Live Lounge (live music venue)",
+        "MedioBar",
+        "Havana Club (nightclub)",
+        "Malabar (cocktail bar)",
+        "Big Screen (outdoor cinema)",
+        "Casino"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "Pools (including family pool)",
+        "Whirlpools",
+        "Jogging track",
+        "Sports court",
+        "Splashpad (children's water play)",
+        "Children's clubs (Reef, The Jungle, H2O, Zest)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-britannia",
+    "regions": ["Caribbean", "Mediterranean", "Northern Europe"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Britannia",
+    "year_built": 2015,
+    "gross_tonnage": 143730,
+    "passenger_capacity": 3647,
+    "crew": 1350,
+    "length_m": 330,
+    "decks": 18,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Britannia_arrival-1.jpg/1280px-Britannia_arrival-1.jpg",
+    "ship_class": "Britannia class",
+    "description": "MV Britannia is the largest ship ever built specifically for the British market at the time of her launch in 2015, and serves as the flagship of P&O Cruises. Named after the personification of Britain, she was christened by HM Queen Elizabeth II. Britannia is distinctively British in character — from her Union Jack livery to her Limelight Club supper venue — and is designed to give British guests everything they love about their country, at sea.",
+    "amenities": {
+      "dining": [
+        "The Meridian, Peninsular & Oriental (three MDRs, included)",
+        "Horizon Buffet (included)",
+        "The Cookery Club (cooking demonstrations and dinner, fee applies)",
+        "Epicurean (fine dining, fee applies)",
+        "Sindhu (Indian specialty, fee applies)",
+        "The Glass House (wine bar, fee applies)",
+        "Limelight Club (supper club with live entertainment, fee applies)",
+        "Beach House (casual American, fee applies)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Headliners Theatre (West End-style productions)",
+        "The Live Lounge (live music)",
+        "Limelight Club (supper club)",
+        "Brodie's (British pub)",
+        "Crow's Nest (observation bar)",
+        "Planet Bar (nightclub)",
+        "Big Screen (outdoor cinema)",
+        "Casino"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "The Retreat (adults-only pool deck)",
+        "Main pool and family pool area",
+        "Whirlpools",
+        "Jogging track",
+        "Sports court",
+        "Children's clubs (Reef, The Jungle, H2O, Zest)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-iona",
+    "regions": ["Northern Europe", "Mediterranean", "Caribbean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Iona",
+    "year_built": 2020,
+    "gross_tonnage": 184089,
+    "passenger_capacity": 5200,
+    "crew": 1800,
+    "length_m": 344,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/P%26O_Iona%2C_Cadiz_Spain_%2852534525715%29.jpg/1280px-P%26O_Iona%2C_Cadiz_Spain_%2852534525715%29.jpg",
+    "ship_class": "Excel class",
+    "description": "MS Iona is the joint-largest ship ever built for the British market, entering service in 2021 after her maiden voyage was delayed by the COVID-19 pandemic. She is the first ship built for the British cruise market powered by liquefied natural gas (LNG), significantly reducing her environmental footprint. Named after the sacred Scottish island, Iona is home to the spectacular SkyDome — a breathtaking glass dome spanning Deck 18 that can be used both indoors and outdoors.",
+    "amenities": {
+      "dining": [
+        "The Meridian, Peninsular & Oriental (three MDRs, included)",
+        "Horizon Buffet (included)",
+        "SkyGrill (al fresco poolside grill, included)",
+        "Olive Grove (Mediterranean, fee applies)",
+        "The Glass House (wine bar, fee applies)",
+        "Sindhu (Indian specialty, fee applies)",
+        "Epicurean (fine dining, fee applies)",
+        "Limelight Club (supper club, fee applies)",
+        "Beach House (casual American, fee applies)",
+        "Keel & Cow (gastropub)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Headliners Theatre (West End-style productions)",
+        "SkyDome (spectacular glass dome venue)",
+        "The 710 Club (jazz bar)",
+        "The Live Lounge (live music)",
+        "Limelight Club (supper club)",
+        "Brodie's (British pub)",
+        "Crow's Nest (observation bar)",
+        "Studio (nightclub)",
+        "Big Screen (outdoor cinema)",
+        "Casino"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "The Retreat (adults-only pool deck)",
+        "Main pool and family pool",
+        "Whirlpools",
+        "SkyDome activities",
+        "Jogging track",
+        "Sports court",
+        "Adventure Golf",
+        "Children's clubs (Reef, The Jungle, H2O, Zest)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "SkyGrill",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "po-arvia",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "po-cruises",
+    "name": "Arvia",
+    "year_built": 2022,
+    "gross_tonnage": 185581,
+    "passenger_capacity": 5200,
+    "crew": 1800,
+    "length_m": 344,
+    "decks": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MS_Arvia.jpg/1280px-MS_Arvia.jpg",
+    "ship_class": "Excel class",
+    "description": "MS Arvia is the sister ship of Iona and the current flagship of P&O Cruises, entering service in December 2022. Also LNG-powered, she is the joint-largest ship ever built for the British market. Arvia (from the Latin for 'field' or 'farmland') is designed around a warm-weather and sun-seeking theme, and is deployed year-round in the Caribbean and Mediterranean. She features a SkyDome, expanded outdoor deck space, and all the dining and entertainment innovations introduced on Iona.",
+    "amenities": {
+      "dining": [
+        "The Meridian, Peninsular & Oriental (three MDRs, included)",
+        "Horizon Buffet (included)",
+        "SkyGrill (al fresco poolside grill, included)",
+        "Olive Grove (Mediterranean, fee applies)",
+        "The Glass House (wine bar, fee applies)",
+        "Sindhu (Indian specialty, fee applies)",
+        "Epicurean (fine dining, fee applies)",
+        "Limelight Club (supper club, fee applies)",
+        "Beach House (casual American, fee applies)",
+        "Keel & Cow (gastropub)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Headliners Theatre (West End-style productions)",
+        "SkyDome (spectacular glass dome venue)",
+        "The 710 Club (jazz bar)",
+        "The Live Lounge (live music)",
+        "Limelight Club (supper club)",
+        "Brodie's (British pub)",
+        "Crow's Nest (observation bar)",
+        "Studio (nightclub)",
+        "Big Screen (outdoor cinema)",
+        "Casino"
+      ],
+      "recreation": [
+        "Oasis Spa (Elemis products)",
+        "Fitness centre",
+        "The Retreat (adults-only pool deck)",
+        "Main pool and family pool",
+        "Whirlpools",
+        "SkyDome activities",
+        "Jogging track",
+        "Sports court",
+        "Adventure Golf",
+        "Children's clubs (Reef, The Jungle, H2O, Zest)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Horizon Buffet",
+        "SkyGrill",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness centre access",
+        "Port taxes and fees"
+      ]
+    }
+  }
+]

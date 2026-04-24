@@ -1,0 +1,612 @@
+[
+  {
+    "id": "ms-volendam",
+    "regions": ["Caribbean", "South America"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Volendam",
+    "year_built": 1999,
+    "gross_tonnage": 61214,
+    "passenger_capacity": 1432,
+    "crew": 647,
+    "length_m": 237,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kobe_MS_Volendam01n4272.jpg/1280px-Kobe_MS_Volendam01n4272.jpg",
+    "ship_class": "R class",
+    "description": "MS Volendam is one of Holland America Line's intimate R-class ships, offering a classic mid-size cruising experience. Named after the historic Dutch fishing village, she carries fewer than 1,500 guests and is celebrated for her rich art collection, traditional Dutch décor, and warm personal service. Her smaller size allows her to visit ports inaccessible to larger ships, making her a favourite for Alaska and Mediterranean itineraries.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Showroom at Sea (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-zaandam",
+    "regions": ["Alaska", "South America", "Pacific Islands"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Zaandam",
+    "year_built": 2000,
+    "gross_tonnage": 61396,
+    "passenger_capacity": 1432,
+    "crew": 647,
+    "length_m": 237,
+    "decks": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MS_Zaandam.JPG/1280px-MS_Zaandam.JPG",
+    "ship_class": "R class",
+    "description": "MS Zaandam is the sister ship of Volendam, sharing the same intimate R-class design and rich art collection. She became globally known during the COVID-19 pandemic when she navigated for weeks seeking a port to disembark ill passengers in April 2020. Today she sails a wide range of itineraries and continues to offer the warm, personalised Holland America experience her guests love.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Showroom at Sea (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-zuiderdam",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Zuiderdam",
+    "year_built": 2002,
+    "gross_tonnage": 82305,
+    "passenger_capacity": 1916,
+    "crew": 800,
+    "length_m": 286,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/20080921-Piraeus-MS_Zuiderdam.JPG/1280px-20080921-Piraeus-MS_Zuiderdam.JPG",
+    "ship_class": "Vista class",
+    "description": "MS Zuiderdam was the first of Holland America's Vista-class ships, introducing a larger and more feature-rich design. Her name means \"South Dam\" in Dutch, referring to Rotterdam's historic dam. As the pioneering Vista-class vessel, Zuiderdam set the template for a generation of HAL ships and remains a popular choice for Caribbean and Panama Canal voyages.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Vista Lounge (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-oosterdam",
+    "regions": ["Alaska", "Caribbean"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "holland-america",
+    "name": "MS Oosterdam",
+    "year_built": 2003,
+    "gross_tonnage": 82305,
+    "passenger_capacity": 1916,
+    "crew": 800,
+    "length_m": 286,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MS_Oosterdam%2C_Princes_Wharf%2C_2013_%28cropped%29.JPG/1280px-MS_Oosterdam%2C_Princes_Wharf%2C_2013_%28cropped%29.JPG",
+    "ship_class": "Vista class",
+    "description": "MS Oosterdam (\"East Dam\") is the second of the Vista-class ships and a favourite for Pacific Northwest and Alaska sailings. Her elegant Dutch interiors, world-class art collection, and signature HAL amenities make her a premier choice for travellers seeking a refined yet lively cruise experience.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Vista Lounge (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-westerdam",
+    "regions": ["Alaska", "Asia"],
+    "homeport": "Seattle, WA",
+    "cruiseLineId": "holland-america",
+    "name": "MS Westerdam",
+    "year_built": 2004,
+    "gross_tonnage": 82305,
+    "passenger_capacity": 1916,
+    "crew": 800,
+    "length_m": 286,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Westerdam_Nov_24_2015.png/1280px-Westerdam_Nov_24_2015.png",
+    "ship_class": "Vista class",
+    "description": "MS Westerdam (\"West Dam\") is the third Vista-class ship and regularly sails Alaska and Asia-Pacific itineraries. Continuing the Dutch naming tradition, she offers guests the hallmark Holland America blend of warm, attentive service, enrichment programs, and a curated fine art collection displayed throughout her public spaces.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Vista Lounge (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-noordam",
+    "regions": ["Mediterranean", "Caribbean", "Northern Europe"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Noordam",
+    "year_built": 2006,
+    "gross_tonnage": 82318,
+    "passenger_capacity": 1924,
+    "crew": 800,
+    "length_m": 286,
+    "decks": 13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Noordam.jpg/1280px-Noordam.jpg",
+    "ship_class": "Vista class",
+    "description": "MS Noordam (\"North Dam\") is the fourth and final Vista-class ship, completing the compass rose quartet. She was the first HAL ship to sail to Europe after the 9/11 terror attacks and has since become a popular choice for Mediterranean and Northern European voyages. Slightly larger than her three sisters, Noordam benefits from design refinements introduced during construction.",
+    "amenities": {
+      "dining": [
+        "Rotterdam Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "Vista Lounge (main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-eurodam",
+    "regions": ["Mediterranean", "Caribbean"],
+    "homeport": "Rotterdam, Netherlands",
+    "cruiseLineId": "holland-america",
+    "name": "MS Eurodam",
+    "year_built": 2008,
+    "gross_tonnage": 86273,
+    "passenger_capacity": 2104,
+    "crew": 929,
+    "length_m": 286,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Eurodam.JPG/1280px-Eurodam.JPG",
+    "ship_class": "Signature class",
+    "description": "MS Eurodam is the first of Holland America's Signature class, an enlarged Vista design that introduced new dining and entertainment venues. She was the first HAL ship to feature the Tamarind Asian restaurant and the new Club Orange programme. Eurodam's name pays homage to Europe, and she regularly sails the Mediterranean, Northern Europe, and Caribbean.",
+    "amenities": {
+      "dining": [
+        "Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Tamarind (Asian fusion specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "World Stage (panoramic main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-nieuw-amsterdam",
+    "regions": ["Caribbean", "Alaska"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Nieuw Amsterdam",
+    "year_built": 2010,
+    "gross_tonnage": 86700,
+    "passenger_capacity": 2106,
+    "crew": 929,
+    "length_m": 286,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nieuw_Amsterdam_Jan_28_2025.jpg/1280px-Nieuw_Amsterdam_Jan_28_2025.jpg",
+    "ship_class": "Signature class",
+    "description": "MS Nieuw Amsterdam is the second Signature-class ship, named after the Dutch colonial settlement that became New York City — a name with deep meaning for Holland America given the line's historic transatlantic ties. She sails the Caribbean and Panama Canal year-round. The ship is decorated with artwork and memorabilia celebrating the history of the Dutch settlement and HAL's own storied past.",
+    "amenities": {
+      "dining": [
+        "Dining Room (main, two-level, included)",
+        "Lido Restaurant (buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Tamarind (Asian fusion specialty, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "World Stage (panoramic main theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Restaurant",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-koningsdam",
+    "regions": ["Caribbean", "Alaska", "Mediterranean"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Koningsdam",
+    "year_built": 2016,
+    "gross_tonnage": 99863,
+    "passenger_capacity": 2650,
+    "crew": 1036,
+    "length_m": 297,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Koningsdam_%28ship%2C_2016%29_004.jpg/1280px-Koningsdam_%28ship%2C_2016%29_004.jpg",
+    "ship_class": "Pinnacle class",
+    "description": "MS Koningsdam is the first and flagship ship of Holland America's Pinnacle class — the line's largest ships ever built. Named in honour of King Willem-Alexander of the Netherlands, she introduced a new era of design inspired by music. The World Stage, a 270-degree LED-wrapped theatre unlike anything at sea at the time of her launch, became an instant landmark. Koningsdam sails the Caribbean, Europe, and Alaska.",
+    "amenities": {
+      "dining": [
+        "Dining Room (main, two-level, included)",
+        "Lido Market (revamped buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Tamarind (Asian fusion specialty, fee applies)",
+        "Rudi's Sel de Mer (French seafood, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "World Stage (270° LED panoramic theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Rolling Stone Rock Room (live rock music)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging/running track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Market",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-nieuw-statendam",
+    "regions": ["Caribbean", "Alaska", "Mediterranean"],
+    "homeport": "Fort Lauderdale, FL",
+    "cruiseLineId": "holland-america",
+    "name": "MS Nieuw Statendam",
+    "year_built": 2018,
+    "gross_tonnage": 99863,
+    "passenger_capacity": 2650,
+    "crew": 1036,
+    "length_m": 297,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NIEUW_STATENDAM_%2849895575701%29.jpg/1280px-NIEUW_STATENDAM_%2849895575701%29.jpg",
+    "ship_class": "Pinnacle class",
+    "description": "MS Nieuw Statendam is the second Pinnacle-class ship, continuing Holland America's tradition of honoring the classic ocean liner Statendam. While sharing the ground-breaking design of Koningsdam, she introduced subtle refinements and a slightly expanded culinary programme. Named after the Dutch Statendam lineage, she is a favourite on Mediterranean and Caribbean voyages.",
+    "amenities": {
+      "dining": [
+        "Dining Room (main, two-level, included)",
+        "Lido Market (revamped buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Tamarind (Asian fusion specialty, fee applies)",
+        "Rudi's Sel de Mer (French seafood, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "World Stage (270° LED panoramic theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Rolling Stone Rock Room (live rock music)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging/running track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Market",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  },
+  {
+    "id": "ms-rotterdam-vii",
+    "regions": ["Mediterranean", "Northern Europe", "Caribbean", "Transatlantic"],
+    "homeport": "Rotterdam, Netherlands",
+    "cruiseLineId": "holland-america",
+    "name": "MS Rotterdam",
+    "year_built": 2021,
+    "gross_tonnage": 99863,
+    "passenger_capacity": 2650,
+    "crew": 1036,
+    "length_m": 297,
+    "decks": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MS_Rotterdam_in_Rotterdam_2021-10-14.jpg/1280px-MS_Rotterdam_in_Rotterdam_2021-10-14.jpg",
+    "ship_class": "Pinnacle class",
+    "description": "MS Rotterdam — the seventh ship to bear that legendary name — is Holland America Line's current flagship. She entered service in 2021 and embodies the best of everything HAL has learned over 150 years at sea. Named after the Dutch city where the company was founded, Rotterdam VII made a ceremonial visit to the city of Rotterdam on her inaugural voyage. With refined Pinnacle-class features and a stunning art collection, she represents the pinnacle of Holland America's heritage.",
+    "amenities": {
+      "dining": [
+        "Dining Room (main, two-level, included)",
+        "Lido Market (revamped buffet, included)",
+        "Pinnacle Grill (specialty, fee applies)",
+        "Canaletto (Italian specialty, fee applies)",
+        "Tamarind (Asian fusion specialty, fee applies)",
+        "Rudi's Sel de Mer (French seafood, fee applies)",
+        "Dive-In (poolside burgers, included)",
+        "Explorations Café (coffee bar)",
+        "24-hour room service (included)"
+      ],
+      "entertainment": [
+        "World Stage (270° LED panoramic theater)",
+        "Lincoln Center Stage (live chamber music)",
+        "BB King's Blues Club (live blues)",
+        "Billboard Onboard (dueling pianos)",
+        "Rolling Stone Rock Room (live rock music)",
+        "Half Time Sports Bar",
+        "Casino",
+        "Library & Explorations Café"
+      ],
+      "recreation": [
+        "Greenhouse Spa & Salon",
+        "Fitness center",
+        "Lido pool (retractable roof)",
+        "Outdoor pool",
+        "Whirlpools",
+        "Jogging/running track",
+        "Basketball court",
+        "Extensive art collection",
+        "Half Moon Cay private island access (select itineraries)"
+      ],
+      "included": [
+        "Main Dining Room meals",
+        "Lido Market",
+        "Room service (basic menu)",
+        "All onboard entertainment",
+        "Fitness center access",
+        "Port taxes and fees"
+      ]
+    }
+  }
+]

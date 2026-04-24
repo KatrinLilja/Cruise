@@ -1,0 +1,362 @@
+[
+  {
+    "id": "msc-world-europa",
+    "regions": ["Middle East", "Mediterranean", "Caribbean"],
+    "homeport": "Dubai, UAE",
+    "cruiseLineId": "msc",
+    "name": "MSC World Europa",
+    "year_built": 2022,
+    "gross_tonnage": 215863,
+    "passenger_capacity": 6762,
+    "crew": 2138,
+    "length_m": 331,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/eu_miniature.png",
+    "ship_class": "World class",
+    "description": "MSC World Europa is MSC's largest ship and one of the most environmentally advanced cruise ships in the world, powered by liquefied natural gas (LNG). It debuted at the 2022 FIFA World Cup in Qatar and features a stunning LED dome, the longest slide at sea, and a Mediterranean Village.",
+    "amenities": {
+      "dining": [
+        "La Palmeraie main restaurant",
+        "Marketplace Buffet",
+        "Mediterranean Village (outdoor dining)",
+        "Hola! Tacos & Cantina",
+        "Kaito Sushi Bar (specialty)",
+        "SALT Kitchen (specialty)",
+        "East Restaurant (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "LED dome (largest at sea)",
+        "Aqua Park (longest water slide at sea)",
+        "F1 Simulator",
+        "XD Cinema 4D",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Sports Bar",
+        "Live music venues",
+        "MSC Yacht Club private lounge"
+      ],
+      "recreation": [
+        "5 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-seashore",
+    "regions": ["Mediterranean", "Caribbean"],
+    "homeport": "Genoa, Italy",
+    "cruiseLineId": "msc",
+    "name": "MSC Seashore",
+    "year_built": 2021,
+    "gross_tonnage": 169400,
+    "passenger_capacity": 5877,
+    "crew": 1648,
+    "length_m": 339,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/seashore/sh_miniature_mobile.jpg",
+    "ship_class": "Seaside EVO class",
+    "description": "MSC Seashore is the flagship of MSC's Seaside EVO class, inspired by the brand's iconic Seaside design but stretched and enhanced. It features expanded outdoor promenades, a unique infinity bridge connecting the ship to the sea, and MSC's largest water park.",
+    "amenities": {
+      "dining": [
+        "La Palmeraie main restaurant",
+        "Marketplace Buffet",
+        "The Seafood Bar",
+        "Hola! Tacos & Cantina",
+        "Kaito Sushi Bar (specialty)",
+        "SALT Kitchen (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "Aqua Park (Cliffhanger slide, Waterfall slide, Twister slide)",
+        "Infinity Bridge connecting ship to sea",
+        "XD Cinema 4D",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-grandiosa",
+    "regions": ["Mediterranean", "Northern Europe"],
+    "homeport": "Genoa, Italy",
+    "cruiseLineId": "msc",
+    "name": "MSC Grandiosa",
+    "year_built": 2019,
+    "gross_tonnage": 181541,
+    "passenger_capacity": 6334,
+    "crew": 1704,
+    "length_m": 331,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/gr_miniature.png",
+    "ship_class": "Meraviglia Plus class",
+    "description": "MSC Grandiosa is the first Meraviglia Plus class ship. Longer than the original Meraviglia class, it features an 80-meter LED sky dome that creates stunning visual shows, the largest duty-free promenade at sea, and Cirque du Soleil at Sea performances in a purpose-built venue.",
+    "amenities": {
+      "dining": [
+        "Manhattan main restaurant",
+        "Marketplace Buffet",
+        "Kaito Sushi Bar (specialty)",
+        "East Restaurant (specialty)",
+        "Butcher's Cut Steakhouse (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "80-meter LED sky dome with light shows",
+        "Cirque du Soleil at Sea (dedicated theater)",
+        "XD Cinema 4D",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues",
+        "Bowling alley"
+      ],
+      "recreation": [
+        "4 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-virtuosa",
+    "regions": ["Northern Europe", "Caribbean", "Mediterranean"],
+    "homeport": "Southampton, UK",
+    "cruiseLineId": "msc",
+    "name": "MSC Virtuosa",
+    "year_built": 2021,
+    "gross_tonnage": 181541,
+    "passenger_capacity": 6334,
+    "crew": 1704,
+    "length_m": 331,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/virtuosa/silhouette/vi_miniature_mobile.jpg",
+    "ship_class": "Meraviglia Plus class",
+    "description": "MSC Virtuosa is the second Meraviglia Plus class ship. It made history in 2021 as the first cruise ship to deploy an AI-powered robotic bartender named Rob. The ship also features a unique MSC Yacht Club private enclave and the same Cirque du Soleil at Sea entertainment as its sister ship MSC Grandiosa.",
+    "amenities": {
+      "dining": [
+        "Manhattan main restaurant",
+        "Marketplace Buffet",
+        "Kaito Sushi Bar (specialty)",
+        "East Restaurant (specialty)",
+        "Butcher's Cut Steakhouse (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "80-meter LED sky dome with light shows",
+        "Cirque du Soleil at Sea (dedicated theater)",
+        "Rob the AI robotic bartender",
+        "XD Cinema 4D",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues",
+        "Bowling alley"
+      ],
+      "recreation": [
+        "4 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-meraviglia",
+    "regions": ["Caribbean", "Mediterranean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "msc",
+    "name": "MSC Meraviglia",
+    "year_built": 2017,
+    "gross_tonnage": 167600,
+    "passenger_capacity": 5714,
+    "crew": 1536,
+    "length_m": 315,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/mr__miniature.png",
+    "ship_class": "Meraviglia class",
+    "description": "MSC Meraviglia introduced the Meraviglia class in 2017 and set a new design standard for MSC. The ship features a 93-meter LED dome in the main promenade — one of the most recognizable features at sea — along with the first bowling alley on an MSC ship and an XD Cinema.",
+    "amenities": {
+      "dining": [
+        "Manhattan main restaurant",
+        "Marketplace Buffet",
+        "Kaito Sushi Bar (specialty)",
+        "East Restaurant (specialty)",
+        "Butcher's Cut Steakhouse (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "93-meter LED promenade dome with light shows",
+        "XD Cinema 4D",
+        "Bowling alley (first on an MSC ship)",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-bellissima",
+    "regions": ["Asia", "Mediterranean"],
+    "homeport": "Shanghai, China",
+    "cruiseLineId": "msc",
+    "name": "MSC Bellissima",
+    "year_built": 2019,
+    "gross_tonnage": 167600,
+    "passenger_capacity": 5686,
+    "crew": 1536,
+    "length_m": 315,
+    "decks": 19,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet-page/bellissima_miniature.png",
+    "ship_class": "Meraviglia class",
+    "description": "MSC Bellissima launched in 2019 as the second Meraviglia-class ship. It debuted ZOE — an AI-powered virtual personal assistant available in every cabin — a world first in the cruise industry. The ship also features an updated version of the stunning LED promenade dome and expanded dining options.",
+    "amenities": {
+      "dining": [
+        "Manhattan main restaurant",
+        "Marketplace Buffet",
+        "Kaito Sushi Bar (specialty)",
+        "East Restaurant (specialty)",
+        "Butcher's Cut Steakhouse (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "93-meter LED promenade dome with light shows",
+        "ZOE AI virtual assistant in every cabin",
+        "XD Cinema 4D",
+        "Bowling alley",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  },
+  {
+    "id": "msc-seascape",
+    "regions": ["Caribbean"],
+    "homeport": "Miami, FL",
+    "cruiseLineId": "msc",
+    "name": "MSC Seascape",
+    "year_built": 2022,
+    "gross_tonnage": 169400,
+    "passenger_capacity": 5877,
+    "crew": 1648,
+    "length_m": 339,
+    "decks": 22,
+    "image": "https://www.msccruises.com/int/-/media/global-contents/ships/fleet/seascape/sc_miniature_mobile.jpg",
+    "ship_class": "Seaside EVO class",
+    "description": "MSC Seascape is the second Seaside EVO class ship and a sister vessel to MSC Seashore. Deployed year-round in Miami, it is purpose-built for Caribbean cruising. It features the Cliffhanger roller coaster-style waterslide that extends 40 feet beyond the edge of the ship, a new Aft Pool area, and expanded family entertainment.",
+    "amenities": {
+      "dining": [
+        "La Palmeraie main restaurant",
+        "Marketplace Buffet",
+        "The Seafood Bar",
+        "Hola! Tacos & Cantina",
+        "Kaito Sushi Bar (specialty)",
+        "SALT Kitchen (specialty)",
+        "MSC Yacht Club Restaurant (suite guests)"
+      ],
+      "entertainment": [
+        "Aqua Park (Cliffhanger roller-coaster slide extending beyond ship's hull)",
+        "Infinity Bridge connecting ship to sea",
+        "XD Cinema 4D",
+        "Theater with Broadway-style shows",
+        "Casino",
+        "Top Sail Lounge (Yacht Club)",
+        "Live music venues"
+      ],
+      "recreation": [
+        "4 pools including new Aft Pool area",
+        "Full-service spa (MSC Aurea Spa)",
+        "Fitness center",
+        "Sports court",
+        "Jogging track",
+        "Kids waterpark"
+      ],
+      "included": [
+        "All meals in main restaurant and Marketplace Buffet",
+        "Live entertainment and theater shows",
+        "Kids club (Doremi at MSC)",
+        "Access to pools and fitness center",
+        "Aqua Park water slides"
+      ]
+    }
+  }
+]
